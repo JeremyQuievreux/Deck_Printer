@@ -74,7 +74,14 @@ export default {
             const col = (j - i) % 3; // 3 cartes par colonne
             const x = marginLeft + col * (cardWidth + horizontalSpacing); // Position x de la carte
             const y = marginTop + row * (cardHeight + verticalSpacing); // Position y de la carte
-            doc.addImage(card.pic_url, 'PNG', x, y, cardWidth, cardHeight);
+            // Fetch de l'image et conversion en blob
+            const blob = await this.fetchImage(card.pic_url);
+
+            // Conversion du blob en URL d'image
+            const imgData = URL.createObjectURL(blob);
+
+            // Ajout de l'image au PDF
+            doc.addImage(imgData, 'PNG', x, y, cardWidth, cardHeight);
           }
         }
         pageNumber++;
@@ -82,6 +89,11 @@ export default {
 
       // Enregistrement et téléchargement du PDF
       doc.save('cartes_pokemon.pdf');
+    },
+    async fetchImage(url) {
+      const response = await fetch(url);
+      const blob = await response.blob();
+      return blob;
     }
   }
 }
