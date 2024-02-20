@@ -12,54 +12,46 @@ export const cards = [
   {
     id: "001",
     name: "Sierra & Oddball",
-    pic_url: "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/7e5b29374278b12806fac1b987fc64b8.jpg",
+    pic_url: image001,
   },
   {
     id: "002",
     name: "Treyst & Rossum",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_02/JPG/7e5b29374278b12806fac1b987fc64b8.jpg",
+    pic_url: image002,
   },
   {
     id: "003",
     name: "Elementaire de Kélon C",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/d1ab7926496554e968bf3609d0a2cdb9.jpg",
+    pic_url: image003,
   },
   {
     id: "004",
     name: "Elementaire de Kélon R",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/fc40643ff847abc698aa446f97ed5625.jpg",
+    pic_url: image004,
   },
   {
     id: "005",
     name: "Elementaire de Kélon F",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/JPG/9295458f656a6e7ca9bd94a66f70c182.jpg",
+    pic_url: image005,
   },
   {
     id: "006",
     name: "Mécanicienne de la Fonderie C",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/JPG/ba7cab9db2e76ff2740b522a56b43604.jpg",
+    pic_url: image006,
   },
   {
     id: "007",
     name: "Mécanicienne de la Fonderie R",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/JPG/2618480af017118dd8e59c033cfefa93.jpg",
+    pic_url: image007,
   },
   {
     id: "008",
     name: "Mécanicienne de la Fonderie F",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/JPG/9b5204c6ccd1f147022dfc26dc12fb6a.jpg",
+    pic_url: image008,
   },
   {
     id: "009",
     name: "Récupérateur Axiom",
-    pic_url:
-      "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_08/JPG/712714b01813f326b256aa70530bccfb.jpg",
+    pic_url: image009,
   },
 ];
