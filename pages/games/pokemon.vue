@@ -1,10 +1,10 @@
 <template>
-    <div class="home-page-container">
-        <h1>Home Page</h1>
+    <div class="pokemon-page-container">
+        <h1>Pokemon Page</h1>
     </div>
 </template>
 <style lang="scss">
-.home-page-container{
+.pokemon-page-container {
     display: flex;
     align-items: center;
     justify-content: center;

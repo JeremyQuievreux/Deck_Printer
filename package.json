@@ -12,8 +12,11 @@
   "dependencies": {
     "jspdf": "^2.5.1",
     "nuxt": "^3.10.2",
-    "sass": "^1.71.0",
     "vue": "^3.4.19",
     "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "sass": "^1.71.1",
+    "sass-loader": "^14.1.1"
   }
 }
