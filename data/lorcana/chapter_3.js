@@ -229,7 +229,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-001",
     name: "Baloo, von Bruinwald XIII",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_001,
     number: "",
@@ -247,7 +247,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-002",
     name: "Bernard, Tout nouvel agent",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_002,
     number: "",
@@ -265,7 +265,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-003",
     name: "Chernabog, Répand le mal",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_003,
     number: "",
@@ -283,7 +283,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-004a",
     name: "Chiot Dalmatien",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_004a,
     number: "",
@@ -301,7 +301,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-004b",
     name: "Chiot Dalmatien",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_004b,
     number: "",
@@ -319,7 +319,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-004c",
     name: "Chiot Dalmatien",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_004c,
     number: "",
@@ -337,7 +337,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-004d",
     name: "Chiot Dalmatien",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_004d,
     number: "",
@@ -355,7 +355,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-004e",
     name: "Chiot Dalmatien",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_004e,
     number: "",
@@ -373,7 +373,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-005",
     name: "Amadou Gentil, Le docteur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_005,
     number: "",
@@ -391,7 +391,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-006",
     name: "Kida, Atlante",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_006,
     number: "",
@@ -409,7 +409,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-007",
     name: "Kida, Protectrice de l'Atlantide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_007,
     number: "",
@@ -427,7 +427,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-008",
     name: "Lucky, Le 15e chiot",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_008,
     number: "",
@@ -445,7 +445,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-009",
     name: "Minnie, Artiste musicale",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_009,
     number: "",
@@ -463,7 +463,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-010",
     name: "Miss Bianca, Agente de SOS Sociète",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_010,
     number: "",
@@ -481,7 +481,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-011",
     name: "Mr. Snoops",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_011,
     number: "",
@@ -499,7 +499,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-012",
     name: "Nani, Soeur protectrice",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_012,
     number: "",
@@ -517,7 +517,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-013",
     name: "Orville, As de l'aviation",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_013,
     number: "",
@@ -535,7 +535,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-014",
     name: "Patch, Chiot intimidant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_014,
     number: "",
@@ -553,7 +553,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-015",
     name: "Perdita, Mère dévouée",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_015,
     number: "",
@@ -571,7 +571,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-016",
     name: "Porcinet, Capitaine pirate de Winnie",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_016,
     number: "",
@@ -589,7 +589,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-017",
     name: "Pluto, Protecteur déterminé",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_017,
     number: "",
@@ -607,7 +607,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-018",
     name: "Pluto, Gentil cabot",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_018,
     number: "",
@@ -625,7 +625,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-019",
     name: "Pongo, Père persévérant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_019,
     number: "",
@@ -643,7 +643,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-020",
     name: "La Reine de coeur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_020,
     number: "",
@@ -661,7 +661,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-021",
     name: "Rolly, Chiot affamé",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_021,
     number: "",
@@ -679,7 +679,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-022",
     name: "La fée clochette",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_022,
     number: "",
@@ -697,7 +697,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-023",
     name: "Wendy Darling, Talentueuse navigatrice",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_023,
     number: "",
@@ -715,7 +715,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-024",
     name: "99 Chiots",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_024,
     number: "",
@@ -733,7 +733,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-025",
     name: "Ordres de la patronne",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_025,
     number: "",
@@ -751,7 +751,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-026",
     name: "Guéris les blessures",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_026,
     number: "",
@@ -769,7 +769,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-027",
     name: "Réparation de fortune",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_027,
     number: "",
@@ -787,7 +787,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-028",
     name: "Il en faut peu pour être heureux",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_028,
     number: "",
@@ -805,7 +805,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-029",
     name: "Eau de pluie purifiante",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_029,
     number: "",
@@ -823,7 +823,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-030",
     name: "Coeur de l'Atlantide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_030,
     number: "",
@@ -841,7 +841,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-031",
     name: "Clé de turbo",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_031,
     number: "",
@@ -859,7 +859,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-032",
     name: "Le pays imaginaire, Lagune aux Sirènes",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_032,
     number: "",
@@ -877,7 +877,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-033",
     name: "La terre des lions, Le rocher des lions",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_033,
     number: "",
@@ -895,7 +895,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-034",
     name: "Chez Tiana, Restaurant de jazz",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_034,
     number: "",
@@ -913,7 +913,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-035",
     name: "Alice - Alchimiste théinée",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_035,
     number: "",
@@ -931,7 +931,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-036",
     name: "Adeptes de Chernabog - Créatures du mal",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_036,
     number: "",
@@ -949,7 +949,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-037",
     name: "Diablo - Animal de compagnie fidèle",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_037,
     number: "",
@@ -967,7 +967,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-038",
     name: "Génie - Ami encourageant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_038,
     number: "",
@@ -985,7 +985,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-039",
     name: "Hydros - Titan de glace",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_039,
     number: "",
@@ -1003,7 +1003,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-040",
     name: "Iago - Gentil Coco",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_040,
     number: "",
@@ -1021,7 +1021,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-041",
     name: "Jafar - Voleur de lampe",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_041,
     number: "",
@@ -1039,7 +1039,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-042",
     name: "Jafar - Illusionniste ensorcelant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_042,
     number: "",
@@ -1057,7 +1057,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-043",
     name: "Lena de Sortilège - Adolescente rebelle",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_043,
     number: "",
@@ -1075,7 +1075,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-044",
     name: "Balais magiques - Plumeau dansant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_044,
     number: "",
@@ -1093,7 +1093,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-045",
     name: "Balais magiques - Nettoyeur rapide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_045,
     number: "",
@@ -1111,7 +1111,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-046",
     name: "Balais magiques - Le grand nettoyeur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_046,
     number: "",
@@ -1129,7 +1129,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-047",
     name: "Tapis volant - Carpette magique",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_047,
     number: "",
@@ -1147,7 +1147,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-048",
     name: "Miss Tick - Sorcière ambitieuse",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_048,
     number: "",
@@ -1165,7 +1165,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-049",
     name: "Miss Tick - Toucher de Midas",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_049,
     number: "",
@@ -1183,7 +1183,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-050",
     name: "Miss Tick - Sorcière en plein larcin",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_050,
     number: "",
@@ -1201,7 +1201,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-051",
     name: "Maléfique - Maîtresse du Mal",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_051,
     number: "",
@@ -1219,7 +1219,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-052",
     name: "Mama Odie - Voix de la sagesse",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_052,
     number: "",
@@ -1237,7 +1237,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-053",
     name: "Pua - Compagnon bedonnant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_053,
     number: "",
@@ -1255,7 +1255,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-054",
     name: "Rafiki - Combattant mystique",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_054,
     number: "",
@@ -1273,7 +1273,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-055",
     name: "Stratos - Titan du vent",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_055,
     number: "",
@@ -1291,7 +1291,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-056",
     name: "L'Oiseau de Feu - Force destructrice",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_056,
     number: "",
@@ -1309,7 +1309,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-057",
     name: "La Reine - Rivale haineuse",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_057,
     number: "",
@@ -1327,7 +1327,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-058",
     name: "Le Gardien du Trésor - Protecteur de la Caverne",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_058,
     number: "",
@@ -1345,7 +1345,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-059",
     name: "Ursula - Sorcière des mers",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_059,
     number: "",
@@ -1363,7 +1363,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-060",
     name: "Offrir un don",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_060,
     number: "",
@@ -1381,7 +1381,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-061",
     name: "Il m'appelle",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_061,
     number: "",
@@ -1399,7 +1399,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-062",
     name: "Effort désespéré",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_062,
     number: "",
@@ -1417,7 +1417,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-063",
     name: "Je complète ma collection",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_063,
     number: "",
@@ -1435,7 +1435,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-064",
     name: "La lampe",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_064,
     number: "",
@@ -1453,7 +1453,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-065",
     name: "Le chapeau de sorcier",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_065,
     number: "",
@@ -1471,7 +1471,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-066",
     name: "Montagne Interdite - Château de Maléfique",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_066,
     number: "",
@@ -1489,7 +1489,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-067",
     name: "Château de la reine - Salle du miroir",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_067,
     number: "",
@@ -1507,7 +1507,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-068",
     name: "La Tour du Sorcier - Atelier merveilleux",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_068,
     number: "",
@@ -1525,7 +1525,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-069",
     name: "Le frisé, Enfant perdu très costaud",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_069,
     number: "",
@@ -1543,7 +1543,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-070",
     name: "Ondins ensorcelés, Oeuvre d'Ursula",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_070,
     number: "",
@@ -1561,7 +1561,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-071",
     name: "Don Carnage, Prince des pirates",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_071,
     number: "",
@@ -1579,7 +1579,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-072",
     name: "Flotsam, Boule puante",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_072,
     number: "",
@@ -1597,7 +1597,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-073",
     name: "Frère Tuck, Prêtre de Nottingham",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_073,
     number: "",
@@ -1615,7 +1615,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-074",
     name: "Helga Sinclair, Femme fatale",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_074,
     number: "",
@@ -1633,7 +1633,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-075",
     name: "Helga Sinclair, Partenaire vengeresse",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_075,
     number: "",
@@ -1651,7 +1651,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-076",
     name: "Jetsam, Boule puante",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_076,
     number: "",
@@ -1669,7 +1669,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-077",
     name: "Kit, Dur à cuire",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_077,
     number: "",
@@ -1687,7 +1687,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-078",
     name: "Lyle Tiberius Rourke, Mercenaire fourbe",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_078,
     number: "",
@@ -1705,7 +1705,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-079",
     name: "Milo Thatch, Brillant cartographe",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_079,
     number: "",
@@ -1723,7 +1723,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-080",
     name: "Milo Thatch, Roi de l'Atlantide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_080,
     number: "",
@@ -1741,7 +1741,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-081",
     name: "Morph, Gluant de l'espace",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_081,
     number: "",
@@ -1759,7 +1759,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-082",
     name: "Peter Pan, Chef des enfants perdus",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_082,
     number: "",
@@ -1777,7 +1777,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-083",
     name: "Prince Jean, Roi de mauvais aloi",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_083,
     number: "",
@@ -1795,7 +1795,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-084",
     name: "Robin des bois, Rêveur éveillé",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_084,
     number: "",
@@ -1813,7 +1813,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-085",
     name: "Shenzi, Cheffe de meute des hyènes",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_085,
     number: "",
@@ -1831,7 +1831,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-086",
     name: "Triste Sire, Aspic envenimant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_086,
     number: "",
@@ -1849,7 +1849,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-087",
     name: "Bobby, Lapin énergique",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_087,
     number: "",
@@ -1867,7 +1867,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-088",
     name: "Monsieur Starkey, Pirate sournois",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_088,
     number: "",
@@ -1885,7 +1885,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-089",
     name: "Stitch, Agent sous couverture",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_089,
     number: "",
@@ -1903,7 +1903,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-090",
     name: "Ursulan, Embobineuse",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_090,
     number: "",
@@ -1921,7 +1921,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-091",
     name: "Ursula, La plus perfide de toutes",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_091,
     number: "",
@@ -1939,7 +1939,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-092",
     name: "Turbo, Mécanicien",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_092,
     number: "",
@@ -1957,7 +1957,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-093",
     name: "Zazu, Intendant de la terre des lions",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_093,
     number: "",
@@ -1975,7 +1975,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-094",
     name: "A touché mon coeuuuuurrr",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_094,
     number: "",
@@ -1993,7 +1993,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-095",
     name: "Je prends le chemin",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_095,
     number: "",
@@ -2011,7 +2011,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-096",
     name: "Crois-moi j'ai vu pire",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_096,
     number: "",
@@ -2029,7 +2029,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-097",
     name: "Aéro-Surf",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_097,
     number: "",
@@ -2047,7 +2047,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-098",
     name: "Arc de robin",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_098,
     number: "",
@@ -2065,7 +2065,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-099",
     name: "Fiole de lumière d'étoile",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_099,
     number: "",
@@ -2083,7 +2083,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-100",
     name: "Le manoir d'enfer, Propriété de Cruella",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_100,
     number: "",
@@ -2101,7 +2101,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-101",
     name: "Croc du dragon, Cité des rivière",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_101,
     number: "",
@@ -2119,7 +2119,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-102",
     name: "Palais de Kuzco, Résidence de l'Empereur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_102,
     number: "",
@@ -2137,7 +2137,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-103",
     name: "Ariel, Collectionneuse intrépide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_103,
     number: "",
@@ -2155,7 +2155,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-104",
     name: "Billy Bones, Gardien de la carte",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_104,
     number: "",
@@ -2173,7 +2173,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-105",
     name: "Capitaine Crochet, Maître épéiste",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_105,
     number: "",
@@ -2191,7 +2191,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-106",
     name: "Della Duck, Mère inarrêtable",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_106,
     number: "",
@@ -2209,7 +2209,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-107",
     name: "Heihei, Explorateur accidentel",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_107,
     number: "",
@@ -2227,7 +2227,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-108",
     name: "L'hydre, Serpent mortel",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_108,
     number: "",
@@ -2245,7 +2245,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-109",
     name: "Jim Hawkins, Voyageur de l'espace",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_109,
     number: "",
@@ -2263,7 +2263,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-110",
     name: "Jim Hawkins, Cherche des sensations fortes",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_110,
     number: "",
@@ -2281,7 +2281,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-111",
     name: "Kakamora, Marin menaçant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_111,
     number: "",
@@ -2299,7 +2299,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-112",
     name: "Madame Médusa, La patronne",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_112,
     number: "",
@@ -2317,7 +2317,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-113",
     name: "Maui, Demi-dieu planant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_113,
     number: "",
@@ -2335,7 +2335,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-114",
     name: "Maui, Baleine",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_114,
     number: "",
@@ -2353,7 +2353,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-115",
     name: "Milo Thatch, Savant intrépide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_115,
     number: "",
@@ -2371,7 +2371,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-116",
     name: "Vaiana, Cheffe née",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_116,
     number: "",
@@ -2389,7 +2389,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-117",
     name: "Vaiana, Voyageuse jamais découragée",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_117,
     number: "",
@@ -2407,7 +2407,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-118",
     name: "Niquedouille, Sbire vautour",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_118,
     number: "",
@@ -2425,7 +2425,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-119",
     name: "Peter Pan, Héro du Pays Imaginaire",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_119,
     number: "",
@@ -2443,7 +2443,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-120",
     name: "Peter Pan, Fléau des pirates",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_120,
     number: "",
@@ -2461,7 +2461,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-121",
     name: "Prince Eric, Maître timonier",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_121,
     number: "",
@@ -2479,7 +2479,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-122",
     name: "Scroop, Traître",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_122,
     number: "",
@@ -2497,7 +2497,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-123",
     name: "Simba, Lionceau bagarreur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_123,
     number: "",
@@ -2515,7 +2515,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-124",
     name: "La Plume, Enfant perdu",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_124,
     number: "",
@@ -2533,7 +2533,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-125",
     name: "Stitch, Petite fusée",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_125,
     number: "",
@@ -2551,7 +2551,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-126",
     name: "Pendard, Tireur pas si précis que ça",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_126,
     number: "",
@@ -2569,7 +2569,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-127",
     name: "Zaza, Canette enthousiaste",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_127,
     number: "",
@@ -2587,7 +2587,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-128",
     name: "Bombardement en piqué !",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_128,
     number: "",
@@ -2605,7 +2605,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-129",
     name: "Moi, j'ai un rêve",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_129,
     number: "",
@@ -2623,7 +2623,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-130",
     name: "Debout ! Tout de suite !",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_130,
     number: "",
@@ -2641,7 +2641,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-131",
     name: "Voyage",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_131,
     number: "",
@@ -2659,7 +2659,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-132",
     name: "L'Hameçon de Maui",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_132,
     number: "",
@@ -2677,7 +2677,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-133",
     name: "Talisman Sumérien",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_133,
     number: "",
@@ -2695,7 +2695,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-134",
     name: "Agrabah, Place du marché",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_134,
     number: "",
@@ -2713,7 +2713,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-135",
     name: "Jolly Roger, Navire du Capitaine Crochet",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_135,
     number: "",
@@ -2731,7 +2731,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-136",
     name: "RLS Héritage, Galion solaire",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_136,
     number: "",
@@ -2749,7 +2749,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-137",
     name: "Audrey Ramirez, L'ingénieure",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_137,
     number: "",
@@ -2767,7 +2767,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-138",
     name: "Capitaine Amélia, Commande le vaisseau",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_138,
     number: "",
@@ -2785,7 +2785,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-139",
     name: "Fifi, Neveu frimeur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_139,
     number: "",
@@ -2803,7 +2803,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-140",
     name: "Archibald Gripsou, Tricheur solitaire",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_140,
     number: "",
@@ -2821,7 +2821,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-141",
     name: "Génie, Coincé dans la lampe",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_141,
     number: "",
@@ -2839,7 +2839,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-142",
     name: "Grand-Mère Tala, Gardienne des histoires ancestrales",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_142,
     number: "",
@@ -2857,7 +2857,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-143",
     name: "Grand-Mère Tala, Esprit de l'océan",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_143,
     number: "",
@@ -2875,7 +2875,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-144",
     name: "Géo Trouvetou, Génie des gadgets",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_144,
     number: "",
@@ -2893,7 +2893,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-145",
     name: "Riri, Neveu astucieux",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_145,
     number: "",
@@ -2911,7 +2911,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-146",
     name: "Roi Louie, Chef de bande",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_146,
     number: "",
@@ -2929,7 +2929,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-147",
     name: "Kit, Copilote",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_147,
     number: "",
@@ -2947,7 +2947,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-148",
     name: "Kit, Ourson intrépide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_148,
     number: "",
@@ -2965,7 +2965,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-149",
     name: "Loulou, Neveu cool",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_149,
     number: "",
@@ -2983,7 +2983,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-150",
     name: "Belle Marianne, Charmante rêveuse",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_150,
     number: "",
@@ -3001,7 +3001,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-151",
     name: "Mama Odie, Experte mystique",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_151,
     number: "",
@@ -3019,7 +3019,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-152",
     name: "Pluto, Ami futé de Mickey",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_152,
     number: "",
@@ -3037,7 +3037,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-153",
     name: "Rufus, Chat d'orphelinat",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_153,
     number: "",
@@ -3055,7 +3055,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-154",
     name: "Balthazar Picsou, Canard le plus riche du monde",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_154,
     number: "",
@@ -3073,7 +3073,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-155",
     name: "Balthazar Picsou, Oncle plein aux as",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_155,
     number: "",
@@ -3091,7 +3091,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-156",
     name: "La Reine, Narcissique",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_156,
     number: "",
@@ -3109,7 +3109,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-157",
     name: "La fée clochette, Fée très maline",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_157,
     number: "",
@@ -3127,7 +3127,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-158",
     name: "Wendy Darling, Autorité sur Peter Pan",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_158,
     number: "",
@@ -3145,7 +3145,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-159",
     name: "Distraction",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_159,
     number: "",
@@ -3163,7 +3163,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-160",
     name: "Je suis ton meilleur ami",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_160,
     number: "",
@@ -3181,7 +3181,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-161",
     name: "Le Bleu lumière",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_161,
     number: "",
@@ -3199,7 +3199,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-162",
     name: "Réparation",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_162,
     number: "",
@@ -3217,7 +3217,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-163",
     name: "Gyroscope lumineux",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_163,
     number: "",
@@ -3235,7 +3235,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-164",
     name: "Le Coeur de Te Fiti",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_164,
     number: "",
@@ -3253,7 +3253,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-165",
     name: "Sou fétiche",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_165,
     number: "",
@@ -3271,7 +3271,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-166",
     name: "Haut-de-forme de picsou",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_166,
     number: "",
@@ -3289,7 +3289,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-167",
     name: "Porte de coffre",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_167,
     number: "",
@@ -3307,7 +3307,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-168",
     name: "La maison de belle, Atelier de Maurice",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_168,
     number: "",
@@ -3325,7 +3325,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-169",
     name: "Le manoir de picsou, Résidence de Picsou",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_169,
     number: "",
@@ -3343,7 +3343,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-170",
     name: "Motunui, Île paradisiaque",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_170,
     number: "",
@@ -3361,7 +3361,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-171",
     name: "Tui - Fier de Motunui",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_171,
     number: "",
@@ -3379,7 +3379,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-172",
     name: "Bourriquet - Âne trop rembourré",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_172,
     number: "",
@@ -3397,7 +3397,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-173",
     name: "Gustave le Géant - Terreur du royaume",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_173,
     number: "",
@@ -3415,7 +3415,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-174",
     name: "Hadès - Souverain enflammé",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_174,
     number: "",
@@ -3433,7 +3433,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-175",
     name: "Helga Sinclair - Bras droit",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_175,
     number: "",
@@ -3451,7 +3451,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-176",
     name: "John Silver - Chasseur de trésor avide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_176,
     number: "",
@@ -3469,7 +3469,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-177",
     name: "Kida - Guerrière royale",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_177,
     number: "",
@@ -3487,7 +3487,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-178",
     name: "Petit Jean - Hors-la-loi plein de ressources",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_178,
     number: "",
@@ -3505,7 +3505,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-179",
     name: "Petit Jean - Compagnon de Robin",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_179,
     number: "",
@@ -3523,7 +3523,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-180",
     name: "Lythos - Titan de pierre",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_180,
     number: "",
@@ -3541,7 +3541,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-181",
     name: "Mickey Mouse - Vaillant explorateur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_181,
     number: "",
@@ -3559,7 +3559,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-182",
     name: "Mickey Mouse - Trompettiste",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_182,
     number: "",
@@ -3577,7 +3577,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-183",
     name: "Minnie - Spéléologue funky",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_183,
     number: "",
@@ -3595,7 +3595,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-184",
     name: "Monsieur Mouche - Matelos empoté",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_184,
     number: "",
@@ -3613,7 +3613,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-185",
     name: "Mufasa - Champion de la Terre des Lions",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_185,
     number: "",
@@ -3631,7 +3631,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-186",
     name: "Nala - Amie farouche",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_186,
     number: "",
@@ -3649,7 +3649,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-187",
     name: "Pyros - Titan de lave",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_187,
     number: "",
@@ -3667,7 +3667,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-188",
     name: "Razoul - Garde du palais",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_188,
     number: "",
@@ -3685,7 +3685,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-189",
     name: "Robin des Bois - Hors-la-loi adoré",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_189,
     number: "",
@@ -3703,7 +3703,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-190",
     name: "Robin des Bois - Champion de Sherwood",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_190,
     number: "",
@@ -3721,7 +3721,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-191",
     name: "Shérif de Nottingham - Officiellement corrompu",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_191,
     number: "",
@@ -3739,7 +3739,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-192",
     name: "Simba - Prince combattif",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_192,
     number: "",
@@ -3757,7 +3757,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-193",
     name: "Simba - Roi légitime",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_193,
     number: "",
@@ -3775,7 +3775,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-194",
     name: "Gulliver Glas - Chef métallique",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_194,
     number: "",
@@ -3793,7 +3793,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-195",
     name: "Quand soudain survint Zeus",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_195,
     number: "",
@@ -3811,7 +3811,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-196",
     name: "Ba-boum !",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_196,
     number: "",
@@ -3829,7 +3829,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-197",
     name: "L'Olympe, ce serait pas plutôt par là ?",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_197,
     number: "",
@@ -3847,7 +3847,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-198",
     name: "Libérer les Titans",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_198,
     number: "",
@@ -3865,7 +3865,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-199",
     name: "Rapière du Capitaine Crochet",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_199,
     number: "",
@@ -3883,7 +3883,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-200",
     name: "Le costume de Robotik",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_200,
     number: "",
@@ -3901,7 +3901,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-201",
     name: "Carte de la Planète au Trésor",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_201,
     number: "",
@@ -3919,7 +3919,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-202",
     name: "Île d'exil de Maui - Rocher caché",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_202,
     number: "",
@@ -3937,7 +3937,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-203",
     name: "Nottingham - Château du Prince Jean",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_203,
     number: "",
@@ -3955,7 +3955,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-204",
     name: "Le bayou - Marais mystérieux",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_204,
     number: "",
@@ -3973,7 +3973,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-205",
     name: "Chernabog, Répand le mal",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_205,
     number: "",
@@ -3991,7 +3991,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-206",
     name: "Kida, Protectrice de l'Atlantide",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_206,
     number: "",
@@ -4009,7 +4009,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-207",
     name: "La terre des lions, Le rocher des lions",
-    set: "Chapitre 3",
+    set: 3,
     color: "Ambre",
     image: C3_207,
     number: "",
@@ -4027,7 +4027,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-208",
     name: "Jafar - Illusionniste ensorcelant",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_208,
     number: "",
@@ -4045,7 +4045,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-209",
     name: "Maléfique - Maîtresse du Mal",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_209,
     number: "",
@@ -4063,7 +4063,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-210",
     name: "Le chapeau de sorcier",
-    set: "Chapitre 3",
+    set: 3,
     color: "Améthyste",
     image: C3_210,
     number: "",
@@ -4081,7 +4081,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-211",
     name: "Morph, Gluant de l'espace",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_211,
     number: "",
@@ -4099,7 +4099,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-212",
     name: "Ursula, La plus perfide de toutes",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_212,
     number: "",
@@ -4117,7 +4117,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-213",
     name: "Palais de Kuzco, Résidence de l'Empereur",
-    set: "Chapitre 3",
+    set: 3,
     color: "Emeraude",
     image: C3_213,
     number: "",
@@ -4135,7 +4135,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-214",
     name: "Capitaine Crochet, Maître épéiste",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_214,
     number: "",
@@ -4153,7 +4153,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-215",
     name: "Peter Pan, Fléau des pirates",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_215,
     number: "",
@@ -4171,7 +4171,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-216",
     name: "RLS Héritage, Galion solaire",
-    set: "Chapitre 3",
+    set: 3,
     color: "Rubis",
     image: C3_216,
     number: "",
@@ -4189,7 +4189,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-217",
     name: "Grand-Mère Tala, Esprit de l'océan",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_217,
     number: "",
@@ -4207,7 +4207,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-218",
     name: "Balthazar Picsou, Canard le plus riche du monde",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_218,
     number: "",
@@ -4225,7 +4225,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-219",
     name: "La maison de belle, Atelier de Maurice",
-    set: "Chapitre 3",
+    set: 3,
     color: "Saphir",
     image: C3_219,
     number: "",
@@ -4243,7 +4243,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-220",
     name: "Mickey Mouse - Trompettiste",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_220,
     number: "",
@@ -4261,7 +4261,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-221",
     name: "Robin des Bois - Champion de Sherwood",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_221,
     number: "",
@@ -4279,7 +4279,7 @@ export const lorcanaChapter3Cards = [
   {
     id: "C3-222",
     name: "Quand soudain survint Zeus",
-    set: "Chapitre 3",
+    set: 3,
     color: "Acier",
     image: C3_222,
     number: "",

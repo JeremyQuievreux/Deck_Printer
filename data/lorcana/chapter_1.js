@@ -1,227 +1,227 @@
-import C2_001 from "../img/cards/lorcana/chapter_2/C2_001.png";
-import C2_002 from "../img/cards/lorcana/chapter_2/C2_002.png";
-import C2_003 from "../img/cards/lorcana/chapter_2/C2_003.png";
-import C2_004 from "../img/cards/lorcana/chapter_2/C2_004.png";
-import C2_005 from "../img/cards/lorcana/chapter_2/C2_005.png";
-import C2_006 from "../img/cards/lorcana/chapter_2/C2_006.png";
-import C2_007 from "../img/cards/lorcana/chapter_2/C2_007.png";
-import C2_008 from "../img/cards/lorcana/chapter_2/C2_008.png";
-import C2_009 from "../img/cards/lorcana/chapter_2/C2_009.png";
-import C2_010 from "../img/cards/lorcana/chapter_2/C2_010.png";
-import C2_011 from "../img/cards/lorcana/chapter_2/C2_011.png";
-import C2_012 from "../img/cards/lorcana/chapter_2/C2_012.png";
-import C2_013 from "../img/cards/lorcana/chapter_2/C2_013.png";
-import C2_014 from "../img/cards/lorcana/chapter_2/C2_014.png";
-import C2_015 from "../img/cards/lorcana/chapter_2/C2_015.png";
-import C2_016 from "../img/cards/lorcana/chapter_2/C2_016.png";
-import C2_017 from "../img/cards/lorcana/chapter_2/C2_017.png";
-import C2_018 from "../img/cards/lorcana/chapter_2/C2_018.png";
-import C2_019 from "../img/cards/lorcana/chapter_2/C2_019.png";
-import C2_020 from "../img/cards/lorcana/chapter_2/C2_020.png";
-import C2_021 from "../img/cards/lorcana/chapter_2/C2_021.png";
-import C2_022 from "../img/cards/lorcana/chapter_2/C2_022.png";
-import C2_023 from "../img/cards/lorcana/chapter_2/C2_023.png";
-import C2_024 from "../img/cards/lorcana/chapter_2/C2_024.png";
-import C2_025 from "../img/cards/lorcana/chapter_2/C2_025.png";
-import C2_026 from "../img/cards/lorcana/chapter_2/C2_026.png";
-import C2_027 from "../img/cards/lorcana/chapter_2/C2_027.png";
-import C2_028 from "../img/cards/lorcana/chapter_2/C2_028.png";
-import C2_029 from "../img/cards/lorcana/chapter_2/C2_029.png";
-import C2_030 from "../img/cards/lorcana/chapter_2/C2_030.png";
-import C2_031 from "../img/cards/lorcana/chapter_2/C2_031.png";
-import C2_032 from "../img/cards/lorcana/chapter_2/C2_032.png";
-import C2_033 from "../img/cards/lorcana/chapter_2/C2_033.png";
-import C2_034 from "../img/cards/lorcana/chapter_2/C2_034.png";
-import C2_035 from "../img/cards/lorcana/chapter_2/C2_035.png";
-import C2_036 from "../img/cards/lorcana/chapter_2/C2_036.png";
-import C2_037 from "../img/cards/lorcana/chapter_2/C2_037.png";
-import C2_038 from "../img/cards/lorcana/chapter_2/C2_038.png";
-import C2_039 from "../img/cards/lorcana/chapter_2/C2_039.png";
-import C2_040 from "../img/cards/lorcana/chapter_2/C2_040.png";
-import C2_041 from "../img/cards/lorcana/chapter_2/C2_041.png";
-import C2_042 from "../img/cards/lorcana/chapter_2/C2_042.png";
-import C2_043 from "../img/cards/lorcana/chapter_2/C2_043.png";
-import C2_044 from "../img/cards/lorcana/chapter_2/C2_044.png";
-import C2_045 from "../img/cards/lorcana/chapter_2/C2_045.png";
-import C2_046 from "../img/cards/lorcana/chapter_2/C2_046.png";
-import C2_047 from "../img/cards/lorcana/chapter_2/C2_047.png";
-import C2_048 from "../img/cards/lorcana/chapter_2/C2_048.png";
-import C2_049 from "../img/cards/lorcana/chapter_2/C2_049.png";
-import C2_050 from "../img/cards/lorcana/chapter_2/C2_050.png";
-import C2_051 from "../img/cards/lorcana/chapter_2/C2_051.png";
-import C2_052 from "../img/cards/lorcana/chapter_2/C2_052.png";
-import C2_053 from "../img/cards/lorcana/chapter_2/C2_053.png";
-import C2_054 from "../img/cards/lorcana/chapter_2/C2_054.png";
-import C2_055 from "../img/cards/lorcana/chapter_2/C2_055.png";
-import C2_056 from "../img/cards/lorcana/chapter_2/C2_056.png";
-import C2_057 from "../img/cards/lorcana/chapter_2/C2_057.png";
-import C2_058 from "../img/cards/lorcana/chapter_2/C2_058.png";
-import C2_059 from "../img/cards/lorcana/chapter_2/C2_059.png";
-import C2_060 from "../img/cards/lorcana/chapter_2/C2_060.png";
-import C2_061 from "../img/cards/lorcana/chapter_2/C2_061.png";
-import C2_062 from "../img/cards/lorcana/chapter_2/C2_062.png";
-import C2_063 from "../img/cards/lorcana/chapter_2/C2_063.png";
-import C2_064 from "../img/cards/lorcana/chapter_2/C2_064.png";
-import C2_065 from "../img/cards/lorcana/chapter_2/C2_065.png";
-import C2_066 from "../img/cards/lorcana/chapter_2/C2_066.png";
-import C2_067 from "../img/cards/lorcana/chapter_2/C2_067.png";
-import C2_068 from "../img/cards/lorcana/chapter_2/C2_068.png";
-import C2_069 from "../img/cards/lorcana/chapter_2/C2_069.png";
-import C2_070 from "../img/cards/lorcana/chapter_2/C2_070.png";
-import C2_071 from "../img/cards/lorcana/chapter_2/C2_071.png";
-import C2_072 from "../img/cards/lorcana/chapter_2/C2_072.png";
-import C2_073 from "../img/cards/lorcana/chapter_2/C2_073.png";
-import C2_074 from "../img/cards/lorcana/chapter_2/C2_074.png";
-import C2_075 from "../img/cards/lorcana/chapter_2/C2_075.png";
-import C2_076 from "../img/cards/lorcana/chapter_2/C2_076.png";
-import C2_077 from "../img/cards/lorcana/chapter_2/C2_077.png";
-import C2_078 from "../img/cards/lorcana/chapter_2/C2_078.png";
-import C2_079 from "../img/cards/lorcana/chapter_2/C2_079.png";
-import C2_080 from "../img/cards/lorcana/chapter_2/C2_080.png";
-import C2_081 from "../img/cards/lorcana/chapter_2/C2_081.png";
-import C2_082 from "../img/cards/lorcana/chapter_2/C2_082.png";
-import C2_083 from "../img/cards/lorcana/chapter_2/C2_083.png";
-import C2_084 from "../img/cards/lorcana/chapter_2/C2_084.png";
-import C2_085 from "../img/cards/lorcana/chapter_2/C2_085.png";
-import C2_086 from "../img/cards/lorcana/chapter_2/C2_086.png";
-import C2_087 from "../img/cards/lorcana/chapter_2/C2_087.png";
-import C2_088 from "../img/cards/lorcana/chapter_2/C2_088.png";
-import C2_089 from "../img/cards/lorcana/chapter_2/C2_089.png";
-import C2_090 from "../img/cards/lorcana/chapter_2/C2_090.png";
-import C2_091 from "../img/cards/lorcana/chapter_2/C2_091.png";
-import C2_092 from "../img/cards/lorcana/chapter_2/C2_092.png";
-import C2_093 from "../img/cards/lorcana/chapter_2/C2_093.png";
-import C2_094 from "../img/cards/lorcana/chapter_2/C2_094.png";
-import C2_095 from "../img/cards/lorcana/chapter_2/C2_095.png";
-import C2_096 from "../img/cards/lorcana/chapter_2/C2_096.png";
-import C2_097 from "../img/cards/lorcana/chapter_2/C2_097.png";
-import C2_098 from "../img/cards/lorcana/chapter_2/C2_098.png";
-import C2_099 from "../img/cards/lorcana/chapter_2/C2_099.png";
-import C2_100 from "../img/cards/lorcana/chapter_2/C2_100.png";
-import C2_101 from "../img/cards/lorcana/chapter_2/C2_101.png";
-import C2_102 from "../img/cards/lorcana/chapter_2/C2_102.png";
-import C2_103 from "../img/cards/lorcana/chapter_2/C2_103.png";
-import C2_104 from "../img/cards/lorcana/chapter_2/C2_104.png";
-import C2_105 from "../img/cards/lorcana/chapter_2/C2_105.png";
-import C2_106 from "../img/cards/lorcana/chapter_2/C2_106.png";
-import C2_107 from "../img/cards/lorcana/chapter_2/C2_107.png";
-import C2_108 from "../img/cards/lorcana/chapter_2/C2_108.png";
-import C2_109 from "../img/cards/lorcana/chapter_2/C2_109.png";
-import C2_110 from "../img/cards/lorcana/chapter_2/C2_110.png";
-import C2_111 from "../img/cards/lorcana/chapter_2/C2_111.png";
-import C2_112 from "../img/cards/lorcana/chapter_2/C2_112.png";
-import C2_113 from "../img/cards/lorcana/chapter_2/C2_113.png";
-import C2_114 from "../img/cards/lorcana/chapter_2/C2_114.png";
-import C2_115 from "../img/cards/lorcana/chapter_2/C2_115.png";
-import C2_116 from "../img/cards/lorcana/chapter_2/C2_116.png";
-import C2_117 from "../img/cards/lorcana/chapter_2/C2_117.png";
-import C2_118 from "../img/cards/lorcana/chapter_2/C2_118.png";
-import C2_119 from "../img/cards/lorcana/chapter_2/C2_119.png";
-import C2_120 from "../img/cards/lorcana/chapter_2/C2_120.png";
-import C2_121 from "../img/cards/lorcana/chapter_2/C2_121.png";
-import C2_122 from "../img/cards/lorcana/chapter_2/C2_122.png";
-import C2_123 from "../img/cards/lorcana/chapter_2/C2_123.png";
-import C2_124 from "../img/cards/lorcana/chapter_2/C2_124.png";
-import C2_125 from "../img/cards/lorcana/chapter_2/C2_125.png";
-import C2_126 from "../img/cards/lorcana/chapter_2/C2_126.png";
-import C2_127 from "../img/cards/lorcana/chapter_2/C2_127.png";
-import C2_128 from "../img/cards/lorcana/chapter_2/C2_128.png";
-import C2_129 from "../img/cards/lorcana/chapter_2/C2_129.png";
-import C2_130 from "../img/cards/lorcana/chapter_2/C2_130.png";
-import C2_131 from "../img/cards/lorcana/chapter_2/C2_131.png";
-import C2_132 from "../img/cards/lorcana/chapter_2/C2_132.png";
-import C2_133 from "../img/cards/lorcana/chapter_2/C2_133.png";
-import C2_134 from "../img/cards/lorcana/chapter_2/C2_134.png";
-import C2_135 from "../img/cards/lorcana/chapter_2/C2_135.png";
-import C2_136 from "../img/cards/lorcana/chapter_2/C2_136.png";
-import C2_137 from "../img/cards/lorcana/chapter_2/C2_137.png";
-import C2_138 from "../img/cards/lorcana/chapter_2/C2_138.png";
-import C2_139 from "../img/cards/lorcana/chapter_2/C2_139.png";
-import C2_140 from "../img/cards/lorcana/chapter_2/C2_140.png";
-import C2_141 from "../img/cards/lorcana/chapter_2/C2_141.png";
-import C2_142 from "../img/cards/lorcana/chapter_2/C2_142.png";
-import C2_143 from "../img/cards/lorcana/chapter_2/C2_143.png";
-import C2_144 from "../img/cards/lorcana/chapter_2/C2_144.png";
-import C2_145 from "../img/cards/lorcana/chapter_2/C2_145.png";
-import C2_146 from "../img/cards/lorcana/chapter_2/C2_146.png";
-import C2_147 from "../img/cards/lorcana/chapter_2/C2_147.png";
-import C2_148 from "../img/cards/lorcana/chapter_2/C2_148.png";
-import C2_149 from "../img/cards/lorcana/chapter_2/C2_149.png";
-import C2_150 from "../img/cards/lorcana/chapter_2/C2_150.png";
-import C2_151 from "../img/cards/lorcana/chapter_2/C2_151.png";
-import C2_152 from "../img/cards/lorcana/chapter_2/C2_152.png";
-import C2_153 from "../img/cards/lorcana/chapter_2/C2_153.png";
-import C2_154 from "../img/cards/lorcana/chapter_2/C2_154.png";
-import C2_155 from "../img/cards/lorcana/chapter_2/C2_155.png";
-import C2_156 from "../img/cards/lorcana/chapter_2/C2_156.png";
-import C2_157 from "../img/cards/lorcana/chapter_2/C2_157.png";
-import C2_158 from "../img/cards/lorcana/chapter_2/C2_158.png";
-import C2_159 from "../img/cards/lorcana/chapter_2/C2_159.png";
-import C2_160 from "../img/cards/lorcana/chapter_2/C2_160.png";
-import C2_161 from "../img/cards/lorcana/chapter_2/C2_161.png";
-import C2_162 from "../img/cards/lorcana/chapter_2/C2_162.png";
-import C2_163 from "../img/cards/lorcana/chapter_2/C2_163.png";
-import C2_164 from "../img/cards/lorcana/chapter_2/C2_164.png";
-import C2_165 from "../img/cards/lorcana/chapter_2/C2_165.png";
-import C2_166 from "../img/cards/lorcana/chapter_2/C2_166.png";
-import C2_167 from "../img/cards/lorcana/chapter_2/C2_167.png";
-import C2_168 from "../img/cards/lorcana/chapter_2/C2_168.png";
-import C2_169 from "../img/cards/lorcana/chapter_2/C2_169.png";
-import C2_170 from "../img/cards/lorcana/chapter_2/C2_170.png";
-import C2_171 from "../img/cards/lorcana/chapter_2/C2_171.png";
-import C2_172 from "../img/cards/lorcana/chapter_2/C2_172.png";
-import C2_173 from "../img/cards/lorcana/chapter_2/C2_173.png";
-import C2_174 from "../img/cards/lorcana/chapter_2/C2_174.png";
-import C2_175 from "../img/cards/lorcana/chapter_2/C2_175.png";
-import C2_176 from "../img/cards/lorcana/chapter_2/C2_176.png";
-import C2_177 from "../img/cards/lorcana/chapter_2/C2_177.png";
-import C2_178 from "../img/cards/lorcana/chapter_2/C2_178.png";
-import C2_179 from "../img/cards/lorcana/chapter_2/C2_179.png";
-import C2_180 from "../img/cards/lorcana/chapter_2/C2_180.png";
-import C2_181 from "../img/cards/lorcana/chapter_2/C2_181.png";
-import C2_182 from "../img/cards/lorcana/chapter_2/C2_182.png";
-import C2_183 from "../img/cards/lorcana/chapter_2/C2_183.png";
-import C2_184 from "../img/cards/lorcana/chapter_2/C2_184.png";
-import C2_185 from "../img/cards/lorcana/chapter_2/C2_185.png";
-import C2_186 from "../img/cards/lorcana/chapter_2/C2_186.png";
-import C2_187 from "../img/cards/lorcana/chapter_2/C2_187.png";
-import C2_188 from "../img/cards/lorcana/chapter_2/C2_188.png";
-import C2_189 from "../img/cards/lorcana/chapter_2/C2_189.png";
-import C2_190 from "../img/cards/lorcana/chapter_2/C2_190.png";
-import C2_191 from "../img/cards/lorcana/chapter_2/C2_191.png";
-import C2_192 from "../img/cards/lorcana/chapter_2/C2_192.png";
-import C2_193 from "../img/cards/lorcana/chapter_2/C2_193.png";
-import C2_194 from "../img/cards/lorcana/chapter_2/C2_194.png";
-import C2_195 from "../img/cards/lorcana/chapter_2/C2_195.png";
-import C2_196 from "../img/cards/lorcana/chapter_2/C2_196.png";
-import C2_197 from "../img/cards/lorcana/chapter_2/C2_197.png";
-import C2_198 from "../img/cards/lorcana/chapter_2/C2_198.png";
-import C2_199 from "../img/cards/lorcana/chapter_2/C2_199.png";
-import C2_200 from "../img/cards/lorcana/chapter_2/C2_200.png";
-import C2_201 from "../img/cards/lorcana/chapter_2/C2_201.png";
-import C2_202 from "../img/cards/lorcana/chapter_2/C2_202.png";
-import C2_203 from "../img/cards/lorcana/chapter_2/C2_203.png";
-import C2_204 from "../img/cards/lorcana/chapter_2/C2_204.png";
-import C2_205 from "../img/cards/lorcana/chapter_2/C2_205.png";
-import C2_206 from "../img/cards/lorcana/chapter_2/C2_206.png";
-import C2_207 from "../img/cards/lorcana/chapter_2/C2_207.png";
-import C2_208 from "../img/cards/lorcana/chapter_2/C2_208.png";
-import C2_209 from "../img/cards/lorcana/chapter_2/C2_209.png";
-import C2_210 from "../img/cards/lorcana/chapter_2/C2_210.png";
-import C2_211 from "../img/cards/lorcana/chapter_2/C2_211.png";
-import C2_212 from "../img/cards/lorcana/chapter_2/C2_212.png";
-import C2_213 from "../img/cards/lorcana/chapter_2/C2_213.png";
-import C2_214 from "../img/cards/lorcana/chapter_2/C2_214.png";
-import C2_215 from "../img/cards/lorcana/chapter_2/C2_215.png";
-import C2_216 from "../img/cards/lorcana/chapter_2/C2_216.png";
+import C1_001 from "../img/cards/lorcana/chapter_1/C1_001.png";
+import C1_002 from "../img/cards/lorcana/chapter_1/C1_002.png";
+import C1_003 from "../img/cards/lorcana/chapter_1/C1_003.png";
+import C1_004 from "../img/cards/lorcana/chapter_1/C1_004.png";
+import C1_005 from "../img/cards/lorcana/chapter_1/C1_005.png";
+import C1_006 from "../img/cards/lorcana/chapter_1/C1_006.png";
+import C1_007 from "../img/cards/lorcana/chapter_1/C1_007.png";
+import C1_008 from "../img/cards/lorcana/chapter_1/C1_008.png";
+import C1_009 from "../img/cards/lorcana/chapter_1/C1_009.png";
+import C1_010 from "../img/cards/lorcana/chapter_1/C1_010.png";
+import C1_011 from "../img/cards/lorcana/chapter_1/C1_011.png";
+import C1_012 from "../img/cards/lorcana/chapter_1/C1_012.png";
+import C1_013 from "../img/cards/lorcana/chapter_1/C1_013.png";
+import C1_014 from "../img/cards/lorcana/chapter_1/C1_014.png";
+import C1_015 from "../img/cards/lorcana/chapter_1/C1_015.png";
+import C1_016 from "../img/cards/lorcana/chapter_1/C1_016.png";
+import C1_017 from "../img/cards/lorcana/chapter_1/C1_017.png";
+import C1_018 from "../img/cards/lorcana/chapter_1/C1_018.png";
+import C1_019 from "../img/cards/lorcana/chapter_1/C1_019.png";
+import C1_020 from "../img/cards/lorcana/chapter_1/C1_020.png";
+import C1_021 from "../img/cards/lorcana/chapter_1/C1_021.png";
+import C1_022 from "../img/cards/lorcana/chapter_1/C1_022.png";
+import C1_023 from "../img/cards/lorcana/chapter_1/C1_023.png";
+import C1_024 from "../img/cards/lorcana/chapter_1/C1_024.png";
+import C1_025 from "../img/cards/lorcana/chapter_1/C1_025.png";
+import C1_026 from "../img/cards/lorcana/chapter_1/C1_026.png";
+import C1_027 from "../img/cards/lorcana/chapter_1/C1_027.png";
+import C1_028 from "../img/cards/lorcana/chapter_1/C1_028.png";
+import C1_029 from "../img/cards/lorcana/chapter_1/C1_029.png";
+import C1_030 from "../img/cards/lorcana/chapter_1/C1_030.png";
+import C1_031 from "../img/cards/lorcana/chapter_1/C1_031.png";
+import C1_032 from "../img/cards/lorcana/chapter_1/C1_032.png";
+import C1_033 from "../img/cards/lorcana/chapter_1/C1_033.png";
+import C1_034 from "../img/cards/lorcana/chapter_1/C1_034.png";
+import C1_035 from "../img/cards/lorcana/chapter_1/C1_035.png";
+import C1_036 from "../img/cards/lorcana/chapter_1/C1_036.png";
+import C1_037 from "../img/cards/lorcana/chapter_1/C1_037.png";
+import C1_038 from "../img/cards/lorcana/chapter_1/C1_038.png";
+import C1_039 from "../img/cards/lorcana/chapter_1/C1_039.png";
+import C1_040 from "../img/cards/lorcana/chapter_1/C1_040.png";
+import C1_041 from "../img/cards/lorcana/chapter_1/C1_041.png";
+import C1_042 from "../img/cards/lorcana/chapter_1/C1_042.png";
+import C1_043 from "../img/cards/lorcana/chapter_1/C1_043.png";
+import C1_044 from "../img/cards/lorcana/chapter_1/C1_044.png";
+import C1_045 from "../img/cards/lorcana/chapter_1/C1_045.png";
+import C1_046 from "../img/cards/lorcana/chapter_1/C1_046.png";
+import C1_047 from "../img/cards/lorcana/chapter_1/C1_047.png";
+import C1_048 from "../img/cards/lorcana/chapter_1/C1_048.png";
+import C1_049 from "../img/cards/lorcana/chapter_1/C1_049.png";
+import C1_050 from "../img/cards/lorcana/chapter_1/C1_050.png";
+import C1_051 from "../img/cards/lorcana/chapter_1/C1_051.png";
+import C1_052 from "../img/cards/lorcana/chapter_1/C1_052.png";
+import C1_053 from "../img/cards/lorcana/chapter_1/C1_053.png";
+import C1_054 from "../img/cards/lorcana/chapter_1/C1_054.png";
+import C1_055 from "../img/cards/lorcana/chapter_1/C1_055.png";
+import C1_056 from "../img/cards/lorcana/chapter_1/C1_056.png";
+import C1_057 from "../img/cards/lorcana/chapter_1/C1_057.png";
+import C1_058 from "../img/cards/lorcana/chapter_1/C1_058.png";
+import C1_059 from "../img/cards/lorcana/chapter_1/C1_059.png";
+import C1_060 from "../img/cards/lorcana/chapter_1/C1_060.png";
+import C1_061 from "../img/cards/lorcana/chapter_1/C1_061.png";
+import C1_062 from "../img/cards/lorcana/chapter_1/C1_062.png";
+import C1_063 from "../img/cards/lorcana/chapter_1/C1_063.png";
+import C1_064 from "../img/cards/lorcana/chapter_1/C1_064.png";
+import C1_065 from "../img/cards/lorcana/chapter_1/C1_065.png";
+import C1_066 from "../img/cards/lorcana/chapter_1/C1_066.png";
+import C1_067 from "../img/cards/lorcana/chapter_1/C1_067.png";
+import C1_068 from "../img/cards/lorcana/chapter_1/C1_068.png";
+import C1_069 from "../img/cards/lorcana/chapter_1/C1_069.png";
+import C1_070 from "../img/cards/lorcana/chapter_1/C1_070.png";
+import C1_071 from "../img/cards/lorcana/chapter_1/C1_071.png";
+import C1_072 from "../img/cards/lorcana/chapter_1/C1_072.png";
+import C1_073 from "../img/cards/lorcana/chapter_1/C1_073.png";
+import C1_074 from "../img/cards/lorcana/chapter_1/C1_074.png";
+import C1_075 from "../img/cards/lorcana/chapter_1/C1_075.png";
+import C1_076 from "../img/cards/lorcana/chapter_1/C1_076.png";
+import C1_077 from "../img/cards/lorcana/chapter_1/C1_077.png";
+import C1_078 from "../img/cards/lorcana/chapter_1/C1_078.png";
+import C1_079 from "../img/cards/lorcana/chapter_1/C1_079.png";
+import C1_080 from "../img/cards/lorcana/chapter_1/C1_080.png";
+import C1_081 from "../img/cards/lorcana/chapter_1/C1_081.png";
+import C1_082 from "../img/cards/lorcana/chapter_1/C1_082.png";
+import C1_083 from "../img/cards/lorcana/chapter_1/C1_083.png";
+import C1_084 from "../img/cards/lorcana/chapter_1/C1_084.png";
+import C1_085 from "../img/cards/lorcana/chapter_1/C1_085.png";
+import C1_086 from "../img/cards/lorcana/chapter_1/C1_086.png";
+import C1_087 from "../img/cards/lorcana/chapter_1/C1_087.png";
+import C1_088 from "../img/cards/lorcana/chapter_1/C1_088.png";
+import C1_089 from "../img/cards/lorcana/chapter_1/C1_089.png";
+import C1_090 from "../img/cards/lorcana/chapter_1/C1_090.png";
+import C1_091 from "../img/cards/lorcana/chapter_1/C1_091.png";
+import C1_092 from "../img/cards/lorcana/chapter_1/C1_092.png";
+import C1_093 from "../img/cards/lorcana/chapter_1/C1_093.png";
+import C1_094 from "../img/cards/lorcana/chapter_1/C1_094.png";
+import C1_095 from "../img/cards/lorcana/chapter_1/C1_095.png";
+import C1_096 from "../img/cards/lorcana/chapter_1/C1_096.png";
+import C1_097 from "../img/cards/lorcana/chapter_1/C1_097.png";
+import C1_098 from "../img/cards/lorcana/chapter_1/C1_098.png";
+import C1_099 from "../img/cards/lorcana/chapter_1/C1_099.png";
+import C1_100 from "../img/cards/lorcana/chapter_1/C1_100.png";
+import C1_101 from "../img/cards/lorcana/chapter_1/C1_101.png";
+import C1_102 from "../img/cards/lorcana/chapter_1/C1_102.png";
+import C1_103 from "../img/cards/lorcana/chapter_1/C1_103.png";
+import C1_104 from "../img/cards/lorcana/chapter_1/C1_104.png";
+import C1_105 from "../img/cards/lorcana/chapter_1/C1_105.png";
+import C1_106 from "../img/cards/lorcana/chapter_1/C1_106.png";
+import C1_107 from "../img/cards/lorcana/chapter_1/C1_107.png";
+import C1_108 from "../img/cards/lorcana/chapter_1/C1_108.png";
+import C1_109 from "../img/cards/lorcana/chapter_1/C1_109.png";
+import C1_110 from "../img/cards/lorcana/chapter_1/C1_110.png";
+import C1_111 from "../img/cards/lorcana/chapter_1/C1_111.png";
+import C1_112 from "../img/cards/lorcana/chapter_1/C1_112.png";
+import C1_113 from "../img/cards/lorcana/chapter_1/C1_113.png";
+import C1_114 from "../img/cards/lorcana/chapter_1/C1_114.png";
+import C1_115 from "../img/cards/lorcana/chapter_1/C1_115.png";
+import C1_116 from "../img/cards/lorcana/chapter_1/C1_116.png";
+import C1_117 from "../img/cards/lorcana/chapter_1/C1_117.png";
+import C1_118 from "../img/cards/lorcana/chapter_1/C1_118.png";
+import C1_119 from "../img/cards/lorcana/chapter_1/C1_119.png";
+import C1_120 from "../img/cards/lorcana/chapter_1/C1_120.png";
+import C1_121 from "../img/cards/lorcana/chapter_1/C1_121.png";
+import C1_122 from "../img/cards/lorcana/chapter_1/C1_122.png";
+import C1_123 from "../img/cards/lorcana/chapter_1/C1_123.png";
+import C1_124 from "../img/cards/lorcana/chapter_1/C1_124.png";
+import C1_125 from "../img/cards/lorcana/chapter_1/C1_125.png";
+import C1_126 from "../img/cards/lorcana/chapter_1/C1_126.png";
+import C1_127 from "../img/cards/lorcana/chapter_1/C1_127.png";
+import C1_128 from "../img/cards/lorcana/chapter_1/C1_128.png";
+import C1_129 from "../img/cards/lorcana/chapter_1/C1_129.png";
+import C1_130 from "../img/cards/lorcana/chapter_1/C1_130.png";
+import C1_131 from "../img/cards/lorcana/chapter_1/C1_131.png";
+import C1_132 from "../img/cards/lorcana/chapter_1/C1_132.png";
+import C1_133 from "../img/cards/lorcana/chapter_1/C1_133.png";
+import C1_134 from "../img/cards/lorcana/chapter_1/C1_134.png";
+import C1_135 from "../img/cards/lorcana/chapter_1/C1_135.png";
+import C1_136 from "../img/cards/lorcana/chapter_1/C1_136.png";
+import C1_137 from "../img/cards/lorcana/chapter_1/C1_137.png";
+import C1_138 from "../img/cards/lorcana/chapter_1/C1_138.png";
+import C1_139 from "../img/cards/lorcana/chapter_1/C1_139.png";
+import C1_140 from "../img/cards/lorcana/chapter_1/C1_140.png";
+import C1_141 from "../img/cards/lorcana/chapter_1/C1_141.png";
+import C1_142 from "../img/cards/lorcana/chapter_1/C1_142.png";
+import C1_143 from "../img/cards/lorcana/chapter_1/C1_143.png";
+import C1_144 from "../img/cards/lorcana/chapter_1/C1_144.png";
+import C1_145 from "../img/cards/lorcana/chapter_1/C1_145.png";
+import C1_146 from "../img/cards/lorcana/chapter_1/C1_146.png";
+import C1_147 from "../img/cards/lorcana/chapter_1/C1_147.png";
+import C1_148 from "../img/cards/lorcana/chapter_1/C1_148.png";
+import C1_149 from "../img/cards/lorcana/chapter_1/C1_149.png";
+import C1_150 from "../img/cards/lorcana/chapter_1/C1_150.png";
+import C1_151 from "../img/cards/lorcana/chapter_1/C1_151.png";
+import C1_152 from "../img/cards/lorcana/chapter_1/C1_152.png";
+import C1_153 from "../img/cards/lorcana/chapter_1/C1_153.png";
+import C1_154 from "../img/cards/lorcana/chapter_1/C1_154.png";
+import C1_155 from "../img/cards/lorcana/chapter_1/C1_155.png";
+import C1_156 from "../img/cards/lorcana/chapter_1/C1_156.png";
+import C1_157 from "../img/cards/lorcana/chapter_1/C1_157.png";
+import C1_158 from "../img/cards/lorcana/chapter_1/C1_158.png";
+import C1_159 from "../img/cards/lorcana/chapter_1/C1_159.png";
+import C1_160 from "../img/cards/lorcana/chapter_1/C1_160.png";
+import C1_161 from "../img/cards/lorcana/chapter_1/C1_161.png";
+import C1_162 from "../img/cards/lorcana/chapter_1/C1_162.png";
+import C1_163 from "../img/cards/lorcana/chapter_1/C1_163.png";
+import C1_164 from "../img/cards/lorcana/chapter_1/C1_164.png";
+import C1_165 from "../img/cards/lorcana/chapter_1/C1_165.png";
+import C1_166 from "../img/cards/lorcana/chapter_1/C1_166.png";
+import C1_167 from "../img/cards/lorcana/chapter_1/C1_167.png";
+import C1_168 from "../img/cards/lorcana/chapter_1/C1_168.png";
+import C1_169 from "../img/cards/lorcana/chapter_1/C1_169.png";
+import C1_170 from "../img/cards/lorcana/chapter_1/C1_170.png";
+import C1_171 from "../img/cards/lorcana/chapter_1/C1_171.png";
+import C1_172 from "../img/cards/lorcana/chapter_1/C1_172.png";
+import C1_173 from "../img/cards/lorcana/chapter_1/C1_173.png";
+import C1_174 from "../img/cards/lorcana/chapter_1/C1_174.png";
+import C1_175 from "../img/cards/lorcana/chapter_1/C1_175.png";
+import C1_176 from "../img/cards/lorcana/chapter_1/C1_176.png";
+import C1_177 from "../img/cards/lorcana/chapter_1/C1_177.png";
+import C1_178 from "../img/cards/lorcana/chapter_1/C1_178.png";
+import C1_179 from "../img/cards/lorcana/chapter_1/C1_179.png";
+import C1_180 from "../img/cards/lorcana/chapter_1/C1_180.png";
+import C1_181 from "../img/cards/lorcana/chapter_1/C1_181.png";
+import C1_182 from "../img/cards/lorcana/chapter_1/C1_182.png";
+import C1_183 from "../img/cards/lorcana/chapter_1/C1_183.png";
+import C1_184 from "../img/cards/lorcana/chapter_1/C1_184.png";
+import C1_185 from "../img/cards/lorcana/chapter_1/C1_185.png";
+import C1_186 from "../img/cards/lorcana/chapter_1/C1_186.png";
+import C1_187 from "../img/cards/lorcana/chapter_1/C1_187.png";
+import C1_188 from "../img/cards/lorcana/chapter_1/C1_188.png";
+import C1_189 from "../img/cards/lorcana/chapter_1/C1_189.png";
+import C1_190 from "../img/cards/lorcana/chapter_1/C1_190.png";
+import C1_191 from "../img/cards/lorcana/chapter_1/C1_191.png";
+import C1_192 from "../img/cards/lorcana/chapter_1/C1_192.png";
+import C1_193 from "../img/cards/lorcana/chapter_1/C1_193.png";
+import C1_194 from "../img/cards/lorcana/chapter_1/C1_194.png";
+import C1_195 from "../img/cards/lorcana/chapter_1/C1_195.png";
+import C1_196 from "../img/cards/lorcana/chapter_1/C1_196.png";
+import C1_197 from "../img/cards/lorcana/chapter_1/C1_197.png";
+import C1_198 from "../img/cards/lorcana/chapter_1/C1_198.png";
+import C1_199 from "../img/cards/lorcana/chapter_1/C1_199.png";
+import C1_200 from "../img/cards/lorcana/chapter_1/C1_200.png";
+import C1_201 from "../img/cards/lorcana/chapter_1/C1_201.png";
+import C1_202 from "../img/cards/lorcana/chapter_1/C1_202.png";
+import C1_203 from "../img/cards/lorcana/chapter_1/C1_203.png";
+import C1_204 from "../img/cards/lorcana/chapter_1/C1_204.png";
+import C1_205 from "../img/cards/lorcana/chapter_1/C1_205.png";
+import C1_206 from "../img/cards/lorcana/chapter_1/C1_206.png";
+import C1_207 from "../img/cards/lorcana/chapter_1/C1_207.png";
+import C1_208 from "../img/cards/lorcana/chapter_1/C1_208.png";
+import C1_209 from "../img/cards/lorcana/chapter_1/C1_209.png";
+import C1_210 from "../img/cards/lorcana/chapter_1/C1_210.png";
+import C1_211 from "../img/cards/lorcana/chapter_1/C1_211.png";
+import C1_212 from "../img/cards/lorcana/chapter_1/C1_212.png";
+import C1_213 from "../img/cards/lorcana/chapter_1/C1_213.png";
+import C1_214 from "../img/cards/lorcana/chapter_1/C1_214.png";
+import C1_215 from "../img/cards/lorcana/chapter_1/C1_215.png";
+import C1_216 from "../img/cards/lorcana/chapter_1/C1_216.png";
 
-export const lorcanaChapter2Cards = [
+export const lorcanaChapter1Cards = [
   {
-    id: "C2-001",
+    id: "C1-001",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_001,
+    image: C1_001,
     number: 1,
     rarity: "",
     card_type: "",
@@ -235,11 +235,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-002",
+    id: "C1-002",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_002,
+    image: C1_002,
     number: 2,
     rarity: "",
     card_type: "",
@@ -253,11 +253,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-003",
+    id: "C1-003",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_003,
+    image: C1_003,
     number: 3,
     rarity: "",
     card_type: "",
@@ -271,11 +271,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-004",
+    id: "C1-004",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_004,
+    image: C1_004,
     number: 4,
     rarity: "",
     card_type: "",
@@ -289,11 +289,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-005",
+    id: "C1-005",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_005,
+    image: C1_005,
     number: 5,
     rarity: "",
     card_type: "",
@@ -307,11 +307,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-006",
+    id: "C1-006",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_006,
+    image: C1_006,
     number: 6,
     rarity: "",
     card_type: "",
@@ -325,11 +325,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-007",
+    id: "C1-007",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_007,
+    image: C1_007,
     number: 7,
     rarity: "",
     card_type: "",
@@ -343,11 +343,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-008",
+    id: "C1-008",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_008,
+    image: C1_008,
     number: 8,
     rarity: "",
     card_type: "",
@@ -361,11 +361,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-009",
+    id: "C1-009",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_009,
+    image: C1_009,
     number: 9,
     rarity: "",
     card_type: "",
@@ -379,11 +379,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-010",
+    id: "C1-010",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_010,
+    image: C1_010,
     number: 10,
     rarity: "",
     card_type: "",
@@ -397,11 +397,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-011",
+    id: "C1-011",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_011,
+    image: C1_011,
     number: 11,
     rarity: "",
     card_type: "",
@@ -415,11 +415,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-012",
+    id: "C1-012",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_012,
+    image: C1_012,
     number: 12,
     rarity: "",
     card_type: "",
@@ -433,11 +433,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-013",
+    id: "C1-013",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_013,
+    image: C1_013,
     number: 13,
     rarity: "",
     card_type: "",
@@ -451,11 +451,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-014",
+    id: "C1-014",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_014,
+    image: C1_014,
     number: 14,
     rarity: "",
     card_type: "",
@@ -469,11 +469,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-015",
+    id: "C1-015",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_015,
+    image: C1_015,
     number: 15,
     rarity: "",
     card_type: "",
@@ -487,11 +487,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-016",
+    id: "C1-016",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_016,
+    image: C1_016,
     number: 16,
     rarity: "",
     card_type: "",
@@ -505,11 +505,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-017",
+    id: "C1-017",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_017,
+    image: C1_017,
     number: 17,
     rarity: "",
     card_type: "",
@@ -523,11 +523,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-018",
+    id: "C1-018",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_018,
+    image: C1_018,
     number: 18,
     rarity: "",
     card_type: "",
@@ -541,11 +541,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-019",
+    id: "C1-019",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_019,
+    image: C1_019,
     number: 19,
     rarity: "",
     card_type: "",
@@ -559,11 +559,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-020",
+    id: "C1-020",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_020,
+    image: C1_020,
     number: 20,
     rarity: "",
     card_type: "",
@@ -577,11 +577,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-021",
+    id: "C1-021",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_021,
+    image: C1_021,
     number: 21,
     rarity: "",
     card_type: "",
@@ -595,11 +595,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-022",
+    id: "C1-022",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_022,
+    image: C1_022,
     number: 22,
     rarity: "",
     card_type: "",
@@ -613,11 +613,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-023",
+    id: "C1-023",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_023,
+    image: C1_023,
     number: 23,
     rarity: "",
     card_type: "",
@@ -631,11 +631,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-024",
+    id: "C1-024",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_024,
+    image: C1_024,
     number: 24,
     rarity: "",
     card_type: "",
@@ -649,11 +649,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-025",
+    id: "C1-025",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_025,
+    image: C1_025,
     number: 25,
     rarity: "",
     card_type: "",
@@ -667,11 +667,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-026",
+    id: "C1-026",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_026,
+    image: C1_026,
     number: 26,
     rarity: "",
     card_type: "",
@@ -685,11 +685,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-027",
+    id: "C1-027",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_027,
+    image: C1_027,
     number: 27,
     rarity: "",
     card_type: "",
@@ -703,11 +703,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-028",
+    id: "C1-028",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_028,
+    image: C1_028,
     number: 28,
     rarity: "",
     card_type: "",
@@ -721,11 +721,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-029",
+    id: "C1-029",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_029,
+    image: C1_029,
     number: 29,
     rarity: "",
     card_type: "",
@@ -739,11 +739,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-030",
+    id: "C1-030",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_030,
+    image: C1_030,
     number: 30,
     rarity: "",
     card_type: "",
@@ -757,11 +757,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-031",
+    id: "C1-031",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_031,
+    image: C1_031,
     number: 31,
     rarity: "",
     card_type: "",
@@ -775,11 +775,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-032",
+    id: "C1-032",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_032,
+    image: C1_032,
     number: 32,
     rarity: "",
     card_type: "",
@@ -793,11 +793,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-033",
+    id: "C1-033",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_033,
+    image: C1_033,
     number: 33,
     rarity: "",
     card_type: "",
@@ -811,11 +811,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-034",
+    id: "C1-034",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_034,
+    image: C1_034,
     number: 34,
     rarity: "",
     card_type: "",
@@ -829,11 +829,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-035",
+    id: "C1-035",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_035,
+    image: C1_035,
     number: 35,
     rarity: "",
     card_type: "",
@@ -847,11 +847,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-036",
+    id: "C1-036",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_036,
+    image: C1_036,
     number: 36,
     rarity: "",
     card_type: "",
@@ -865,11 +865,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-037",
+    id: "C1-037",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_037,
+    image: C1_037,
     number: 37,
     rarity: "",
     card_type: "",
@@ -883,11 +883,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-038",
+    id: "C1-038",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_038,
+    image: C1_038,
     number: 38,
     rarity: "",
     card_type: "",
@@ -901,11 +901,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-039",
+    id: "C1-039",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_039,
+    image: C1_039,
     number: 39,
     rarity: "",
     card_type: "",
@@ -919,11 +919,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-040",
+    id: "C1-040",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_040,
+    image: C1_040,
     number: 40,
     rarity: "",
     card_type: "",
@@ -937,11 +937,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-041",
+    id: "C1-041",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_041,
+    image: C1_041,
     number: 41,
     rarity: "",
     card_type: "",
@@ -955,11 +955,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-042",
+    id: "C1-042",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_042,
+    image: C1_042,
     number: 42,
     rarity: "",
     card_type: "",
@@ -973,11 +973,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-043",
+    id: "C1-043",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_043,
+    image: C1_043,
     number: 43,
     rarity: "",
     card_type: "",
@@ -991,11 +991,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-044",
+    id: "C1-044",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_044,
+    image: C1_044,
     number: 44,
     rarity: "",
     card_type: "",
@@ -1009,11 +1009,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-045",
+    id: "C1-045",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_045,
+    image: C1_045,
     number: 45,
     rarity: "",
     card_type: "",
@@ -1027,11 +1027,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-046",
+    id: "C1-046",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_046,
+    image: C1_046,
     number: 46,
     rarity: "",
     card_type: "",
@@ -1045,11 +1045,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-047",
+    id: "C1-047",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_047,
+    image: C1_047,
     number: 47,
     rarity: "",
     card_type: "",
@@ -1063,11 +1063,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-048",
+    id: "C1-048",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_048,
+    image: C1_048,
     number: 48,
     rarity: "",
     card_type: "",
@@ -1081,11 +1081,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-049",
+    id: "C1-049",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_049,
+    image: C1_049,
     number: 49,
     rarity: "",
     card_type: "",
@@ -1099,11 +1099,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-050",
+    id: "C1-050",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_050,
+    image: C1_050,
     number: 50,
     rarity: "",
     card_type: "",
@@ -1117,11 +1117,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-051",
+    id: "C1-051",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_051,
+    image: C1_051,
     number: 51,
     rarity: "",
     card_type: "",
@@ -1135,11 +1135,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-052",
+    id: "C1-052",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_052,
+    image: C1_052,
     number: 52,
     rarity: "",
     card_type: "",
@@ -1153,11 +1153,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-053",
+    id: "C1-053",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_053,
+    image: C1_053,
     number: 53,
     rarity: "",
     card_type: "",
@@ -1171,11 +1171,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-054",
+    id: "C1-054",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_054,
+    image: C1_054,
     number: 54,
     rarity: "",
     card_type: "",
@@ -1189,11 +1189,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-055",
+    id: "C1-055",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_055,
+    image: C1_055,
     number: 55,
     rarity: "",
     card_type: "",
@@ -1207,11 +1207,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-056",
+    id: "C1-056",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_056,
+    image: C1_056,
     number: 56,
     rarity: "",
     card_type: "",
@@ -1225,11 +1225,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-057",
+    id: "C1-057",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_057,
+    image: C1_057,
     number: 57,
     rarity: "",
     card_type: "",
@@ -1243,11 +1243,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-058",
+    id: "C1-058",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_058,
+    image: C1_058,
     number: 58,
     rarity: "",
     card_type: "",
@@ -1261,11 +1261,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-059",
+    id: "C1-059",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_059,
+    image: C1_059,
     number: 59,
     rarity: "",
     card_type: "",
@@ -1279,11 +1279,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-060",
+    id: "C1-060",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_060,
+    image: C1_060,
     number: 60,
     rarity: "",
     card_type: "",
@@ -1297,11 +1297,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-061",
+    id: "C1-061",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_061,
+    image: C1_061,
     number: 61,
     rarity: "",
     card_type: "",
@@ -1315,11 +1315,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-062",
+    id: "C1-062",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_062,
+    image: C1_062,
     number: 62,
     rarity: "",
     card_type: "",
@@ -1333,11 +1333,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-063",
+    id: "C1-063",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_063,
+    image: C1_063,
     number: 63,
     rarity: "",
     card_type: "",
@@ -1351,11 +1351,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-064",
+    id: "C1-064",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_064,
+    image: C1_064,
     number: 64,
     rarity: "",
     card_type: "",
@@ -1369,11 +1369,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-065",
+    id: "C1-065",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_065,
+    image: C1_065,
     number: 65,
     rarity: "",
     card_type: "",
@@ -1387,11 +1387,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-066",
+    id: "C1-066",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_066,
+    image: C1_066,
     number: 66,
     rarity: "",
     card_type: "",
@@ -1405,11 +1405,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-067",
+    id: "C1-067",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_067,
+    image: C1_067,
     number: 67,
     rarity: "",
     card_type: "",
@@ -1423,11 +1423,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-068",
+    id: "C1-068",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_068,
+    image: C1_068,
     number: 68,
     rarity: "",
     card_type: "",
@@ -1441,11 +1441,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-069",
+    id: "C1-069",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_069,
+    image: C1_069,
     number: 69,
     rarity: "",
     card_type: "",
@@ -1459,11 +1459,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-070",
+    id: "C1-070",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_070,
+    image: C1_070,
     number: 70,
     rarity: "",
     card_type: "",
@@ -1477,11 +1477,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-071",
+    id: "C1-071",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_071,
+    image: C1_071,
     number: 71,
     rarity: "",
     card_type: "",
@@ -1495,11 +1495,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-072",
+    id: "C1-072",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_072,
+    image: C1_072,
     number: 72,
     rarity: "",
     card_type: "",
@@ -1513,11 +1513,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-073",
+    id: "C1-073",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_073,
+    image: C1_073,
     number: 73,
     rarity: "",
     card_type: "",
@@ -1531,11 +1531,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-074",
+    id: "C1-074",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_074,
+    image: C1_074,
     number: 74,
     rarity: "",
     card_type: "",
@@ -1549,11 +1549,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-075",
+    id: "C1-075",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_075,
+    image: C1_075,
     number: 75,
     rarity: "",
     card_type: "",
@@ -1567,11 +1567,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-076",
+    id: "C1-076",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_076,
+    image: C1_076,
     number: 76,
     rarity: "",
     card_type: "",
@@ -1585,11 +1585,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-077",
+    id: "C1-077",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_077,
+    image: C1_077,
     number: 77,
     rarity: "",
     card_type: "",
@@ -1603,11 +1603,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-078",
+    id: "C1-078",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_078,
+    image: C1_078,
     number: 78,
     rarity: "",
     card_type: "",
@@ -1621,11 +1621,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-079",
+    id: "C1-079",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_079,
+    image: C1_079,
     number: 79,
     rarity: "",
     card_type: "",
@@ -1639,11 +1639,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-080",
+    id: "C1-080",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_080,
+    image: C1_080,
     number: 80,
     rarity: "",
     card_type: "",
@@ -1657,11 +1657,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-081",
+    id: "C1-081",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_081,
+    image: C1_081,
     number: 81,
     rarity: "",
     card_type: "",
@@ -1675,11 +1675,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-082",
+    id: "C1-082",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_082,
+    image: C1_082,
     number: 82,
     rarity: "",
     card_type: "",
@@ -1693,11 +1693,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-083",
+    id: "C1-083",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_083,
+    image: C1_083,
     number: 83,
     rarity: "",
     card_type: "",
@@ -1711,11 +1711,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-084",
+    id: "C1-084",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_084,
+    image: C1_084,
     number: 84,
     rarity: "",
     card_type: "",
@@ -1729,11 +1729,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-085",
+    id: "C1-085",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_085,
+    image: C1_085,
     number: 85,
     rarity: "",
     card_type: "",
@@ -1747,11 +1747,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-086",
+    id: "C1-086",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_086,
+    image: C1_086,
     number: 86,
     rarity: "",
     card_type: "",
@@ -1765,11 +1765,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-087",
+    id: "C1-087",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_087,
+    image: C1_087,
     number: 87,
     rarity: "",
     card_type: "",
@@ -1783,11 +1783,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-088",
+    id: "C1-088",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_088,
+    image: C1_088,
     number: 88,
     rarity: "",
     card_type: "",
@@ -1801,11 +1801,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-089",
+    id: "C1-089",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_089,
+    image: C1_089,
     number: 89,
     rarity: "",
     card_type: "",
@@ -1819,11 +1819,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-090",
+    id: "C1-090",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_090,
+    image: C1_090,
     number: 90,
     rarity: "",
     card_type: "",
@@ -1837,11 +1837,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-091",
+    id: "C1-091",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_091,
+    image: C1_091,
     number: 91,
     rarity: "",
     card_type: "",
@@ -1855,11 +1855,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-092",
+    id: "C1-092",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_092,
+    image: C1_092,
     number: 92,
     rarity: "",
     card_type: "",
@@ -1873,11 +1873,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-093",
+    id: "C1-093",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_093,
+    image: C1_093,
     number: 93,
     rarity: "",
     card_type: "",
@@ -1891,11 +1891,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-094",
+    id: "C1-094",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_094,
+    image: C1_094,
     number: 94,
     rarity: "",
     card_type: "",
@@ -1909,11 +1909,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-095",
+    id: "C1-095",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_095,
+    image: C1_095,
     number: 95,
     rarity: "",
     card_type: "",
@@ -1927,11 +1927,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-096",
+    id: "C1-096",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_096,
+    image: C1_096,
     number: 96,
     rarity: "",
     card_type: "",
@@ -1945,11 +1945,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-097",
+    id: "C1-097",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_097,
+    image: C1_097,
     number: 97,
     rarity: "",
     card_type: "",
@@ -1963,11 +1963,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-098",
+    id: "C1-098",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_098,
+    image: C1_098,
     number: 98,
     rarity: "",
     card_type: "",
@@ -1981,11 +1981,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-099",
+    id: "C1-099",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_099,
+    image: C1_099,
     number: 99,
     rarity: "",
     card_type: "",
@@ -1999,11 +1999,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-100",
+    id: "C1-100",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_100,
+    image: C1_100,
     number: 100,
     rarity: "",
     card_type: "",
@@ -2017,11 +2017,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-101",
+    id: "C1-101",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_101,
+    image: C1_101,
     number: 101,
     rarity: "",
     card_type: "",
@@ -2035,11 +2035,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-102",
+    id: "C1-102",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_102,
+    image: C1_102,
     number: 102,
     rarity: "",
     card_type: "",
@@ -2053,11 +2053,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-103",
+    id: "C1-103",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_103,
+    image: C1_103,
     number: 103,
     rarity: "",
     card_type: "",
@@ -2071,11 +2071,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-104",
+    id: "C1-104",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_104,
+    image: C1_104,
     number: 104,
     rarity: "",
     card_type: "",
@@ -2089,11 +2089,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-105",
+    id: "C1-105",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_105,
+    image: C1_105,
     number: 105,
     rarity: "",
     card_type: "",
@@ -2107,11 +2107,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-106",
+    id: "C1-106",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_106,
+    image: C1_106,
     number: 106,
     rarity: "",
     card_type: "",
@@ -2125,11 +2125,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-107",
+    id: "C1-107",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_107,
+    image: C1_107,
     number: 107,
     rarity: "",
     card_type: "",
@@ -2143,11 +2143,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-108",
+    id: "C1-108",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_108,
+    image: C1_108,
     number: 108,
     rarity: "",
     card_type: "",
@@ -2161,11 +2161,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-109",
+    id: "C1-109",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_109,
+    image: C1_109,
     number: 109,
     rarity: "",
     card_type: "",
@@ -2179,11 +2179,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-110",
+    id: "C1-110",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_110,
+    image: C1_110,
     number: 110,
     rarity: "",
     card_type: "",
@@ -2197,11 +2197,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-111",
+    id: "C1-111",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_111,
+    image: C1_111,
     number: 111,
     rarity: "",
     card_type: "",
@@ -2215,11 +2215,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-112",
+    id: "C1-112",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_112,
+    image: C1_112,
     number: 112,
     rarity: "",
     card_type: "",
@@ -2233,11 +2233,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-113",
+    id: "C1-113",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_113,
+    image: C1_113,
     number: 113,
     rarity: "",
     card_type: "",
@@ -2251,11 +2251,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-114",
+    id: "C1-114",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_114,
+    image: C1_114,
     number: 114,
     rarity: "",
     card_type: "",
@@ -2269,11 +2269,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-115",
+    id: "C1-115",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_115,
+    image: C1_115,
     number: 115,
     rarity: "",
     card_type: "",
@@ -2287,11 +2287,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-116",
+    id: "C1-116",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_116,
+    image: C1_116,
     number: 116,
     rarity: "",
     card_type: "",
@@ -2305,11 +2305,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-117",
+    id: "C1-117",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_117,
+    image: C1_117,
     number: 117,
     rarity: "",
     card_type: "",
@@ -2323,11 +2323,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-118",
+    id: "C1-118",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_118,
+    image: C1_118,
     number: 118,
     rarity: "",
     card_type: "",
@@ -2341,11 +2341,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-119",
+    id: "C1-119",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_119,
+    image: C1_119,
     number: 119,
     rarity: "",
     card_type: "",
@@ -2359,11 +2359,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-120",
+    id: "C1-120",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_120,
+    image: C1_120,
     number: 120,
     rarity: "",
     card_type: "",
@@ -2377,11 +2377,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-121",
+    id: "C1-121",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_121,
+    image: C1_121,
     number: 121,
     rarity: "",
     card_type: "",
@@ -2395,11 +2395,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-122",
+    id: "C1-122",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_122,
+    image: C1_122,
     number: 122,
     rarity: "",
     card_type: "",
@@ -2413,11 +2413,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-123",
+    id: "C1-123",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_123,
+    image: C1_123,
     number: 123,
     rarity: "",
     card_type: "",
@@ -2431,11 +2431,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-124",
+    id: "C1-124",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_124,
+    image: C1_124,
     number: 124,
     rarity: "",
     card_type: "",
@@ -2449,11 +2449,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-125",
+    id: "C1-125",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_125,
+    image: C1_125,
     number: 125,
     rarity: "",
     card_type: "",
@@ -2467,11 +2467,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-126",
+    id: "C1-126",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_126,
+    image: C1_126,
     number: 126,
     rarity: "",
     card_type: "",
@@ -2485,11 +2485,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-127",
+    id: "C1-127",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_127,
+    image: C1_127,
     number: 127,
     rarity: "",
     card_type: "",
@@ -2503,11 +2503,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-128",
+    id: "C1-128",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_128,
+    image: C1_128,
     number: 128,
     rarity: "",
     card_type: "",
@@ -2521,11 +2521,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-129",
+    id: "C1-129",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_129,
+    image: C1_129,
     number: 129,
     rarity: "",
     card_type: "",
@@ -2539,11 +2539,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-130",
+    id: "C1-130",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_130,
+    image: C1_130,
     number: 130,
     rarity: "",
     card_type: "",
@@ -2557,11 +2557,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-131",
+    id: "C1-131",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_131,
+    image: C1_131,
     number: 131,
     rarity: "",
     card_type: "",
@@ -2575,11 +2575,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-132",
+    id: "C1-132",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_132,
+    image: C1_132,
     number: 132,
     rarity: "",
     card_type: "",
@@ -2593,11 +2593,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-133",
+    id: "C1-133",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_133,
+    image: C1_133,
     number: 133,
     rarity: "",
     card_type: "",
@@ -2611,11 +2611,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-134",
+    id: "C1-134",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_134,
+    image: C1_134,
     number: 134,
     rarity: "",
     card_type: "",
@@ -2629,11 +2629,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-135",
+    id: "C1-135",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_135,
+    image: C1_135,
     number: 135,
     rarity: "",
     card_type: "",
@@ -2647,11 +2647,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-136",
+    id: "C1-136",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_136,
+    image: C1_136,
     number: 136,
     rarity: "",
     card_type: "",
@@ -2665,11 +2665,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-137",
+    id: "C1-137",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_137,
+    image: C1_137,
     number: 137,
     rarity: "",
     card_type: "",
@@ -2683,11 +2683,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-138",
+    id: "C1-138",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_138,
+    image: C1_138,
     number: 138,
     rarity: "",
     card_type: "",
@@ -2701,11 +2701,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-139",
+    id: "C1-139",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_139,
+    image: C1_139,
     number: 139,
     rarity: "",
     card_type: "",
@@ -2719,11 +2719,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-140",
+    id: "C1-140",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_140,
+    image: C1_140,
     number: 140,
     rarity: "",
     card_type: "",
@@ -2737,11 +2737,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-141",
+    id: "C1-141",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_141,
+    image: C1_141,
     number: 141,
     rarity: "",
     card_type: "",
@@ -2755,11 +2755,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-142",
+    id: "C1-142",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_142,
+    image: C1_142,
     number: 142,
     rarity: "",
     card_type: "",
@@ -2773,11 +2773,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-143",
+    id: "C1-143",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_143,
+    image: C1_143,
     number: 143,
     rarity: "",
     card_type: "",
@@ -2791,11 +2791,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-144",
+    id: "C1-144",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_144,
+    image: C1_144,
     number: 144,
     rarity: "",
     card_type: "",
@@ -2809,11 +2809,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-145",
+    id: "C1-145",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_145,
+    image: C1_145,
     number: 145,
     rarity: "",
     card_type: "",
@@ -2827,11 +2827,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-146",
+    id: "C1-146",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_146,
+    image: C1_146,
     number: 146,
     rarity: "",
     card_type: "",
@@ -2845,11 +2845,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-147",
+    id: "C1-147",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_147,
+    image: C1_147,
     number: 147,
     rarity: "",
     card_type: "",
@@ -2863,11 +2863,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-148",
+    id: "C1-148",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_148,
+    image: C1_148,
     number: 148,
     rarity: "",
     card_type: "",
@@ -2881,11 +2881,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-149",
+    id: "C1-149",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_149,
+    image: C1_149,
     number: 149,
     rarity: "",
     card_type: "",
@@ -2899,11 +2899,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-150",
+    id: "C1-150",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_150,
+    image: C1_150,
     number: 150,
     rarity: "",
     card_type: "",
@@ -2917,11 +2917,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-151",
+    id: "C1-151",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_151,
+    image: C1_151,
     number: 151,
     rarity: "",
     card_type: "",
@@ -2935,11 +2935,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-152",
+    id: "C1-152",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_152,
+    image: C1_152,
     number: 152,
     rarity: "",
     card_type: "",
@@ -2953,11 +2953,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-153",
+    id: "C1-153",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_153,
+    image: C1_153,
     number: 153,
     rarity: "",
     card_type: "",
@@ -2971,11 +2971,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-154",
+    id: "C1-154",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_154,
+    image: C1_154,
     number: 154,
     rarity: "",
     card_type: "",
@@ -2989,11 +2989,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-155",
+    id: "C1-155",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_155,
+    image: C1_155,
     number: 155,
     rarity: "",
     card_type: "",
@@ -3007,11 +3007,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-156",
+    id: "C1-156",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_156,
+    image: C1_156,
     number: 156,
     rarity: "",
     card_type: "",
@@ -3025,11 +3025,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-157",
+    id: "C1-157",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_157,
+    image: C1_157,
     number: 157,
     rarity: "",
     card_type: "",
@@ -3043,11 +3043,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-158",
+    id: "C1-158",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_158,
+    image: C1_158,
     number: 158,
     rarity: "",
     card_type: "",
@@ -3061,11 +3061,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-159",
+    id: "C1-159",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_159,
+    image: C1_159,
     number: 159,
     rarity: "",
     card_type: "",
@@ -3079,11 +3079,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-160",
+    id: "C1-160",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_160,
+    image: C1_160,
     number: 160,
     rarity: "",
     card_type: "",
@@ -3097,11 +3097,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-161",
+    id: "C1-161",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_161,
+    image: C1_161,
     number: 161,
     rarity: "",
     card_type: "",
@@ -3115,11 +3115,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-162",
+    id: "C1-162",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_162,
+    image: C1_162,
     number: 162,
     rarity: "",
     card_type: "",
@@ -3133,11 +3133,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-163",
+    id: "C1-163",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_163,
+    image: C1_163,
     number: 163,
     rarity: "",
     card_type: "",
@@ -3151,11 +3151,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-164",
+    id: "C1-164",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_164,
+    image: C1_164,
     number: 164,
     rarity: "",
     card_type: "",
@@ -3169,11 +3169,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-165",
+    id: "C1-165",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_165,
+    image: C1_165,
     number: 165,
     rarity: "",
     card_type: "",
@@ -3187,11 +3187,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-166",
+    id: "C1-166",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_166,
+    image: C1_166,
     number: 166,
     rarity: "",
     card_type: "",
@@ -3205,11 +3205,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-167",
+    id: "C1-167",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_167,
+    image: C1_167,
     number: 167,
     rarity: "",
     card_type: "",
@@ -3223,11 +3223,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-168",
+    id: "C1-168",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_168,
+    image: C1_168,
     number: 168,
     rarity: "",
     card_type: "",
@@ -3241,11 +3241,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-169",
+    id: "C1-169",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_169,
+    image: C1_169,
     number: 169,
     rarity: "",
     card_type: "",
@@ -3259,11 +3259,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-170",
+    id: "C1-170",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_170,
+    image: C1_170,
     number: 170,
     rarity: "",
     card_type: "",
@@ -3277,11 +3277,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-171",
+    id: "C1-171",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_171,
+    image: C1_171,
     number: 171,
     rarity: "",
     card_type: "",
@@ -3295,11 +3295,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-172",
+    id: "C1-172",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_172,
+    image: C1_172,
     number: 172,
     rarity: "",
     card_type: "",
@@ -3313,11 +3313,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-173",
+    id: "C1-173",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_173,
+    image: C1_173,
     number: 173,
     rarity: "",
     card_type: "",
@@ -3331,11 +3331,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-174",
+    id: "C1-174",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_174,
+    image: C1_174,
     number: 174,
     rarity: "",
     card_type: "",
@@ -3349,11 +3349,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-175",
+    id: "C1-175",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_175,
+    image: C1_175,
     number: 175,
     rarity: "",
     card_type: "",
@@ -3367,11 +3367,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-176",
+    id: "C1-176",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_176,
+    image: C1_176,
     number: 176,
     rarity: "",
     card_type: "",
@@ -3385,11 +3385,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-177",
+    id: "C1-177",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_177,
+    image: C1_177,
     number: 177,
     rarity: "",
     card_type: "",
@@ -3403,11 +3403,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-178",
+    id: "C1-178",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_178,
+    image: C1_178,
     number: 178,
     rarity: "",
     card_type: "",
@@ -3421,11 +3421,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-179",
+    id: "C1-179",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_179,
+    image: C1_179,
     number: 179,
     rarity: "",
     card_type: "",
@@ -3439,11 +3439,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-180",
+    id: "C1-180",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_180,
+    image: C1_180,
     number: 180,
     rarity: "",
     card_type: "",
@@ -3457,11 +3457,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-181",
+    id: "C1-181",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_181,
+    image: C1_181,
     number: 181,
     rarity: "",
     card_type: "",
@@ -3475,11 +3475,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-182",
+    id: "C1-182",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_182,
+    image: C1_182,
     number: 182,
     rarity: "",
     card_type: "",
@@ -3493,11 +3493,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-183",
+    id: "C1-183",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_183,
+    image: C1_183,
     number: 183,
     rarity: "",
     card_type: "",
@@ -3511,11 +3511,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-184",
+    id: "C1-184",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_184,
+    image: C1_184,
     number: 184,
     rarity: "",
     card_type: "",
@@ -3529,11 +3529,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-185",
+    id: "C1-185",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_185,
+    image: C1_185,
     number: 185,
     rarity: "",
     card_type: "",
@@ -3547,11 +3547,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-186",
+    id: "C1-186",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_186,
+    image: C1_186,
     number: 186,
     rarity: "",
     card_type: "",
@@ -3565,11 +3565,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-187",
+    id: "C1-187",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_187,
+    image: C1_187,
     number: 187,
     rarity: "",
     card_type: "",
@@ -3583,11 +3583,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-188",
+    id: "C1-188",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_188,
+    image: C1_188,
     number: 188,
     rarity: "",
     card_type: "",
@@ -3601,11 +3601,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-189",
+    id: "C1-189",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_189,
+    image: C1_189,
     number: 189,
     rarity: "",
     card_type: "",
@@ -3619,11 +3619,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-190",
+    id: "C1-190",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_190,
+    image: C1_190,
     number: 190,
     rarity: "",
     card_type: "",
@@ -3637,11 +3637,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-191",
+    id: "C1-191",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_191,
+    image: C1_191,
     number: 191,
     rarity: "",
     card_type: "",
@@ -3655,11 +3655,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-192",
+    id: "C1-192",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_192,
+    image: C1_192,
     number: 192,
     rarity: "",
     card_type: "",
@@ -3673,11 +3673,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-193",
+    id: "C1-193",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_193,
+    image: C1_193,
     number: 193,
     rarity: "",
     card_type: "",
@@ -3691,11 +3691,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-194",
+    id: "C1-194",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_194,
+    image: C1_194,
     number: 194,
     rarity: "",
     card_type: "",
@@ -3709,11 +3709,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-195",
+    id: "C1-195",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_195,
+    image: C1_195,
     number: 195,
     rarity: "",
     card_type: "",
@@ -3727,11 +3727,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-196",
+    id: "C1-196",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_196,
+    image: C1_196,
     number: 196,
     rarity: "",
     card_type: "",
@@ -3745,11 +3745,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-197",
+    id: "C1-197",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_197,
+    image: C1_197,
     number: 197,
     rarity: "",
     card_type: "",
@@ -3763,11 +3763,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-198",
+    id: "C1-198",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_198,
+    image: C1_198,
     number: 198,
     rarity: "",
     card_type: "",
@@ -3781,11 +3781,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-199",
+    id: "C1-199",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_199,
+    image: C1_199,
     number: 199,
     rarity: "",
     card_type: "",
@@ -3799,11 +3799,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-200",
+    id: "C1-200",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_200,
+    image: C1_200,
     number: 200,
     rarity: "",
     card_type: "",
@@ -3817,11 +3817,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-201",
+    id: "C1-201",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_201,
+    image: C1_201,
     number: 201,
     rarity: "",
     card_type: "",
@@ -3835,11 +3835,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-202",
+    id: "C1-202",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_202,
+    image: C1_202,
     number: 202,
     rarity: "",
     card_type: "",
@@ -3853,11 +3853,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-203",
+    id: "C1-203",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_203,
+    image: C1_203,
     number: 203,
     rarity: "",
     card_type: "",
@@ -3871,11 +3871,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-204",
+    id: "C1-204",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_204,
+    image: C1_204,
     number: 204,
     rarity: "",
     card_type: "",
@@ -3889,11 +3889,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-205",
+    id: "C1-205",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_205,
+    image: C1_205,
     number: 205,
     rarity: "",
     card_type: "",
@@ -3907,11 +3907,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-206",
+    id: "C1-206",
     name: "",
-    set: 2,
+    set: 1,
     color: "Ambre",
-    image: C2_206,
+    image: C1_206,
     number: 206,
     rarity: "",
     card_type: "",
@@ -3925,11 +3925,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-207",
+    id: "C1-207",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_207,
+    image: C1_207,
     number: 207,
     rarity: "",
     card_type: "",
@@ -3943,11 +3943,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-208",
+    id: "C1-208",
     name: "",
-    set: 2,
+    set: 1,
     color: "Améthyste",
-    image: C2_208,
+    image: C1_208,
     number: 208,
     rarity: "",
     card_type: "",
@@ -3961,11 +3961,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-209",
+    id: "C1-209",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_209,
+    image: C1_209,
     number: 209,
     rarity: "",
     card_type: "",
@@ -3979,11 +3979,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-210",
+    id: "C1-210",
     name: "",
-    set: 2,
+    set: 1,
     color: "Emeraude",
-    image: C2_210,
+    image: C1_210,
     number: 210,
     rarity: "",
     card_type: "",
@@ -3997,11 +3997,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-211",
+    id: "C1-211",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_211,
+    image: C1_211,
     number: 211,
     rarity: "",
     card_type: "",
@@ -4015,11 +4015,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-212",
+    id: "C1-212",
     name: "",
-    set: 2,
+    set: 1,
     color: "Rubis",
-    image: C2_212,
+    image: C1_212,
     number: 212,
     rarity: "",
     card_type: "",
@@ -4033,11 +4033,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-213",
+    id: "C1-213",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_213,
+    image: C1_213,
     number: 213,
     rarity: "",
     card_type: "",
@@ -4051,11 +4051,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-214",
+    id: "C1-214",
     name: "",
-    set: 2,
+    set: 1,
     color: "Saphir",
-    image: C2_214,
+    image: C1_214,
     number: 214,
     rarity: "",
     card_type: "",
@@ -4069,11 +4069,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-215",
+    id: "C1-215",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_215,
+    image: C1_215,
     number: 215,
     rarity: "",
     card_type: "",
@@ -4087,11 +4087,11 @@ export const lorcanaChapter2Cards = [
     classifications: "",
   },
   {
-    id: "C2-216",
+    id: "C1-216",
     name: "",
-    set: 2,
+    set: 1,
     color: "Acier",
-    image: C2_216,
+    image: C1_216,
     number: 216,
     rarity: "",
     card_type: "",
