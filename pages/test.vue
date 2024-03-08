@@ -3,7 +3,7 @@
         <div class="cards-container">
             <div v-for="(card, index) in cards" :key="index" class="card-container">
                 <p>{{ card.name }}</p>
-                <img :src="card.pic_url" alt="">
+                <img :src="card.image" alt="">
                 <button @click="addToDeck(card)" :disabled="isAlreadyInDeck(card)">{{ !isAlreadyInDeck(card) ? "add to deck" : "already in deck" }}</button>
             </div>
         </div>
@@ -20,7 +20,7 @@
     </div>
 </template>
 <script>
-import { cards } from '../data/cards';
+import { cards } from '../data/lorcanaCards';
 import { jsPDF } from 'jspdf'; // Import de jsPDF
 import backImageUrl from "../img/back.png";
 export default {
@@ -34,6 +34,9 @@ export default {
         }
     },
     methods: {
+        returnUrlImg(card) {
+            return `../img/cards/lorcana/chapter_3/${card.id}.png`
+        },
         updateQuantity(index) {
             // Assurez-vous que la quantité est un entier positif
             this.selectedCards[index].quantity = Math.max(0, Math.floor(this.selectedCards[index].quantity));

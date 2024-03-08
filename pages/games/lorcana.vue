@@ -3,7 +3,7 @@
         <div class="main-container">
             <div class="cards-container">
                 <div v-for="(card, index) in cards" :key="index" class="card-container">
-                    <img :src="card.pic_url" alt="">
+                    <img :src="card.image" alt="">
                     <button>Add</button>
                 </div>
             </div>
@@ -14,17 +14,17 @@
     </div>
 </template>
 <script>
-import { cards } from '../data/lorcanaCards';
+import { lorcanaAllCards } from '../data/lorcana/lorcanaAllCards';
 
 export default {
     data() {
         return {
-            cards: [...cards]
+            cards: [...lorcanaAllCards]
         }
     }
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 @import "../../style/color.scss";
 
 .altered-page-container {
@@ -52,15 +52,16 @@ export default {
                     width: 100%;
                     border-radius: 15px;
                     margin-bottom: 10px;
+                    border: 2px solid $tertiary;
+                    &:hover {
+                        scale: 125%;
+                    }
                 }
 
                 button {
                     margin: 10px;
                 }
 
-                &:hover {
-                    scale: 125%;
-                }
             }
         }
 

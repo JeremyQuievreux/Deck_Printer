@@ -24,7 +24,7 @@ export default {
     }
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 @import "../../style/color.scss";
 .altered-page-container {
     .main-container{

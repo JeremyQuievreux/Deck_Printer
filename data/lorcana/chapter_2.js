@@ -1,0 +1,1443 @@
+import C2_001 from "../img/cards/lorcana/chapter_2/C2_001.png";
+import C2_002 from "../img/cards/lorcana/chapter_2/C2_002.png";
+import C2_003 from "../img/cards/lorcana/chapter_2/C2_003.png";
+import C2_004 from "../img/cards/lorcana/chapter_2/C2_004.png";
+import C2_005 from "../img/cards/lorcana/chapter_2/C2_005.png";
+import C2_006 from "../img/cards/lorcana/chapter_2/C2_006.png";
+import C2_007 from "../img/cards/lorcana/chapter_2/C2_007.png";
+import C2_008 from "../img/cards/lorcana/chapter_2/C2_008.png";
+import C2_009 from "../img/cards/lorcana/chapter_2/C2_009.png";
+import C2_010 from "../img/cards/lorcana/chapter_2/C2_010.png";
+import C2_011 from "../img/cards/lorcana/chapter_2/C2_011.png";
+import C2_012 from "../img/cards/lorcana/chapter_2/C2_012.png";
+import C2_013 from "../img/cards/lorcana/chapter_2/C2_013.png";
+import C2_014 from "../img/cards/lorcana/chapter_2/C2_014.png";
+import C2_015 from "../img/cards/lorcana/chapter_2/C2_015.png";
+import C2_016 from "../img/cards/lorcana/chapter_2/C2_016.png";
+import C2_017 from "../img/cards/lorcana/chapter_2/C2_017.png";
+import C2_018 from "../img/cards/lorcana/chapter_2/C2_018.png";
+import C2_019 from "../img/cards/lorcana/chapter_2/C2_019.png";
+import C2_020 from "../img/cards/lorcana/chapter_2/C2_020.png";
+import C2_021 from "../img/cards/lorcana/chapter_2/C2_021.png";
+import C2_022 from "../img/cards/lorcana/chapter_2/C2_022.png";
+import C2_023 from "../img/cards/lorcana/chapter_2/C2_023.png";
+import C2_024 from "../img/cards/lorcana/chapter_2/C2_024.png";
+import C2_025 from "../img/cards/lorcana/chapter_2/C2_025.png";
+import C2_026 from "../img/cards/lorcana/chapter_2/C2_026.png";
+import C2_027 from "../img/cards/lorcana/chapter_2/C2_027.png";
+import C2_028 from "../img/cards/lorcana/chapter_2/C2_028.png";
+import C2_029 from "../img/cards/lorcana/chapter_2/C2_029.png";
+import C2_030 from "../img/cards/lorcana/chapter_2/C2_030.png";
+import C2_031 from "../img/cards/lorcana/chapter_2/C2_031.png";
+import C2_032 from "../img/cards/lorcana/chapter_2/C2_032.png";
+import C2_033 from "../img/cards/lorcana/chapter_2/C2_033.png";
+import C2_034 from "../img/cards/lorcana/chapter_2/C2_034.png";
+import C2_035 from "../img/cards/lorcana/chapter_2/C2_035.png";
+import C2_036 from "../img/cards/lorcana/chapter_2/C2_036.png";
+import C2_037 from "../img/cards/lorcana/chapter_2/C2_037.png";
+import C2_038 from "../img/cards/lorcana/chapter_2/C2_038.png";
+import C2_039 from "../img/cards/lorcana/chapter_2/C2_039.png";
+import C2_040 from "../img/cards/lorcana/chapter_2/C2_040.png";
+import C2_041 from "../img/cards/lorcana/chapter_2/C2_041.png";
+import C2_042 from "../img/cards/lorcana/chapter_2/C2_042.png";
+import C2_043 from "../img/cards/lorcana/chapter_2/C2_043.png";
+import C2_044 from "../img/cards/lorcana/chapter_2/C2_044.png";
+import C2_045 from "../img/cards/lorcana/chapter_2/C2_045.png";
+import C2_046 from "../img/cards/lorcana/chapter_2/C2_046.png";
+import C2_047 from "../img/cards/lorcana/chapter_2/C2_047.png";
+import C2_048 from "../img/cards/lorcana/chapter_2/C2_048.png";
+import C2_049 from "../img/cards/lorcana/chapter_2/C2_049.png";
+import C2_050 from "../img/cards/lorcana/chapter_2/C2_050.png";
+import C2_051 from "../img/cards/lorcana/chapter_2/C2_051.png";
+import C2_052 from "../img/cards/lorcana/chapter_2/C2_052.png";
+import C2_053 from "../img/cards/lorcana/chapter_2/C2_053.png";
+import C2_054 from "../img/cards/lorcana/chapter_2/C2_054.png";
+import C2_055 from "../img/cards/lorcana/chapter_2/C2_055.png";
+import C2_056 from "../img/cards/lorcana/chapter_2/C2_056.png";
+import C2_057 from "../img/cards/lorcana/chapter_2/C2_057.png";
+import C2_058 from "../img/cards/lorcana/chapter_2/C2_058.png";
+import C2_059 from "../img/cards/lorcana/chapter_2/C2_059.png";
+import C2_060 from "../img/cards/lorcana/chapter_2/C2_060.png";
+import C2_061 from "../img/cards/lorcana/chapter_2/C2_061.png";
+import C2_062 from "../img/cards/lorcana/chapter_2/C2_062.png";
+import C2_063 from "../img/cards/lorcana/chapter_2/C2_063.png";
+import C2_064 from "../img/cards/lorcana/chapter_2/C2_064.png";
+import C2_065 from "../img/cards/lorcana/chapter_2/C2_065.png";
+import C2_066 from "../img/cards/lorcana/chapter_2/C2_066.png";
+import C2_067 from "../img/cards/lorcana/chapter_2/C2_067.png";
+import C2_068 from "../img/cards/lorcana/chapter_2/C2_068.png";
+import C2_069 from "../img/cards/lorcana/chapter_2/C2_069.png";
+import C2_070 from "../img/cards/lorcana/chapter_2/C2_070.png";
+import C2_071 from "../img/cards/lorcana/chapter_2/C2_071.png";
+import C2_072 from "../img/cards/lorcana/chapter_2/C2_072.png";
+import C2_073 from "../img/cards/lorcana/chapter_2/C2_073.png";
+import C2_074 from "../img/cards/lorcana/chapter_2/C2_074.png";
+import C2_075 from "../img/cards/lorcana/chapter_2/C2_075.png";
+import C2_076 from "../img/cards/lorcana/chapter_2/C2_076.png";
+import C2_077 from "../img/cards/lorcana/chapter_2/C2_077.png";
+import C2_078 from "../img/cards/lorcana/chapter_2/C2_078.png";
+import C2_079 from "../img/cards/lorcana/chapter_2/C2_079.png";
+import C2_080 from "../img/cards/lorcana/chapter_2/C2_080.png";
+import C2_081 from "../img/cards/lorcana/chapter_2/C2_081.png";
+import C2_082 from "../img/cards/lorcana/chapter_2/C2_082.png";
+import C2_083 from "../img/cards/lorcana/chapter_2/C2_083.png";
+import C2_084 from "../img/cards/lorcana/chapter_2/C2_084.png";
+import C2_085 from "../img/cards/lorcana/chapter_2/C2_085.png";
+import C2_086 from "../img/cards/lorcana/chapter_2/C2_086.png";
+import C2_087 from "../img/cards/lorcana/chapter_2/C2_087.png";
+import C2_088 from "../img/cards/lorcana/chapter_2/C2_088.png";
+import C2_089 from "../img/cards/lorcana/chapter_2/C2_089.png";
+import C2_090 from "../img/cards/lorcana/chapter_2/C2_090.png";
+import C2_091 from "../img/cards/lorcana/chapter_2/C2_091.png";
+import C2_092 from "../img/cards/lorcana/chapter_2/C2_092.png";
+import C2_093 from "../img/cards/lorcana/chapter_2/C2_093.png";
+import C2_094 from "../img/cards/lorcana/chapter_2/C2_094.png";
+import C2_095 from "../img/cards/lorcana/chapter_2/C2_095.png";
+import C2_096 from "../img/cards/lorcana/chapter_2/C2_096.png";
+import C2_097 from "../img/cards/lorcana/chapter_2/C2_097.png";
+import C2_098 from "../img/cards/lorcana/chapter_2/C2_098.png";
+import C2_099 from "../img/cards/lorcana/chapter_2/C2_099.png";
+import C2_100 from "../img/cards/lorcana/chapter_2/C2_100.png";
+import C2_101 from "../img/cards/lorcana/chapter_2/C2_101.png";
+import C2_102 from "../img/cards/lorcana/chapter_2/C2_102.png";
+import C2_103 from "../img/cards/lorcana/chapter_2/C2_103.png";
+import C2_104 from "../img/cards/lorcana/chapter_2/C2_104.png";
+import C2_105 from "../img/cards/lorcana/chapter_2/C2_105.png";
+import C2_106 from "../img/cards/lorcana/chapter_2/C2_106.png";
+import C2_107 from "../img/cards/lorcana/chapter_2/C2_107.png";
+import C2_108 from "../img/cards/lorcana/chapter_2/C2_108.png";
+import C2_109 from "../img/cards/lorcana/chapter_2/C2_109.png";
+import C2_110 from "../img/cards/lorcana/chapter_2/C2_110.png";
+import C2_111 from "../img/cards/lorcana/chapter_2/C2_111.png";
+import C2_112 from "../img/cards/lorcana/chapter_2/C2_112.png";
+import C2_113 from "../img/cards/lorcana/chapter_2/C2_113.png";
+import C2_114 from "../img/cards/lorcana/chapter_2/C2_114.png";
+import C2_115 from "../img/cards/lorcana/chapter_2/C2_115.png";
+import C2_116 from "../img/cards/lorcana/chapter_2/C2_116.png";
+import C2_117 from "../img/cards/lorcana/chapter_2/C2_117.png";
+import C2_118 from "../img/cards/lorcana/chapter_2/C2_118.png";
+import C2_119 from "../img/cards/lorcana/chapter_2/C2_119.png";
+import C2_120 from "../img/cards/lorcana/chapter_2/C2_120.png";
+import C2_121 from "../img/cards/lorcana/chapter_2/C2_121.png";
+import C2_122 from "../img/cards/lorcana/chapter_2/C2_122.png";
+import C2_123 from "../img/cards/lorcana/chapter_2/C2_123.png";
+import C2_124 from "../img/cards/lorcana/chapter_2/C2_124.png";
+import C2_125 from "../img/cards/lorcana/chapter_2/C2_125.png";
+import C2_126 from "../img/cards/lorcana/chapter_2/C2_126.png";
+import C2_127 from "../img/cards/lorcana/chapter_2/C2_127.png";
+import C2_128 from "../img/cards/lorcana/chapter_2/C2_128.png";
+import C2_129 from "../img/cards/lorcana/chapter_2/C2_129.png";
+import C2_130 from "../img/cards/lorcana/chapter_2/C2_130.png";
+import C2_131 from "../img/cards/lorcana/chapter_2/C2_131.png";
+import C2_132 from "../img/cards/lorcana/chapter_2/C2_132.png";
+import C2_133 from "../img/cards/lorcana/chapter_2/C2_133.png";
+import C2_134 from "../img/cards/lorcana/chapter_2/C2_134.png";
+import C2_135 from "../img/cards/lorcana/chapter_2/C2_135.png";
+import C2_136 from "../img/cards/lorcana/chapter_2/C2_136.png";
+import C2_137 from "../img/cards/lorcana/chapter_2/C2_137.png";
+import C2_138 from "../img/cards/lorcana/chapter_2/C2_138.png";
+import C2_139 from "../img/cards/lorcana/chapter_2/C2_139.png";
+import C2_140 from "../img/cards/lorcana/chapter_2/C2_140.png";
+import C2_141 from "../img/cards/lorcana/chapter_2/C2_141.png";
+import C2_142 from "../img/cards/lorcana/chapter_2/C2_142.png";
+import C2_143 from "../img/cards/lorcana/chapter_2/C2_143.png";
+import C2_144 from "../img/cards/lorcana/chapter_2/C2_144.png";
+import C2_145 from "../img/cards/lorcana/chapter_2/C2_145.png";
+import C2_146 from "../img/cards/lorcana/chapter_2/C2_146.png";
+import C2_147 from "../img/cards/lorcana/chapter_2/C2_147.png";
+import C2_148 from "../img/cards/lorcana/chapter_2/C2_148.png";
+import C2_149 from "../img/cards/lorcana/chapter_2/C2_149.png";
+import C2_150 from "../img/cards/lorcana/chapter_2/C2_150.png";
+import C2_151 from "../img/cards/lorcana/chapter_2/C2_151.png";
+import C2_152 from "../img/cards/lorcana/chapter_2/C2_152.png";
+import C2_153 from "../img/cards/lorcana/chapter_2/C2_153.png";
+import C2_154 from "../img/cards/lorcana/chapter_2/C2_154.png";
+import C2_155 from "../img/cards/lorcana/chapter_2/C2_155.png";
+import C2_156 from "../img/cards/lorcana/chapter_2/C2_156.png";
+import C2_157 from "../img/cards/lorcana/chapter_2/C2_157.png";
+import C2_158 from "../img/cards/lorcana/chapter_2/C2_158.png";
+import C2_159 from "../img/cards/lorcana/chapter_2/C2_159.png";
+import C2_160 from "../img/cards/lorcana/chapter_2/C2_160.png";
+import C2_161 from "../img/cards/lorcana/chapter_2/C2_161.png";
+import C2_162 from "../img/cards/lorcana/chapter_2/C2_162.png";
+import C2_163 from "../img/cards/lorcana/chapter_2/C2_163.png";
+import C2_164 from "../img/cards/lorcana/chapter_2/C2_164.png";
+import C2_165 from "../img/cards/lorcana/chapter_2/C2_165.png";
+import C2_166 from "../img/cards/lorcana/chapter_2/C2_166.png";
+import C2_167 from "../img/cards/lorcana/chapter_2/C2_167.png";
+import C2_168 from "../img/cards/lorcana/chapter_2/C2_168.png";
+import C2_169 from "../img/cards/lorcana/chapter_2/C2_169.png";
+import C2_170 from "../img/cards/lorcana/chapter_2/C2_170.png";
+import C2_171 from "../img/cards/lorcana/chapter_2/C2_171.png";
+import C2_172 from "../img/cards/lorcana/chapter_2/C2_172.png";
+import C2_173 from "../img/cards/lorcana/chapter_2/C2_173.png";
+import C2_174 from "../img/cards/lorcana/chapter_2/C2_174.png";
+import C2_175 from "../img/cards/lorcana/chapter_2/C2_175.png";
+import C2_176 from "../img/cards/lorcana/chapter_2/C2_176.png";
+import C2_177 from "../img/cards/lorcana/chapter_2/C2_177.png";
+import C2_178 from "../img/cards/lorcana/chapter_2/C2_178.png";
+import C2_179 from "../img/cards/lorcana/chapter_2/C2_179.png";
+import C2_180 from "../img/cards/lorcana/chapter_2/C2_180.png";
+import C2_181 from "../img/cards/lorcana/chapter_2/C2_181.png";
+import C2_182 from "../img/cards/lorcana/chapter_2/C2_182.png";
+import C2_183 from "../img/cards/lorcana/chapter_2/C2_183.png";
+import C2_184 from "../img/cards/lorcana/chapter_2/C2_184.png";
+import C2_185 from "../img/cards/lorcana/chapter_2/C2_185.png";
+import C2_186 from "../img/cards/lorcana/chapter_2/C2_186.png";
+import C2_187 from "../img/cards/lorcana/chapter_2/C2_187.png";
+import C2_188 from "../img/cards/lorcana/chapter_2/C2_188.png";
+import C2_189 from "../img/cards/lorcana/chapter_2/C2_189.png";
+import C2_190 from "../img/cards/lorcana/chapter_2/C2_190.png";
+import C2_191 from "../img/cards/lorcana/chapter_2/C2_191.png";
+import C2_192 from "../img/cards/lorcana/chapter_2/C2_192.png";
+import C2_193 from "../img/cards/lorcana/chapter_2/C2_193.png";
+import C2_194 from "../img/cards/lorcana/chapter_2/C2_194.png";
+import C2_195 from "../img/cards/lorcana/chapter_2/C2_195.png";
+import C2_196 from "../img/cards/lorcana/chapter_2/C2_196.png";
+import C2_197 from "../img/cards/lorcana/chapter_2/C2_197.png";
+import C2_198 from "../img/cards/lorcana/chapter_2/C2_198.png";
+import C2_199 from "../img/cards/lorcana/chapter_2/C2_199.png";
+import C2_200 from "../img/cards/lorcana/chapter_2/C2_200.png";
+import C2_201 from "../img/cards/lorcana/chapter_2/C2_201.png";
+import C2_202 from "../img/cards/lorcana/chapter_2/C2_202.png";
+import C2_203 from "../img/cards/lorcana/chapter_2/C2_203.png";
+import C2_204 from "../img/cards/lorcana/chapter_2/C2_204.png";
+import C2_205 from "../img/cards/lorcana/chapter_2/C2_205.png";
+import C2_206 from "../img/cards/lorcana/chapter_2/C2_206.png";
+import C2_207 from "../img/cards/lorcana/chapter_2/C2_207.png";
+import C2_208 from "../img/cards/lorcana/chapter_2/C2_208.png";
+import C2_209 from "../img/cards/lorcana/chapter_2/C2_209.png";
+import C2_210 from "../img/cards/lorcana/chapter_2/C2_210.png";
+import C2_211 from "../img/cards/lorcana/chapter_2/C2_211.png";
+import C2_212 from "../img/cards/lorcana/chapter_2/C2_212.png";
+import C2_213 from "../img/cards/lorcana/chapter_2/C2_213.png";
+import C2_214 from "../img/cards/lorcana/chapter_2/C2_214.png";
+import C2_215 from "../img/cards/lorcana/chapter_2/C2_215.png";
+import C2_216 from "../img/cards/lorcana/chapter_2/C2_216.png";
+
+export const lorcanaChapter2Cards = [
+  {
+    id: "C2-001",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_001,
+    number: 1,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-002",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_002,
+    number: 2,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-003",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_003,
+    number: 3,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-004",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_004,
+    number: 4,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-005",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_005,
+    number: 5,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-006",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_006,
+    number: 6,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-007",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_007,
+    number: 7,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-008",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_008,
+    number: 8,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-009",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_009,
+    number: 9,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-010",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_010,
+    number: 10,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-011",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_011,
+    number: 11,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-012",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_012,
+    number: 12,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-013",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_013,
+    number: 13,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-014",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_014,
+    number: 14,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-015",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_015,
+    number: 15,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-016",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_016,
+    number: 16,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-017",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_017,
+    number: 17,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-018",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_018,
+    number: 18,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-019",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_019,
+    number: 19,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-020",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_020,
+    number: 20,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-021",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_021,
+    number: 21,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-022",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_022,
+    number: 22,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-023",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_023,
+    number: 23,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-024",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_024,
+    number: 24,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-025",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_025,
+    number: 25,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-026",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_026,
+    number: 26,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-027",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_027,
+    number: 27,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-028",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_028,
+    number: 28,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-029",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_029,
+    number: 29,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-030",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_030,
+    number: 30,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-031",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_031,
+    number: 31,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-032",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_032,
+    number: 32,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-033",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_033,
+    number: 33,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  {
+    id: "C2-034",
+    name: "",
+    set: "Chapitre 2",
+    color: "Ambre",
+    image: C2_034,
+    number: 34,
+    rarity: "",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+  // {
+  //   id: "C2-",
+  //   name: "",
+  //   set: "Chapitre 2",
+  //   color: "Améthyste",
+  //   image: C2_,
+  //   number: "",
+  //   rarity: "",
+  //   card_type: "",
+  //   cost: "",
+  //   inkwell: "",
+  //   strength: "",
+  //   willpower: "",
+  //   lore: "",
+  //   movement: "",
+  //   keywords: "",
+  //   classifications: "",
+  // },
+];
