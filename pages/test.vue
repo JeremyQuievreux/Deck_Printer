@@ -20,7 +20,7 @@
     </div>
 </template>
 <script>
-import { cards } from '../data/lorcanaCards';
+import { lorcanaAllCards } from '../data/lorcana/lorcanaAllCards';
 import { jsPDF } from 'jspdf'; // Import de jsPDF
 import backImageUrl from "../img/back.png";
 export default {
@@ -28,7 +28,7 @@ export default {
         return {
             test: "Hello World",
             jeremy: "Jeremy",
-            cards: [...cards],
+            cards: [...lorcanaAllCards],
             selectedCards: [],
             backImageUrl: backImageUrl
         }
@@ -119,19 +119,19 @@ export default {
                     const col = (j - i) % 3; // 3 cartes par colonne
                     const x = marginLeft + col * (cardWidth + horizontalSpacing); // Position x de la carte
                     const y = marginTop + row * (cardHeight + verticalSpacing); // Position y de la carte
-                    doc.addImage(selectedCards[j].pic_url, 'PNG', x, y, cardWidth, cardHeight);
+                    doc.addImage(selectedCards[j].image, 'PNG', x, y, cardWidth, cardHeight);
                 }
-                // Ajouter une page vide après chaque page de cartes
-                doc.addPage();
+                // // Ajouter une page vide après chaque page de cartes
+                // doc.addPage();
 
-                // Ajouter neuf images du dos de la carte sur la page vide
-                for (let k = 0; k < 3; k++) {
-                    for (let l = 0; l < 3; l++) {
-                        const x = marginLeft + k * (cardWidth + horizontalSpacing);
-                        const y = marginTop + l * (cardHeight + verticalSpacing);
-                        doc.addImage(this.backImageUrl, 'PNG', x, y, cardWidth, cardHeight);
-                    }
-                }
+                // // Ajouter neuf images du dos de la carte sur la page vide
+                // for (let k = 0; k < 3; k++) {
+                //     for (let l = 0; l < 3; l++) {
+                //         const x = marginLeft + k * (cardWidth + horizontalSpacing);
+                //         const y = marginTop + l * (cardHeight + verticalSpacing);
+                //         doc.addImage(this.backImageUrl, 'PNG', x, y, cardWidth, cardHeight);
+                //     }
+                // }
 
                 pageNumber++;
             }
