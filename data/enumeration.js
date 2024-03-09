@@ -12,6 +12,32 @@ export const lorcanaSetsEnumeration = [
     value: 3,
   },
 ];
+export const lorcanaRarityEnumeration = [
+  {
+    label: "Commune",
+    value: "common",
+  },
+  {
+    label: "Peu commune",
+    value: "uncommon",
+  },
+  {
+    label: "Rare",
+    value: "rare",
+  },
+  {
+    label: "Super-rare",
+    value: "super-rare",
+  },
+  {
+    label: "Legendaire",
+    value: "legendary",
+  },
+  {
+    label: "Enchantée",
+    value: "enchanted",
+  },
+];
 export const lorcanaColorsEnumeration = [
   {
     label: "Ambre",

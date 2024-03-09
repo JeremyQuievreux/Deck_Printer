@@ -9,10 +9,17 @@
                 </select>
             </div>
             <div class="color-filter-select">
-                <label for="color-filter">Choisir le set : </label>
+                <label for="color-filter">Choisir la couleur : </label>
                 <select name="color-filter" id="color-filter" v-model="selectedColor" @change="onFilterChange">
                     <option value="all">...</option>
                     <option v-for="(color, index) in lorcanaColorsEnumeration" :key="index" :value="color.value">{{ color.label }}</option>
+                </select>
+            </div>
+            <div class="color-filter-select">
+                <label for="color-filter">Choisir la raretée : </label>
+                <select name="color-filter" id="color-filter" v-model="selectedRarity" @change="onFilterChange">
+                    <option value="all">...</option>
+                    <option v-for="(rarity, index) in lorcanaRarityEnumeration" :key="index" :value="rarity.value">{{ rarity.label }}</option>
                 </select>
             </div>
         </div>
@@ -20,39 +27,87 @@
             <div class="cards-container">
                 <div v-for="(card, index) in filteredCards" :key="index" class="card-container">
                     <img :src="card.image" alt="">
-                    <button>Add</button>
+                    <button @click="addToDeck(card)" :disabled="isAlreadyInDeck(card)">{{ !isAlreadyInDeck(card) ? "add to deck" : "already in deck" }}</button>
                 </div>
             </div>
             <div class="deck-container">
-
+                <div v-for="(card, index) in selectedCards" :key="index" class="deck-card-container">
+                    <p >{{ card.id }}</p>
+                    <button @click="decrementCard(card)">-</button>
+                    <p>{{ card.quantity }}</p>
+                    <button @click="incrementCard(card)">+</button>
+                </div>
             </div>
         </div>
     </div>
 </template>
 <script>
 import { lorcanaAllCards } from '../data/lorcana/lorcanaAllCards';
-import { lorcanaSetsEnumeration } from '../data/enumeration';
-import { lorcanaColorsEnumeration } from '../data/enumeration';
+import { lorcanaSetsEnumeration, lorcanaColorsEnumeration, lorcanaRarityEnumeration } from '../data/enumeration';
 
 export default {
     data() {
         return {
             filteredCards: [],
+            selectedCards: [],
             lorcanaSetsEnumeration: lorcanaSetsEnumeration,
             lorcanaColorsEnumeration: lorcanaColorsEnumeration,
+            lorcanaRarityEnumeration: lorcanaRarityEnumeration,
             selectedSet: "all",
-            selectedColor: "all"
+            selectedColor: "all",
+            selectedRarity: "all"
         }
     },
     created() {
         this.filteredCards = lorcanaAllCards;
     },
     methods: {
+        isAlreadyInDeck(card){
+            const index = this.selectedCards.findIndex(selectedCard => selectedCard.id === card.id);
+
+            if (index !== -1) {
+                // Si l'objet existe déjà, incrémenter la propriété quantity
+                return true
+            } else {
+                // Si l'objet n'existe pas, l'ajouter à l'array avec une propriété quantity de 1
+                return false
+            }
+        },
+        addToDeck(card){
+            const index = this.selectedCards.findIndex(selectedCard => selectedCard.id === card.id);
+
+            if (index !== -1) {
+                // Si l'objet existe déjà, incrémenter la propriété quantity
+                this.selectedCards[index].quantity += 1;
+            } else {
+                // Si l'objet n'existe pas, l'ajouter à l'array avec une propriété quantity de 1
+                card.quantity = 1;
+                this.selectedCards.push(card);
+            }
+        },
+        incrementCard(card){
+            card.quantity += 1
+        },
+        decrementCard(card){
+            if (card.quantity > 1) {
+                card.quantity -= 1
+            } else {
+                let indexToDelete = this.selectedCards.findIndex(selectedCard => selectedCard.id == card.id);
+                this.selectedCards.splice(indexToDelete, 1)
+            }
+        },
         filterCardsBySet(cardsToFilter, setFilter){
             if (setFilter == "all") {
                 return cardsToFilter
             } else {
                 return cardsToFilter.filter((card) => card.set == setFilter)
+            }
+        },
+        filterCardsByRarity(cardsToFilter, rarityFilter){
+            if (rarityFilter == "all") {
+                return cardsToFilter
+            } else {
+                return cardsToFilter.filter((card) => card.rarity == rarityFilter)
             }
         },
         filterCardsByColor(cardsToFilter, colorFilter){
@@ -65,7 +120,8 @@ export default {
         onFilterChange(){
             let cardsFilteredBySet = this.filterCardsBySet(lorcanaAllCards, this.selectedSet);
             let cardsFilteredByColor = this.filterCardsByColor(cardsFilteredBySet, this.selectedColor);
-            this.filteredCards = [...cardsFilteredByColor];
+            let cardsFilteredByRarity = this.filterCardsByRarity(cardsFilteredByColor, this.selectedRarity);
+            this.filteredCards = [...cardsFilteredByRarity];
         }
     }
 }
@@ -74,12 +130,9 @@ export default {
 @import "../../style/color.scss";
 
 .lorcana-page-container {
-    border: 2px dotted red;
     display: flex;
     flex-direction: column;
     .filter-bar-container{
-        height: 100px;
-        border: 2px solid pink;
         display: flex;
         align-items: center;
         justify-content: space-around;
