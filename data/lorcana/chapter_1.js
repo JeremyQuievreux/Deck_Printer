@@ -101,7 +101,7 @@ import C1_100 from "../img/cards/lorcana/chapter_1/C1_100.png";
 import C1_101 from "../img/cards/lorcana/chapter_1/C1_101.png";
 import C1_102 from "../img/cards/lorcana/chapter_1/C1_102.png";
 import C1_103 from "../img/cards/lorcana/chapter_1/C1_103.png";
-// import C1_104 from "../img/cards/lorcana/chapter_1/C1_104.png";
+import C1_104 from "../img/cards/lorcana/chapter_1/C1_104.png";
 import C1_105 from "../img/cards/lorcana/chapter_1/C1_105.png";
 import C1_106 from "../img/cards/lorcana/chapter_1/C1_106.png";
 import C1_107 from "../img/cards/lorcana/chapter_1/C1_107.png";
@@ -2070,24 +2070,24 @@ export const lorcanaChapter1Cards = [
     keywords: "",
     classifications: "",
   },
-  // {
-  //   id: "C1-104",
-  //   name: "",
-  //   set: 1,
-  //   color: "Rubis",
-  //   image: C1_104,
-  //   number: 104,
-  //   rarity: "super-rare",
-  //   card_type: "",
-  //   cost: "",
-  //   inkwell: "",
-  //   strength: "",
-  //   willpower: "",
-  //   lore: "",
-  //   movement: "",
-  //   keywords: "",
-  //   classifications: "",
-  // },
+  {
+    id: "C1-104",
+    name: "",
+    set: 1,
+    color: "Rubis",
+    image: C1_104,
+    number: 104,
+    rarity: "super-rare",
+    card_type: "",
+    cost: "",
+    inkwell: "",
+    strength: "",
+    willpower: "",
+    lore: "",
+    movement: "",
+    keywords: "",
+    classifications: "",
+  },
   {
     id: "C1-105",
     name: "",
