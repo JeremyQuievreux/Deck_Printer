@@ -1,227 +1,10 @@
-import C1_001 from "../img/cards/lorcana/chapter_1/C1_001.png";
-import C1_002 from "../img/cards/lorcana/chapter_1/C1_002.png";
-import C1_003 from "../img/cards/lorcana/chapter_1/C1_003.png";
-import C1_004 from "../img/cards/lorcana/chapter_1/C1_004.png";
-import C1_005 from "../img/cards/lorcana/chapter_1/C1_005.png";
-import C1_006 from "../img/cards/lorcana/chapter_1/C1_006.png";
-import C1_007 from "../img/cards/lorcana/chapter_1/C1_007.png";
-import C1_008 from "../img/cards/lorcana/chapter_1/C1_008.png";
-import C1_009 from "../img/cards/lorcana/chapter_1/C1_009.png";
-import C1_010 from "../img/cards/lorcana/chapter_1/C1_010.png";
-import C1_011 from "../img/cards/lorcana/chapter_1/C1_011.png";
-import C1_012 from "../img/cards/lorcana/chapter_1/C1_012.png";
-import C1_013 from "../img/cards/lorcana/chapter_1/C1_013.png";
-import C1_014 from "../img/cards/lorcana/chapter_1/C1_014.png";
-import C1_015 from "../img/cards/lorcana/chapter_1/C1_015.png";
-import C1_016 from "../img/cards/lorcana/chapter_1/C1_016.png";
-import C1_017 from "../img/cards/lorcana/chapter_1/C1_017.png";
-import C1_018 from "../img/cards/lorcana/chapter_1/C1_018.png";
-import C1_019 from "../img/cards/lorcana/chapter_1/C1_019.png";
-import C1_020 from "../img/cards/lorcana/chapter_1/C1_020.png";
-import C1_021 from "../img/cards/lorcana/chapter_1/C1_021.png";
-import C1_022 from "../img/cards/lorcana/chapter_1/C1_022.png";
-import C1_023 from "../img/cards/lorcana/chapter_1/C1_023.png";
-import C1_024 from "../img/cards/lorcana/chapter_1/C1_024.png";
-import C1_025 from "../img/cards/lorcana/chapter_1/C1_025.png";
-import C1_026 from "../img/cards/lorcana/chapter_1/C1_026.png";
-import C1_027 from "../img/cards/lorcana/chapter_1/C1_027.png";
-import C1_028 from "../img/cards/lorcana/chapter_1/C1_028.png";
-import C1_029 from "../img/cards/lorcana/chapter_1/C1_029.png";
-import C1_030 from "../img/cards/lorcana/chapter_1/C1_030.png";
-import C1_031 from "../img/cards/lorcana/chapter_1/C1_031.png";
-import C1_032 from "../img/cards/lorcana/chapter_1/C1_032.png";
-import C1_033 from "../img/cards/lorcana/chapter_1/C1_033.png";
-import C1_034 from "../img/cards/lorcana/chapter_1/C1_034.png";
-import C1_035 from "../img/cards/lorcana/chapter_1/C1_035.png";
-import C1_036 from "../img/cards/lorcana/chapter_1/C1_036.png";
-import C1_037 from "../img/cards/lorcana/chapter_1/C1_037.png";
-import C1_038 from "../img/cards/lorcana/chapter_1/C1_038.png";
-import C1_039 from "../img/cards/lorcana/chapter_1/C1_039.png";
-import C1_040 from "../img/cards/lorcana/chapter_1/C1_040.png";
-import C1_041 from "../img/cards/lorcana/chapter_1/C1_041.png";
-import C1_042 from "../img/cards/lorcana/chapter_1/C1_042.png";
-import C1_043 from "../img/cards/lorcana/chapter_1/C1_043.png";
-import C1_044 from "../img/cards/lorcana/chapter_1/C1_044.png";
-import C1_045 from "../img/cards/lorcana/chapter_1/C1_045.png";
-import C1_046 from "../img/cards/lorcana/chapter_1/C1_046.png";
-import C1_047 from "../img/cards/lorcana/chapter_1/C1_047.png";
-import C1_048 from "../img/cards/lorcana/chapter_1/C1_048.png";
-import C1_049 from "../img/cards/lorcana/chapter_1/C1_049.png";
-import C1_050 from "../img/cards/lorcana/chapter_1/C1_050.png";
-import C1_051 from "../img/cards/lorcana/chapter_1/C1_051.png";
-import C1_052 from "../img/cards/lorcana/chapter_1/C1_052.png";
-import C1_053 from "../img/cards/lorcana/chapter_1/C1_053.png";
-import C1_054 from "../img/cards/lorcana/chapter_1/C1_054.png";
-import C1_055 from "../img/cards/lorcana/chapter_1/C1_055.png";
-import C1_056 from "../img/cards/lorcana/chapter_1/C1_056.png";
-import C1_057 from "../img/cards/lorcana/chapter_1/C1_057.png";
-import C1_058 from "../img/cards/lorcana/chapter_1/C1_058.png";
-import C1_059 from "../img/cards/lorcana/chapter_1/C1_059.png";
-import C1_060 from "../img/cards/lorcana/chapter_1/C1_060.png";
-import C1_061 from "../img/cards/lorcana/chapter_1/C1_061.png";
-import C1_062 from "../img/cards/lorcana/chapter_1/C1_062.png";
-import C1_063 from "../img/cards/lorcana/chapter_1/C1_063.png";
-import C1_064 from "../img/cards/lorcana/chapter_1/C1_064.png";
-import C1_065 from "../img/cards/lorcana/chapter_1/C1_065.png";
-import C1_066 from "../img/cards/lorcana/chapter_1/C1_066.png";
-import C1_067 from "../img/cards/lorcana/chapter_1/C1_067.png";
-import C1_068 from "../img/cards/lorcana/chapter_1/C1_068.png";
-import C1_069 from "../img/cards/lorcana/chapter_1/C1_069.png";
-import C1_070 from "../img/cards/lorcana/chapter_1/C1_070.png";
-import C1_071 from "../img/cards/lorcana/chapter_1/C1_071.png";
-import C1_072 from "../img/cards/lorcana/chapter_1/C1_072.png";
-import C1_073 from "../img/cards/lorcana/chapter_1/C1_073.png";
-import C1_074 from "../img/cards/lorcana/chapter_1/C1_074.png";
-import C1_075 from "../img/cards/lorcana/chapter_1/C1_075.png";
-import C1_076 from "../img/cards/lorcana/chapter_1/C1_076.png";
-import C1_077 from "../img/cards/lorcana/chapter_1/C1_077.png";
-import C1_078 from "../img/cards/lorcana/chapter_1/C1_078.png";
-import C1_079 from "../img/cards/lorcana/chapter_1/C1_079.png";
-import C1_080 from "../img/cards/lorcana/chapter_1/C1_080.png";
-import C1_081 from "../img/cards/lorcana/chapter_1/C1_081.png";
-import C1_082 from "../img/cards/lorcana/chapter_1/C1_082.png";
-import C1_083 from "../img/cards/lorcana/chapter_1/C1_083.png";
-import C1_084 from "../img/cards/lorcana/chapter_1/C1_084.png";
-import C1_085 from "../img/cards/lorcana/chapter_1/C1_085.png";
-import C1_086 from "../img/cards/lorcana/chapter_1/C1_086.png";
-import C1_087 from "../img/cards/lorcana/chapter_1/C1_087.png";
-import C1_088 from "../img/cards/lorcana/chapter_1/C1_088.png";
-import C1_089 from "../img/cards/lorcana/chapter_1/C1_089.png";
-import C1_090 from "../img/cards/lorcana/chapter_1/C1_090.png";
-import C1_091 from "../img/cards/lorcana/chapter_1/C1_091.png";
-import C1_092 from "../img/cards/lorcana/chapter_1/C1_092.png";
-import C1_093 from "../img/cards/lorcana/chapter_1/C1_093.png";
-import C1_094 from "../img/cards/lorcana/chapter_1/C1_094.png";
-import C1_095 from "../img/cards/lorcana/chapter_1/C1_095.png";
-import C1_096 from "../img/cards/lorcana/chapter_1/C1_096.png";
-import C1_097 from "../img/cards/lorcana/chapter_1/C1_097.png";
-import C1_098 from "../img/cards/lorcana/chapter_1/C1_098.png";
-import C1_099 from "../img/cards/lorcana/chapter_1/C1_099.png";
-import C1_100 from "../img/cards/lorcana/chapter_1/C1_100.png";
-import C1_101 from "../img/cards/lorcana/chapter_1/C1_101.png";
-import C1_102 from "../img/cards/lorcana/chapter_1/C1_102.png";
-import C1_103 from "../img/cards/lorcana/chapter_1/C1_103.png";
-import C1_104 from "../img/cards/lorcana/chapter_1/C1_104.png";
-import C1_105 from "../img/cards/lorcana/chapter_1/C1_105.png";
-import C1_106 from "../img/cards/lorcana/chapter_1/C1_106.png";
-import C1_107 from "../img/cards/lorcana/chapter_1/C1_107.png";
-import C1_108 from "../img/cards/lorcana/chapter_1/C1_108.png";
-import C1_109 from "../img/cards/lorcana/chapter_1/C1_109.png";
-import C1_110 from "../img/cards/lorcana/chapter_1/C1_110.png";
-import C1_111 from "../img/cards/lorcana/chapter_1/C1_111.png";
-import C1_112 from "../img/cards/lorcana/chapter_1/C1_112.png";
-import C1_113 from "../img/cards/lorcana/chapter_1/C1_113.png";
-import C1_114 from "../img/cards/lorcana/chapter_1/C1_114.png";
-import C1_115 from "../img/cards/lorcana/chapter_1/C1_115.png";
-import C1_116 from "../img/cards/lorcana/chapter_1/C1_116.png";
-import C1_117 from "../img/cards/lorcana/chapter_1/C1_117.png";
-import C1_118 from "../img/cards/lorcana/chapter_1/C1_118.png";
-import C1_119 from "../img/cards/lorcana/chapter_1/C1_119.png";
-import C1_120 from "../img/cards/lorcana/chapter_1/C1_120.png";
-import C1_121 from "../img/cards/lorcana/chapter_1/C1_121.png";
-import C1_122 from "../img/cards/lorcana/chapter_1/C1_122.png";
-import C1_123 from "../img/cards/lorcana/chapter_1/C1_123.png";
-import C1_124 from "../img/cards/lorcana/chapter_1/C1_124.png";
-import C1_125 from "../img/cards/lorcana/chapter_1/C1_125.png";
-import C1_126 from "../img/cards/lorcana/chapter_1/C1_126.png";
-import C1_127 from "../img/cards/lorcana/chapter_1/C1_127.png";
-import C1_128 from "../img/cards/lorcana/chapter_1/C1_128.png";
-import C1_129 from "../img/cards/lorcana/chapter_1/C1_129.png";
-import C1_130 from "../img/cards/lorcana/chapter_1/C1_130.png";
-import C1_131 from "../img/cards/lorcana/chapter_1/C1_131.png";
-import C1_132 from "../img/cards/lorcana/chapter_1/C1_132.png";
-import C1_133 from "../img/cards/lorcana/chapter_1/C1_133.png";
-import C1_134 from "../img/cards/lorcana/chapter_1/C1_134.png";
-import C1_135 from "../img/cards/lorcana/chapter_1/C1_135.png";
-import C1_136 from "../img/cards/lorcana/chapter_1/C1_136.png";
-import C1_137 from "../img/cards/lorcana/chapter_1/C1_137.png";
-import C1_138 from "../img/cards/lorcana/chapter_1/C1_138.png";
-import C1_139 from "../img/cards/lorcana/chapter_1/C1_139.png";
-import C1_140 from "../img/cards/lorcana/chapter_1/C1_140.png";
-import C1_141 from "../img/cards/lorcana/chapter_1/C1_141.png";
-import C1_142 from "../img/cards/lorcana/chapter_1/C1_142.png";
-import C1_143 from "../img/cards/lorcana/chapter_1/C1_143.png";
-import C1_144 from "../img/cards/lorcana/chapter_1/C1_144.png";
-import C1_145 from "../img/cards/lorcana/chapter_1/C1_145.png";
-import C1_146 from "../img/cards/lorcana/chapter_1/C1_146.png";
-import C1_147 from "../img/cards/lorcana/chapter_1/C1_147.png";
-import C1_148 from "../img/cards/lorcana/chapter_1/C1_148.png";
-import C1_149 from "../img/cards/lorcana/chapter_1/C1_149.png";
-import C1_150 from "../img/cards/lorcana/chapter_1/C1_150.png";
-import C1_151 from "../img/cards/lorcana/chapter_1/C1_151.png";
-import C1_152 from "../img/cards/lorcana/chapter_1/C1_152.png";
-import C1_153 from "../img/cards/lorcana/chapter_1/C1_153.png";
-import C1_154 from "../img/cards/lorcana/chapter_1/C1_154.png";
-import C1_155 from "../img/cards/lorcana/chapter_1/C1_155.png";
-import C1_156 from "../img/cards/lorcana/chapter_1/C1_156.png";
-import C1_157 from "../img/cards/lorcana/chapter_1/C1_157.png";
-import C1_158 from "../img/cards/lorcana/chapter_1/C1_158.png";
-import C1_159 from "../img/cards/lorcana/chapter_1/C1_159.png";
-import C1_160 from "../img/cards/lorcana/chapter_1/C1_160.png";
-import C1_161 from "../img/cards/lorcana/chapter_1/C1_161.png";
-import C1_162 from "../img/cards/lorcana/chapter_1/C1_162.png";
-import C1_163 from "../img/cards/lorcana/chapter_1/C1_163.png";
-import C1_164 from "../img/cards/lorcana/chapter_1/C1_164.png";
-import C1_165 from "../img/cards/lorcana/chapter_1/C1_165.png";
-import C1_166 from "../img/cards/lorcana/chapter_1/C1_166.png";
-import C1_167 from "../img/cards/lorcana/chapter_1/C1_167.png";
-import C1_168 from "../img/cards/lorcana/chapter_1/C1_168.png";
-import C1_169 from "../img/cards/lorcana/chapter_1/C1_169.png";
-import C1_170 from "../img/cards/lorcana/chapter_1/C1_170.png";
-import C1_171 from "../img/cards/lorcana/chapter_1/C1_171.png";
-import C1_172 from "../img/cards/lorcana/chapter_1/C1_172.png";
-import C1_173 from "../img/cards/lorcana/chapter_1/C1_173.png";
-import C1_174 from "../img/cards/lorcana/chapter_1/C1_174.png";
-import C1_175 from "../img/cards/lorcana/chapter_1/C1_175.png";
-import C1_176 from "../img/cards/lorcana/chapter_1/C1_176.png";
-import C1_177 from "../img/cards/lorcana/chapter_1/C1_177.png";
-import C1_178 from "../img/cards/lorcana/chapter_1/C1_178.png";
-import C1_179 from "../img/cards/lorcana/chapter_1/C1_179.png";
-import C1_180 from "../img/cards/lorcana/chapter_1/C1_180.png";
-import C1_181 from "../img/cards/lorcana/chapter_1/C1_181.png";
-import C1_182 from "../img/cards/lorcana/chapter_1/C1_182.png";
-import C1_183 from "../img/cards/lorcana/chapter_1/C1_183.png";
-import C1_184 from "../img/cards/lorcana/chapter_1/C1_184.png";
-import C1_185 from "../img/cards/lorcana/chapter_1/C1_185.png";
-import C1_186 from "../img/cards/lorcana/chapter_1/C1_186.png";
-import C1_187 from "../img/cards/lorcana/chapter_1/C1_187.png";
-import C1_188 from "../img/cards/lorcana/chapter_1/C1_188.png";
-import C1_189 from "../img/cards/lorcana/chapter_1/C1_189.png";
-import C1_190 from "../img/cards/lorcana/chapter_1/C1_190.png";
-import C1_191 from "../img/cards/lorcana/chapter_1/C1_191.png";
-import C1_192 from "../img/cards/lorcana/chapter_1/C1_192.png";
-import C1_193 from "../img/cards/lorcana/chapter_1/C1_193.png";
-import C1_194 from "../img/cards/lorcana/chapter_1/C1_194.png";
-import C1_195 from "../img/cards/lorcana/chapter_1/C1_195.png";
-import C1_196 from "../img/cards/lorcana/chapter_1/C1_196.png";
-import C1_197 from "../img/cards/lorcana/chapter_1/C1_197.png";
-import C1_198 from "../img/cards/lorcana/chapter_1/C1_198.png";
-import C1_199 from "../img/cards/lorcana/chapter_1/C1_199.png";
-import C1_200 from "../img/cards/lorcana/chapter_1/C1_200.png";
-import C1_201 from "../img/cards/lorcana/chapter_1/C1_201.png";
-import C1_202 from "../img/cards/lorcana/chapter_1/C1_202.png";
-import C1_203 from "../img/cards/lorcana/chapter_1/C1_203.png";
-import C1_204 from "../img/cards/lorcana/chapter_1/C1_204.png";
-import C1_205 from "../img/cards/lorcana/chapter_1/C1_205.png";
-import C1_206 from "../img/cards/lorcana/chapter_1/C1_206.png";
-import C1_207 from "../img/cards/lorcana/chapter_1/C1_207.png";
-import C1_208 from "../img/cards/lorcana/chapter_1/C1_208.png";
-import C1_209 from "../img/cards/lorcana/chapter_1/C1_209.png";
-import C1_210 from "../img/cards/lorcana/chapter_1/C1_210.png";
-import C1_211 from "../img/cards/lorcana/chapter_1/C1_211.png";
-import C1_212 from "../img/cards/lorcana/chapter_1/C1_212.png";
-import C1_213 from "../img/cards/lorcana/chapter_1/C1_213.png";
-import C1_214 from "../img/cards/lorcana/chapter_1/C1_214.png";
-import C1_215 from "../img/cards/lorcana/chapter_1/C1_215.png";
-import C1_216 from "../img/cards/lorcana/chapter_1/C1_216.png";
-
-export const lorcanaChapter1Cards = [
+export default [
   {
     id: "C1-001",
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_001,
+    image: "/cards/lorcana/chapter_1/C1_001.png",
     number: 1,
     rarity: "uncommon",
     card_type: "",
@@ -239,7 +22,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_002,
+    image: "/cards/lorcana/chapter_1/C1_002.png",
     number: 2,
     rarity: "super-rare",
     card_type: "",
@@ -257,7 +40,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_003,
+    image: "/cards/lorcana/chapter_1/C1_003.png",
     number: 3,
     rarity: "uncommon",
     card_type: "",
@@ -275,7 +58,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_004,
+    image: "/cards/lorcana/chapter_1/C1_004.png",
     number: 4,
     rarity: "uncommon",
     card_type: "",
@@ -293,7 +76,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_005,
+    image: "/cards/lorcana/chapter_1/C1_005.png",
     number: 5,
     rarity: "rare",
     card_type: "",
@@ -311,7 +94,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_006,
+    image: "/cards/lorcana/chapter_1/C1_006.png",
     number: 6,
     rarity: "rare",
     card_type: "",
@@ -329,7 +112,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_007,
+    image: "/cards/lorcana/chapter_1/C1_007.png",
     number: 7,
     rarity: "common",
     card_type: "",
@@ -347,7 +130,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_008,
+    image: "/cards/lorcana/chapter_1/C1_008.png",
     number: 8,
     rarity: "uncommon",
     card_type: "",
@@ -365,7 +148,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_009,
+    image: "/cards/lorcana/chapter_1/C1_009.png",
     number: 9,
     rarity: "rare",
     card_type: "",
@@ -383,7 +166,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_010,
+    image: "/cards/lorcana/chapter_1/C1_010.png",
     number: 10,
     rarity: "super-rare",
     card_type: "",
@@ -401,7 +184,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_011,
+    image: "/cards/lorcana/chapter_1/C1_011.png",
     number: 11,
     rarity: "uncommon",
     card_type: "",
@@ -419,7 +202,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_012,
+    image: "/cards/lorcana/chapter_1/C1_012.png",
     number: 12,
     rarity: "uncommon",
     card_type: "",
@@ -437,7 +220,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_013,
+    image: "/cards/lorcana/chapter_1/C1_013.png",
     number: 13,
     rarity: "common",
     card_type: "",
@@ -455,7 +238,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_014,
+    image: "/cards/lorcana/chapter_1/C1_014.png",
     number: 14,
     rarity: "rare",
     card_type: "",
@@ -473,7 +256,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_015,
+    image: "/cards/lorcana/chapter_1/C1_015.png",
     number: 15,
     rarity: "common",
     card_type: "",
@@ -491,7 +274,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_016,
+    image: "/cards/lorcana/chapter_1/C1_016.png",
     number: 16,
     rarity: "uncommon",
     card_type: "",
@@ -509,7 +292,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_017,
+    image: "/cards/lorcana/chapter_1/C1_017.png",
     number: 17,
     rarity: "common",
     card_type: "",
@@ -527,7 +310,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_018,
+    image: "/cards/lorcana/chapter_1/C1_018.png",
     number: 18,
     rarity: "legendary",
     card_type: "",
@@ -545,7 +328,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_019,
+    image: "/cards/lorcana/chapter_1/C1_019.png",
     number: 19,
     rarity: "common",
     card_type: "",
@@ -563,7 +346,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_020,
+    image: "/cards/lorcana/chapter_1/C1_020.png",
     number: 20,
     rarity: "common",
     card_type: "",
@@ -581,7 +364,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_021,
+    image: "/cards/lorcana/chapter_1/C1_021.png",
     number: 21,
     rarity: "legendary",
     card_type: "",
@@ -599,7 +382,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_022,
+    image: "/cards/lorcana/chapter_1/C1_022.png",
     number: 22,
     rarity: "common",
     card_type: "",
@@ -617,7 +400,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_023,
+    image: "/cards/lorcana/chapter_1/C1_023.png",
     number: 23,
     rarity: "super-rare",
     card_type: "",
@@ -635,7 +418,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_024,
+    image: "/cards/lorcana/chapter_1/C1_024.png",
     number: 24,
     rarity: "common",
     card_type: "",
@@ -653,7 +436,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_025,
+    image: "/cards/lorcana/chapter_1/C1_025.png",
     number: 25,
     rarity: "uncommon",
     card_type: "",
@@ -671,7 +454,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_026,
+    image: "/cards/lorcana/chapter_1/C1_026.png",
     number: 26,
     rarity: "common",
     card_type: "",
@@ -689,7 +472,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_027,
+    image: "/cards/lorcana/chapter_1/C1_027.png",
     number: 27,
     rarity: "common",
     card_type: "",
@@ -707,7 +490,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_028,
+    image: "/cards/lorcana/chapter_1/C1_028.png",
     number: 28,
     rarity: "common",
     card_type: "",
@@ -725,7 +508,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_029,
+    image: "/cards/lorcana/chapter_1/C1_029.png",
     number: 29,
     rarity: "rare",
     card_type: "",
@@ -743,7 +526,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_030,
+    image: "/cards/lorcana/chapter_1/C1_030.png",
     number: 30,
     rarity: "rare",
     card_type: "",
@@ -761,7 +544,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_031,
+    image: "/cards/lorcana/chapter_1/C1_031.png",
     number: 31,
     rarity: "uncommon",
     card_type: "",
@@ -779,7 +562,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_032,
+    image: "/cards/lorcana/chapter_1/C1_032.png",
     number: 32,
     rarity: "common",
     card_type: "",
@@ -797,7 +580,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_033,
+    image: "/cards/lorcana/chapter_1/C1_033.png",
     number: 33,
     rarity: "rare",
     card_type: "",
@@ -815,7 +598,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_034,
+    image: "/cards/lorcana/chapter_1/C1_034.png",
     number: 34,
     rarity: "rare",
     card_type: "",
@@ -833,7 +616,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_035,
+    image: "/cards/lorcana/chapter_1/C1_035.png",
     number: 35,
     rarity: "uncommon",
     card_type: "",
@@ -851,7 +634,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_036,
+    image: "/cards/lorcana/chapter_1/C1_036.png",
     number: 36,
     rarity: "common",
     card_type: "",
@@ -869,7 +652,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_037,
+    image: "/cards/lorcana/chapter_1/C1_037.png",
     number: 37,
     rarity: "rare",
     card_type: "",
@@ -887,7 +670,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_038,
+    image: "/cards/lorcana/chapter_1/C1_038.png",
     number: 38,
     rarity: "common",
     card_type: "",
@@ -905,7 +688,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_039,
+    image: "/cards/lorcana/chapter_1/C1_039.png",
     number: 39,
     rarity: "rare",
     card_type: "",
@@ -923,7 +706,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_040,
+    image: "/cards/lorcana/chapter_1/C1_040.png",
     number: 40,
     rarity: "common",
     card_type: "",
@@ -941,7 +724,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_041,
+    image: "/cards/lorcana/chapter_1/C1_041.png",
     number: 41,
     rarity: "uncommon",
     card_type: "",
@@ -959,7 +742,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_042,
+    image: "/cards/lorcana/chapter_1/C1_042.png",
     number: 42,
     rarity: "legendary",
     card_type: "",
@@ -977,7 +760,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_043,
+    image: "/cards/lorcana/chapter_1/C1_043.png",
     number: 43,
     rarity: "rare",
     card_type: "",
@@ -995,7 +778,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_044,
+    image: "/cards/lorcana/chapter_1/C1_044.png",
     number: 44,
     rarity: "rare",
     card_type: "",
@@ -1013,7 +796,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_045,
+    image: "/cards/lorcana/chapter_1/C1_045.png",
     number: 45,
     rarity: "common",
     card_type: "",
@@ -1031,7 +814,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_046,
+    image: "/cards/lorcana/chapter_1/C1_046.png",
     number: 46,
     rarity: "common",
     card_type: "",
@@ -1049,7 +832,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_047,
+    image: "/cards/lorcana/chapter_1/C1_047.png",
     number: 47,
     rarity: "common",
     card_type: "",
@@ -1067,7 +850,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_048,
+    image: "/cards/lorcana/chapter_1/C1_048.png",
     number: 48,
     rarity: "rare",
     card_type: "",
@@ -1085,7 +868,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_049,
+    image: "/cards/lorcana/chapter_1/C1_049.png",
     number: 49,
     rarity: "common",
     card_type: "",
@@ -1103,7 +886,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_050,
+    image: "/cards/lorcana/chapter_1/C1_050.png",
     number: 50,
     rarity: "super-rare",
     card_type: "",
@@ -1121,7 +904,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_051,
+    image: "/cards/lorcana/chapter_1/C1_051.png",
     number: 51,
     rarity: "super-rare",
     card_type: "",
@@ -1139,7 +922,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_052,
+    image: "/cards/lorcana/chapter_1/C1_052.png",
     number: 52,
     rarity: "uncommon",
     card_type: "",
@@ -1157,7 +940,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_053,
+    image: "/cards/lorcana/chapter_1/C1_053.png",
     number: 53,
     rarity: "uncommon",
     card_type: "",
@@ -1175,7 +958,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_054,
+    image: "/cards/lorcana/chapter_1/C1_054.png",
     number: 54,
     rarity: "uncommon",
     card_type: "",
@@ -1193,7 +976,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_055,
+    image: "/cards/lorcana/chapter_1/C1_055.png",
     number: 55,
     rarity: "uncommon",
     card_type: "",
@@ -1211,7 +994,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_056,
+    image: "/cards/lorcana/chapter_1/C1_056.png",
     number: 56,
     rarity: "super-rare",
     card_type: "",
@@ -1229,7 +1012,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_057,
+    image: "/cards/lorcana/chapter_1/C1_057.png",
     number: 57,
     rarity: "common",
     card_type: "",
@@ -1247,7 +1030,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_058,
+    image: "/cards/lorcana/chapter_1/C1_058.png",
     number: 58,
     rarity: "common",
     card_type: "",
@@ -1265,7 +1048,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_059,
+    image: "/cards/lorcana/chapter_1/C1_059.png",
     number: 59,
     rarity: "legendary",
     card_type: "",
@@ -1283,7 +1066,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_060,
+    image: "/cards/lorcana/chapter_1/C1_060.png",
     number: 60,
     rarity: "common",
     card_type: "",
@@ -1301,7 +1084,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_061,
+    image: "/cards/lorcana/chapter_1/C1_061.png",
     number: 61,
     rarity: "rare",
     card_type: "",
@@ -1319,7 +1102,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_062,
+    image: "/cards/lorcana/chapter_1/C1_062.png",
     number: 62,
     rarity: "uncommon",
     card_type: "",
@@ -1337,7 +1120,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_063,
+    image: "/cards/lorcana/chapter_1/C1_063.png",
     number: 63,
     rarity: "common",
     card_type: "",
@@ -1355,7 +1138,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_064,
+    image: "/cards/lorcana/chapter_1/C1_064.png",
     number: 64,
     rarity: "common",
     card_type: "",
@@ -1373,7 +1156,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_065,
+    image: "/cards/lorcana/chapter_1/C1_065.png",
     number: 65,
     rarity: "uncommon",
     card_type: "",
@@ -1391,7 +1174,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_066,
+    image: "/cards/lorcana/chapter_1/C1_066.png",
     number: 66,
     rarity: "rare",
     card_type: "",
@@ -1409,7 +1192,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_067,
+    image: "/cards/lorcana/chapter_1/C1_067.png",
     number: 67,
     rarity: "uncommon",
     card_type: "",
@@ -1427,7 +1210,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_068,
+    image: "/cards/lorcana/chapter_1/C1_068.png",
     number: 68,
     rarity: "rare",
     card_type: "",
@@ -1445,7 +1228,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_069,
+    image: "/cards/lorcana/chapter_1/C1_069.png",
     number: 69,
     rarity: "common",
     card_type: "",
@@ -1463,7 +1246,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_070,
+    image: "/cards/lorcana/chapter_1/C1_070.png",
     number: 70,
     rarity: "legendary",
     card_type: "",
@@ -1481,7 +1264,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_071,
+    image: "/cards/lorcana/chapter_1/C1_071.png",
     number: 71,
     rarity: "uncommon",
     card_type: "",
@@ -1499,7 +1282,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_072,
+    image: "/cards/lorcana/chapter_1/C1_072.png",
     number: 72,
     rarity: "rare",
     card_type: "",
@@ -1517,7 +1300,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_073,
+    image: "/cards/lorcana/chapter_1/C1_073.png",
     number: 73,
     rarity: "common",
     card_type: "",
@@ -1535,7 +1318,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_074,
+    image: "/cards/lorcana/chapter_1/C1_074.png",
     number: 74,
     rarity: "uncommon",
     card_type: "",
@@ -1553,7 +1336,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_075,
+    image: "/cards/lorcana/chapter_1/C1_075.png",
     number: 75,
     rarity: "super-rare",
     card_type: "",
@@ -1571,7 +1354,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_076,
+    image: "/cards/lorcana/chapter_1/C1_076.png",
     number: 76,
     rarity: "rare",
     card_type: "",
@@ -1589,7 +1372,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_077,
+    image: "/cards/lorcana/chapter_1/C1_077.png",
     number: 77,
     rarity: "common",
     card_type: "",
@@ -1607,7 +1390,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_078,
+    image: "/cards/lorcana/chapter_1/C1_078.png",
     number: 78,
     rarity: "rare",
     card_type: "",
@@ -1625,7 +1408,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_079,
+    image: "/cards/lorcana/chapter_1/C1_079.png",
     number: 79,
     rarity: "common",
     card_type: "",
@@ -1643,7 +1426,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_080,
+    image: "/cards/lorcana/chapter_1/C1_080.png",
     number: 80,
     rarity: "rare",
     card_type: "",
@@ -1661,7 +1444,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_081,
+    image: "/cards/lorcana/chapter_1/C1_081.png",
     number: 81,
     rarity: "uncommon",
     card_type: "",
@@ -1679,7 +1462,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_082,
+    image: "/cards/lorcana/chapter_1/C1_082.png",
     number: 82,
     rarity: "legendary",
     card_type: "",
@@ -1697,7 +1480,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_083,
+    image: "/cards/lorcana/chapter_1/C1_083.png",
     number: 83,
     rarity: "uncommon",
     card_type: "",
@@ -1715,7 +1498,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_084,
+    image: "/cards/lorcana/chapter_1/C1_084.png",
     number: 84,
     rarity: "rare",
     card_type: "",
@@ -1733,7 +1516,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_085,
+    image: "/cards/lorcana/chapter_1/C1_085.png",
     number: 85,
     rarity: "rare",
     card_type: "",
@@ -1751,7 +1534,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_086,
+    image: "/cards/lorcana/chapter_1/C1_086.png",
     number: 86,
     rarity: "uncommon",
     card_type: "",
@@ -1769,7 +1552,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_087,
+    image: "/cards/lorcana/chapter_1/C1_087.png",
     number: 87,
     rarity: "common",
     card_type: "",
@@ -1787,7 +1570,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_088,
+    image: "/cards/lorcana/chapter_1/C1_088.png",
     number: 88,
     rarity: "super-rare",
     card_type: "",
@@ -1805,7 +1588,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_089,
+    image: "/cards/lorcana/chapter_1/C1_089.png",
     number: 89,
     rarity: "common",
     card_type: "",
@@ -1823,7 +1606,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_090,
+    image: "/cards/lorcana/chapter_1/C1_090.png",
     number: 90,
     rarity: "super-rare",
     card_type: "",
@@ -1841,7 +1624,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_091,
+    image: "/cards/lorcana/chapter_1/C1_091.png",
     number: 91,
     rarity: "common",
     card_type: "",
@@ -1859,7 +1642,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_092,
+    image: "/cards/lorcana/chapter_1/C1_092.png",
     number: 92,
     rarity: "uncommon",
     card_type: "",
@@ -1877,7 +1660,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_093,
+    image: "/cards/lorcana/chapter_1/C1_093.png",
     number: 93,
     rarity: "common",
     card_type: "",
@@ -1895,7 +1678,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_094,
+    image: "/cards/lorcana/chapter_1/C1_094.png",
     number: 94,
     rarity: "rare",
     card_type: "",
@@ -1913,7 +1696,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_095,
+    image: "/cards/lorcana/chapter_1/C1_095.png",
     number: 95,
     rarity: "uncommon",
     card_type: "",
@@ -1931,7 +1714,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_096,
+    image: "/cards/lorcana/chapter_1/C1_096.png",
     number: 96,
     rarity: "common",
     card_type: "",
@@ -1949,7 +1732,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_097,
+    image: "/cards/lorcana/chapter_1/C1_097.png",
     number: 97,
     rarity: "rare",
     card_type: "",
@@ -1967,7 +1750,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_098,
+    image: "/cards/lorcana/chapter_1/C1_098.png",
     number: 98,
     rarity: "common",
     card_type: "",
@@ -1985,7 +1768,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_099,
+    image: "/cards/lorcana/chapter_1/C1_099.png",
     number: 99,
     rarity: "uncommon",
     card_type: "",
@@ -2003,7 +1786,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_100,
+    image: "/cards/lorcana/chapter_1/C1_100.png",
     number: 100,
     rarity: "common",
     card_type: "",
@@ -2021,7 +1804,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_101,
+    image: "/cards/lorcana/chapter_1/C1_101.png",
     number: 101,
     rarity: "uncommon",
     card_type: "",
@@ -2039,7 +1822,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_102,
+    image: "/cards/lorcana/chapter_1/C1_102.png",
     number: 102,
     rarity: "common",
     card_type: "",
@@ -2057,7 +1840,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_103,
+    image: "/cards/lorcana/chapter_1/C1_103.png",
     number: 103,
     rarity: "common",
     card_type: "",
@@ -2075,7 +1858,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_104,
+    image: "/cards/lorcana/chapter_1/C1_104.png",
     number: 104,
     rarity: "super-rare",
     card_type: "",
@@ -2093,7 +1876,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_105,
+    image: "/cards/lorcana/chapter_1/C1_105.png",
     number: 105,
     rarity: "common",
     card_type: "",
@@ -2111,7 +1894,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_106,
+    image: "/cards/lorcana/chapter_1/C1_106.png",
     number: 106,
     rarity: "uncommon",
     card_type: "",
@@ -2129,7 +1912,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_107,
+    image: "/cards/lorcana/chapter_1/C1_107.png",
     number: 107,
     rarity: "rare",
     card_type: "",
@@ -2147,7 +1930,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_108,
+    image: "/cards/lorcana/chapter_1/C1_108.png",
     number: 108,
     rarity: "uncommon",
     card_type: "",
@@ -2165,7 +1948,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_109,
+    image: "/cards/lorcana/chapter_1/C1_109.png",
     number: 109,
     rarity: "common",
     card_type: "",
@@ -2183,7 +1966,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_110,
+    image: "/cards/lorcana/chapter_1/C1_110.png",
     number: 110,
     rarity: "common",
     card_type: "",
@@ -2201,7 +1984,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_111,
+    image: "/cards/lorcana/chapter_1/C1_111.png",
     number: 111,
     rarity: "common",
     card_type: "",
@@ -2219,7 +2002,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_112,
+    image: "/cards/lorcana/chapter_1/C1_112.png",
     number: 112,
     rarity: "rare",
     card_type: "",
@@ -2237,7 +2020,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_113,
+    image: "/cards/lorcana/chapter_1/C1_113.png",
     number: 113,
     rarity: "legendary",
     card_type: "",
@@ -2255,7 +2038,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_114,
+    image: "/cards/lorcana/chapter_1/C1_114.png",
     number: 114,
     rarity: "rare",
     card_type: "",
@@ -2273,7 +2056,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_115,
+    image: "/cards/lorcana/chapter_1/C1_115.png",
     number: 115,
     rarity: "legendary",
     card_type: "",
@@ -2291,7 +2074,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_116,
+    image: "/cards/lorcana/chapter_1/C1_116.png",
     number: 116,
     rarity: "common",
     card_type: "",
@@ -2309,7 +2092,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_117,
+    image: "/cards/lorcana/chapter_1/C1_117.png",
     number: 117,
     rarity: "uncommon",
     card_type: "",
@@ -2327,7 +2110,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_118,
+    image: "/cards/lorcana/chapter_1/C1_118.png",
     number: 118,
     rarity: "super-rare",
     card_type: "",
@@ -2345,7 +2128,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_119,
+    image: "/cards/lorcana/chapter_1/C1_119.png",
     number: 119,
     rarity: "common",
     card_type: "",
@@ -2363,7 +2146,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_120,
+    image: "/cards/lorcana/chapter_1/C1_120.png",
     number: 120,
     rarity: "common",
     card_type: "",
@@ -2381,7 +2164,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_121,
+    image: "/cards/lorcana/chapter_1/C1_121.png",
     number: 121,
     rarity: "uncommon",
     card_type: "",
@@ -2399,7 +2182,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_122,
+    image: "/cards/lorcana/chapter_1/C1_122.png",
     number: 122,
     rarity: "common",
     card_type: "",
@@ -2417,7 +2200,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_123,
+    image: "/cards/lorcana/chapter_1/C1_123.png",
     number: 123,
     rarity: "rare",
     card_type: "",
@@ -2435,7 +2218,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_124,
+    image: "/cards/lorcana/chapter_1/C1_124.png",
     number: 124,
     rarity: "common",
     card_type: "",
@@ -2453,7 +2236,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_125,
+    image: "/cards/lorcana/chapter_1/C1_125.png",
     number: 125,
     rarity: "rare",
     card_type: "",
@@ -2471,7 +2254,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_126,
+    image: "/cards/lorcana/chapter_1/C1_126.png",
     number: 126,
     rarity: "super-rare",
     card_type: "",
@@ -2489,7 +2272,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_127,
+    image: "/cards/lorcana/chapter_1/C1_127.png",
     number: 127,
     rarity: "uncommon",
     card_type: "",
@@ -2507,7 +2290,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_128,
+    image: "/cards/lorcana/chapter_1/C1_128.png",
     number: 128,
     rarity: "rare",
     card_type: "",
@@ -2525,7 +2308,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_129,
+    image: "/cards/lorcana/chapter_1/C1_129.png",
     number: 129,
     rarity: "uncommon",
     card_type: "",
@@ -2543,7 +2326,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_130,
+    image: "/cards/lorcana/chapter_1/C1_130.png",
     number: 130,
     rarity: "uncommon",
     card_type: "",
@@ -2561,7 +2344,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_131,
+    image: "/cards/lorcana/chapter_1/C1_131.png",
     number: 131,
     rarity: "uncommon",
     card_type: "",
@@ -2579,7 +2362,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_132,
+    image: "/cards/lorcana/chapter_1/C1_132.png",
     number: 132,
     rarity: "common",
     card_type: "",
@@ -2597,7 +2380,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_133,
+    image: "/cards/lorcana/chapter_1/C1_133.png",
     number: 133,
     rarity: "common",
     card_type: "",
@@ -2615,7 +2398,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_134,
+    image: "/cards/lorcana/chapter_1/C1_134.png",
     number: 134,
     rarity: "rare",
     card_type: "",
@@ -2633,7 +2416,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_135,
+    image: "/cards/lorcana/chapter_1/C1_135.png",
     number: 135,
     rarity: "uncommon",
     card_type: "",
@@ -2651,7 +2434,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_136,
+    image: "/cards/lorcana/chapter_1/C1_136.png",
     number: 136,
     rarity: "rare",
     card_type: "",
@@ -2669,7 +2452,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_137,
+    image: "/cards/lorcana/chapter_1/C1_137.png",
     number: 137,
     rarity: "rare",
     card_type: "",
@@ -2687,7 +2470,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_138,
+    image: "/cards/lorcana/chapter_1/C1_138.png",
     number: 138,
     rarity: "common",
     card_type: "",
@@ -2705,7 +2488,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_139,
+    image: "/cards/lorcana/chapter_1/C1_139.png",
     number: 139,
     rarity: "super-rare",
     card_type: "",
@@ -2723,7 +2506,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_140,
+    image: "/cards/lorcana/chapter_1/C1_140.png",
     number: 140,
     rarity: "uncommon",
     card_type: "",
@@ -2741,7 +2524,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_141,
+    image: "/cards/lorcana/chapter_1/C1_141.png",
     number: 141,
     rarity: "uncommon",
     card_type: "",
@@ -2759,7 +2542,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_142,
+    image: "/cards/lorcana/chapter_1/C1_142.png",
     number: 142,
     rarity: "legendary",
     card_type: "",
@@ -2777,7 +2560,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_143,
+    image: "/cards/lorcana/chapter_1/C1_143.png",
     number: 143,
     rarity: "uncommon",
     card_type: "",
@@ -2795,7 +2578,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_144,
+    image: "/cards/lorcana/chapter_1/C1_144.png",
     number: 144,
     rarity: "common",
     card_type: "",
@@ -2813,7 +2596,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_145,
+    image: "/cards/lorcana/chapter_1/C1_145.png",
     number: 145,
     rarity: "common",
     card_type: "",
@@ -2831,7 +2614,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_146,
+    image: "/cards/lorcana/chapter_1/C1_146.png",
     number: 146,
     rarity: "uncommon",
     card_type: "",
@@ -2849,7 +2632,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_147,
+    image: "/cards/lorcana/chapter_1/C1_147.png",
     number: 147,
     rarity: "legendary",
     card_type: "",
@@ -2867,7 +2650,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_148,
+    image: "/cards/lorcana/chapter_1/C1_148.png",
     number: 148,
     rarity: "common",
     card_type: "",
@@ -2885,7 +2668,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_149,
+    image: "/cards/lorcana/chapter_1/C1_149.png",
     number: 149,
     rarity: "rare",
     card_type: "",
@@ -2903,7 +2686,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_150,
+    image: "/cards/lorcana/chapter_1/C1_150.png",
     number: 150,
     rarity: "common",
     card_type: "",
@@ -2921,7 +2704,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_151,
+    image: "/cards/lorcana/chapter_1/C1_151.png",
     number: 151,
     rarity: "rare",
     card_type: "",
@@ -2939,7 +2722,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_152,
+    image: "/cards/lorcana/chapter_1/C1_152.png",
     number: 152,
     rarity: "rare",
     card_type: "",
@@ -2957,7 +2740,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_153,
+    image: "/cards/lorcana/chapter_1/C1_153.png",
     number: 153,
     rarity: "common",
     card_type: "",
@@ -2975,7 +2758,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_154,
+    image: "/cards/lorcana/chapter_1/C1_154.png",
     number: 154,
     rarity: "common",
     card_type: "",
@@ -2993,7 +2776,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_155,
+    image: "/cards/lorcana/chapter_1/C1_155.png",
     number: 155,
     rarity: "common",
     card_type: "",
@@ -3011,7 +2794,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_156,
+    image: "/cards/lorcana/chapter_1/C1_156.png",
     number: 156,
     rarity: "common",
     card_type: "",
@@ -3029,7 +2812,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_157,
+    image: "/cards/lorcana/chapter_1/C1_157.png",
     number: 157,
     rarity: "super-rare",
     card_type: "",
@@ -3047,7 +2830,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_158,
+    image: "/cards/lorcana/chapter_1/C1_158.png",
     number: 158,
     rarity: "rare",
     card_type: "",
@@ -3065,7 +2848,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_159,
+    image: "/cards/lorcana/chapter_1/C1_159.png",
     number: 159,
     rarity: "super-rare",
     card_type: "",
@@ -3083,7 +2866,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_160,
+    image: "/cards/lorcana/chapter_1/C1_160.png",
     number: 160,
     rarity: "uncommon",
     card_type: "",
@@ -3101,7 +2884,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_161,
+    image: "/cards/lorcana/chapter_1/C1_161.png",
     number: 161,
     rarity: "common",
     card_type: "",
@@ -3119,7 +2902,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_162,
+    image: "/cards/lorcana/chapter_1/C1_162.png",
     number: 162,
     rarity: "rare",
     card_type: "",
@@ -3137,7 +2920,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_163,
+    image: "/cards/lorcana/chapter_1/C1_163.png",
     number: 163,
     rarity: "rare",
     card_type: "",
@@ -3155,7 +2938,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_164,
+    image: "/cards/lorcana/chapter_1/C1_164.png",
     number: 164,
     rarity: "uncommon",
     card_type: "",
@@ -3173,7 +2956,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_165,
+    image: "/cards/lorcana/chapter_1/C1_165.png",
     number: 165,
     rarity: "common",
     card_type: "",
@@ -3191,7 +2974,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_166,
+    image: "/cards/lorcana/chapter_1/C1_166.png",
     number: 166,
     rarity: "common",
     card_type: "",
@@ -3209,7 +2992,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_167,
+    image: "/cards/lorcana/chapter_1/C1_167.png",
     number: 167,
     rarity: "uncommon",
     card_type: "",
@@ -3227,7 +3010,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_168,
+    image: "/cards/lorcana/chapter_1/C1_168.png",
     number: 168,
     rarity: "rare",
     card_type: "",
@@ -3245,7 +3028,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_169,
+    image: "/cards/lorcana/chapter_1/C1_169.png",
     number: 169,
     rarity: "common",
     card_type: "",
@@ -3263,7 +3046,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_170,
+    image: "/cards/lorcana/chapter_1/C1_170.png",
     number: 170,
     rarity: "uncommon",
     card_type: "",
@@ -3281,7 +3064,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_171,
+    image: "/cards/lorcana/chapter_1/C1_171.png",
     number: 171,
     rarity: "common",
     card_type: "",
@@ -3299,7 +3082,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_172,
+    image: "/cards/lorcana/chapter_1/C1_172.png",
     number: 172,
     rarity: "uncommon",
     card_type: "",
@@ -3317,7 +3100,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_173,
+    image: "/cards/lorcana/chapter_1/C1_173.png",
     number: 173,
     rarity: "rare",
     card_type: "",
@@ -3335,7 +3118,7 @@ export const lorcanaChapter1Cards = [
     name: "common",
     set: 1,
     color: "Acier",
-    image: C1_174,
+    image: "/cards/lorcana/chapter_1/C1_174.png",
     number: 174,
     rarity: "",
     card_type: "",
@@ -3353,7 +3136,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_175,
+    image: "/cards/lorcana/chapter_1/C1_175.png",
     number: 175,
     rarity: "rare",
     card_type: "",
@@ -3371,7 +3154,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_176,
+    image: "/cards/lorcana/chapter_1/C1_176.png",
     number: 176,
     rarity: "common",
     card_type: "",
@@ -3389,7 +3172,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_177,
+    image: "/cards/lorcana/chapter_1/C1_177.png",
     number: 177,
     rarity: "uncommon",
     card_type: "",
@@ -3407,7 +3190,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_178,
+    image: "/cards/lorcana/chapter_1/C1_178.png",
     number: 178,
     rarity: "legendary",
     card_type: "",
@@ -3425,7 +3208,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_179,
+    image: "/cards/lorcana/chapter_1/C1_179.png",
     number: 179,
     rarity: "common",
     card_type: "",
@@ -3443,7 +3226,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_180,
+    image: "/cards/lorcana/chapter_1/C1_180.png",
     number: 180,
     rarity: "super-rare",
     card_type: "",
@@ -3461,7 +3244,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_181,
+    image: "/cards/lorcana/chapter_1/C1_181.png",
     number: 181,
     rarity: "common",
     card_type: "",
@@ -3479,7 +3262,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_182,
+    image: "/cards/lorcana/chapter_1/C1_182.png",
     number: 182,
     rarity: "common",
     card_type: "",
@@ -3497,7 +3280,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_183,
+    image: "/cards/lorcana/chapter_1/C1_183.png",
     number: 183,
     rarity: "uncommon",
     card_type: "",
@@ -3515,7 +3298,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_184,
+    image: "/cards/lorcana/chapter_1/C1_184.png",
     number: 184,
     rarity: "uncommon",
     card_type: "",
@@ -3533,7 +3316,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_185,
+    image: "/cards/lorcana/chapter_1/C1_185.png",
     number: 185,
     rarity: "rare",
     card_type: "",
@@ -3551,7 +3334,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_186,
+    image: "/cards/lorcana/chapter_1/C1_186.png",
     number: 186,
     rarity: "rare",
     card_type: "",
@@ -3569,7 +3352,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_187,
+    image: "/cards/lorcana/chapter_1/C1_187.png",
     number: 187,
     rarity: "common",
     card_type: "",
@@ -3587,7 +3370,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_188,
+    image: "/cards/lorcana/chapter_1/C1_188.png",
     number: 188,
     rarity: "common",
     card_type: "",
@@ -3605,7 +3388,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_189,
+    image: "/cards/lorcana/chapter_1/C1_189.png",
     number: 189,
     rarity: "rare",
     card_type: "",
@@ -3623,7 +3406,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_190,
+    image: "/cards/lorcana/chapter_1/C1_190.png",
     number: 190,
     rarity: "uncommon",
     card_type: "",
@@ -3641,7 +3424,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_191,
+    image: "/cards/lorcana/chapter_1/C1_191.png",
     number: 191,
     rarity: "uncommon",
     card_type: "",
@@ -3659,7 +3442,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_192,
+    image: "/cards/lorcana/chapter_1/C1_192.png",
     number: 192,
     rarity: "legendary",
     card_type: "",
@@ -3677,7 +3460,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_193,
+    image: "/cards/lorcana/chapter_1/C1_193.png",
     number: 193,
     rarity: "super-rare",
     card_type: "",
@@ -3695,7 +3478,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_194,
+    image: "/cards/lorcana/chapter_1/C1_194.png",
     number: 194,
     rarity: "common",
     card_type: "",
@@ -3713,7 +3496,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_195,
+    image: "/cards/lorcana/chapter_1/C1_195.png",
     number: 195,
     rarity: "super-rare",
     card_type: "",
@@ -3731,7 +3514,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_196,
+    image: "/cards/lorcana/chapter_1/C1_196.png",
     number: 196,
     rarity: "common",
     card_type: "",
@@ -3749,7 +3532,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_197,
+    image: "/cards/lorcana/chapter_1/C1_197.png",
     number: 197,
     rarity: "common",
     card_type: "",
@@ -3767,7 +3550,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_198,
+    image: "/cards/lorcana/chapter_1/C1_198.png",
     number: 198,
     rarity: "rare",
     card_type: "",
@@ -3785,7 +3568,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_199,
+    image: "/cards/lorcana/chapter_1/C1_199.png",
     number: 199,
     rarity: "uncommon",
     card_type: "",
@@ -3803,7 +3586,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_200,
+    image: "/cards/lorcana/chapter_1/C1_200.png",
     number: 200,
     rarity: "uncommon",
     card_type: "",
@@ -3821,7 +3604,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_201,
+    image: "/cards/lorcana/chapter_1/C1_201.png",
     number: 201,
     rarity: "common",
     card_type: "",
@@ -3839,7 +3622,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_202,
+    image: "/cards/lorcana/chapter_1/C1_202.png",
     number: 202,
     rarity: "uncommon",
     card_type: "",
@@ -3857,7 +3640,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_203,
+    image: "/cards/lorcana/chapter_1/C1_203.png",
     number: 203,
     rarity: "rare",
     card_type: "",
@@ -3875,7 +3658,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_204,
+    image: "/cards/lorcana/chapter_1/C1_204.png",
     number: 204,
     rarity: "rare",
     card_type: "",
@@ -3893,7 +3676,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_205,
+    image: "/cards/lorcana/chapter_1/C1_205.png",
     number: 205,
     rarity: "enchanted",
     card_type: "",
@@ -3911,7 +3694,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Ambre",
-    image: C1_206,
+    image: "/cards/lorcana/chapter_1/C1_206.png",
     number: 206,
     rarity: "enchanted",
     card_type: "",
@@ -3929,7 +3712,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_207,
+    image: "/cards/lorcana/chapter_1/C1_207.png",
     number: 207,
     rarity: "enchanted",
     card_type: "",
@@ -3947,7 +3730,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Améthyste",
-    image: C1_208,
+    image: "/cards/lorcana/chapter_1/C1_208.png",
     number: 208,
     rarity: "enchanted",
     card_type: "",
@@ -3965,7 +3748,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_209,
+    image: "/cards/lorcana/chapter_1/C1_209.png",
     number: 209,
     rarity: "enchanted",
     card_type: "",
@@ -3983,7 +3766,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Emeraude",
-    image: C1_210,
+    image: "/cards/lorcana/chapter_1/C1_210.png",
     number: 210,
     rarity: "enchanted",
     card_type: "",
@@ -4001,7 +3784,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_211,
+    image: "/cards/lorcana/chapter_1/C1_211.png",
     number: 211,
     rarity: "enchanted",
     card_type: "",
@@ -4019,7 +3802,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Rubis",
-    image: C1_212,
+    image: "/cards/lorcana/chapter_1/C1_212.png",
     number: 212,
     rarity: "enchanted",
     card_type: "",
@@ -4037,7 +3820,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_213,
+    image: "/cards/lorcana/chapter_1/C1_213.png",
     number: 213,
     rarity: "enchanted",
     card_type: "",
@@ -4055,7 +3838,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Saphir",
-    image: C1_214,
+    image: "/cards/lorcana/chapter_1/C1_214.png",
     number: 214,
     rarity: "enchanted",
     card_type: "",
@@ -4073,7 +3856,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_215,
+    image: "/cards/lorcana/chapter_1/C1_215.png",
     number: 215,
     rarity: "enchanted",
     card_type: "",
@@ -4091,7 +3874,7 @@ export const lorcanaChapter1Cards = [
     name: "",
     set: 1,
     color: "Acier",
-    image: C1_216,
+    image: "/cards/lorcana/chapter_1/C1_216.png",
     number: 216,
     rarity: "enchanted",
     card_type: "",

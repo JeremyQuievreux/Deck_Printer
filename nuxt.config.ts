@@ -4,5 +4,8 @@ export default defineNuxtConfig({
   css: [
   // SCSS file in the project
   '~/style/main.scss'
-]
+  ],
+   modules: [
+    '@nuxt/image',
+  ]
 })
