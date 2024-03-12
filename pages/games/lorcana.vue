@@ -42,7 +42,7 @@
     </div>
 </template>
 <script>
-import lorcanaChapter1Cards from '../data/lorcana/chapter_1.js';
+import lorcanaAllCards from '../data/lorcana/lorcanaAllCards.js';
 import { lorcanaSetsEnumeration, lorcanaColorsEnumeration, lorcanaRarityEnumeration } from '../data/enumeration';
 
 export default {
@@ -59,7 +59,7 @@ export default {
         }
     },
     created() {
-        this.filteredCards = lorcanaChapter1Cards;
+        this.filteredCards = lorcanaAllCards;
     },
     methods: {
         isAlreadyInDeck(card){
@@ -118,7 +118,7 @@ export default {
             }
         },
         onFilterChange(){
-            let cardsFilteredBySet = this.filterCardsBySet(lorcanaChapter1Cards, this.selectedSet);
+            let cardsFilteredBySet = this.filterCardsBySet(lorcanaAllCards, this.selectedSet);
             let cardsFilteredByColor = this.filterCardsByColor(cardsFilteredBySet, this.selectedColor);
             let cardsFilteredByRarity = this.filterCardsByRarity(cardsFilteredByColor, this.selectedRarity);
             this.filteredCards = [...cardsFilteredByRarity];

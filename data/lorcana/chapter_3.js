@@ -1,237 +1,10 @@
-import C3_001 from "../img/cards/lorcana/chapter_3/C3-001.png";
-import C3_002 from "../img/cards/lorcana/chapter_3/C3-002.png";
-import C3_003 from "../img/cards/lorcana/chapter_3/C3-003.png";
-import C3_004a from "../img/cards/lorcana/chapter_3/C3-004a.png";
-import C3_004b from "../img/cards/lorcana/chapter_3/C3-004b.png";
-import C3_004c from "../img/cards/lorcana/chapter_3/C3-004c.png";
-import C3_004d from "../img/cards/lorcana/chapter_3/C3-004d.png";
-import C3_004e from "../img/cards/lorcana/chapter_3/C3-004e.png";
-import C3_005 from "../img/cards/lorcana/chapter_3/C3-005.png";
-import C3_006 from "../img/cards/lorcana/chapter_3/C3-006.png";
-import C3_007 from "../img/cards/lorcana/chapter_3/C3-007.png";
-import C3_008 from "../img/cards/lorcana/chapter_3/C3-008.png";
-import C3_009 from "../img/cards/lorcana/chapter_3/C3-009.png";
-import C3_010 from "../img/cards/lorcana/chapter_3/C3-010.png";
-import C3_011 from "../img/cards/lorcana/chapter_3/C3-011.png";
-import C3_012 from "../img/cards/lorcana/chapter_3/C3-012.png";
-import C3_013 from "../img/cards/lorcana/chapter_3/C3-013.png";
-import C3_014 from "../img/cards/lorcana/chapter_3/C3-014.png";
-import C3_015 from "../img/cards/lorcana/chapter_3/C3-015.png";
-import C3_016 from "../img/cards/lorcana/chapter_3/C3-016.png";
-import C3_017 from "../img/cards/lorcana/chapter_3/C3-017.png";
-import C3_018 from "../img/cards/lorcana/chapter_3/C3-018.png";
-import C3_019 from "../img/cards/lorcana/chapter_3/C3-019.png";
-import C3_020 from "../img/cards/lorcana/chapter_3/C3-020.png";
-import C3_021 from "../img/cards/lorcana/chapter_3/C3-021.png";
-import C3_022 from "../img/cards/lorcana/chapter_3/C3-022.png";
-import C3_023 from "../img/cards/lorcana/chapter_3/C3-023.png";
-import C3_024 from "../img/cards/lorcana/chapter_3/C3-024.png";
-import C3_025 from "../img/cards/lorcana/chapter_3/C3-025.png";
-import C3_026 from "../img/cards/lorcana/chapter_3/C3-026.png";
-import C3_027 from "../img/cards/lorcana/chapter_3/C3-027.png";
-import C3_028 from "../img/cards/lorcana/chapter_3/C3-028.png";
-import C3_029 from "../img/cards/lorcana/chapter_3/C3-029.png";
-import C3_030 from "../img/cards/lorcana/chapter_3/C3-030.png";
-import C3_031 from "../img/cards/lorcana/chapter_3/C3-031.png";
-import C3_032 from "../img/cards/lorcana/chapter_3/C3-032.png";
-import C3_033 from "../img/cards/lorcana/chapter_3/C3-033.png";
-import C3_034 from "../img/cards/lorcana/chapter_3/C3-034.png";
-import C3_035 from "../img/cards/lorcana/chapter_3/C3-035.png";
-import C3_036 from "../img/cards/lorcana/chapter_3/C3-036.png";
-import C3_037 from "../img/cards/lorcana/chapter_3/C3-037.png";
-import C3_038 from "../img/cards/lorcana/chapter_3/C3-038.png";
-import C3_039 from "../img/cards/lorcana/chapter_3/C3-039.png";
-import C3_040 from "../img/cards/lorcana/chapter_3/C3-040.png";
-import C3_041 from "../img/cards/lorcana/chapter_3/C3-041.png";
-import C3_042 from "../img/cards/lorcana/chapter_3/C3-042.png";
-import C3_043 from "../img/cards/lorcana/chapter_3/C3-043.png";
-import C3_044 from "../img/cards/lorcana/chapter_3/C3-044.png";
-import C3_045 from "../img/cards/lorcana/chapter_3/C3-045.png";
-import C3_046 from "../img/cards/lorcana/chapter_3/C3-046.png";
-import C3_047 from "../img/cards/lorcana/chapter_3/C3-047.png";
-import C3_048 from "../img/cards/lorcana/chapter_3/C3-048.png";
-import C3_049 from "../img/cards/lorcana/chapter_3/C3-049.png";
-import C3_050 from "../img/cards/lorcana/chapter_3/C3-050.png";
-import C3_051 from "../img/cards/lorcana/chapter_3/C3-051.png";
-import C3_052 from "../img/cards/lorcana/chapter_3/C3-052.png";
-import C3_053 from "../img/cards/lorcana/chapter_3/C3-053.png";
-import C3_054 from "../img/cards/lorcana/chapter_3/C3-054.png";
-import C3_055 from "../img/cards/lorcana/chapter_3/C3-055.png";
-import C3_056 from "../img/cards/lorcana/chapter_3/C3-056.png";
-import C3_057 from "../img/cards/lorcana/chapter_3/C3-057.png";
-import C3_058 from "../img/cards/lorcana/chapter_3/C3-058.png";
-import C3_059 from "../img/cards/lorcana/chapter_3/C3-059.png";
-import C3_060 from "../img/cards/lorcana/chapter_3/C3-060.png";
-import C3_061 from "../img/cards/lorcana/chapter_3/C3-061.png";
-import C3_062 from "../img/cards/lorcana/chapter_3/C3-062.png";
-import C3_063 from "../img/cards/lorcana/chapter_3/C3-063.png";
-import C3_064 from "../img/cards/lorcana/chapter_3/C3-064.png";
-import C3_065 from "../img/cards/lorcana/chapter_3/C3-065.png";
-import C3_066 from "../img/cards/lorcana/chapter_3/C3-066.png";
-import C3_067 from "../img/cards/lorcana/chapter_3/C3-067.png";
-import C3_068 from "../img/cards/lorcana/chapter_3/C3-068.png";
-import C3_069 from "../img/cards/lorcana/chapter_3/C3-069.png";
-import C3_070 from "../img/cards/lorcana/chapter_3/C3-070.png";
-import C3_071 from "../img/cards/lorcana/chapter_3/C3-071.png";
-import C3_072 from "../img/cards/lorcana/chapter_3/C3-072.png";
-import C3_073 from "../img/cards/lorcana/chapter_3/C3-073.png";
-import C3_074 from "../img/cards/lorcana/chapter_3/C3-074.png";
-import C3_075 from "../img/cards/lorcana/chapter_3/C3-075.png";
-import C3_076 from "../img/cards/lorcana/chapter_3/C3-076.png";
-import C3_077 from "../img/cards/lorcana/chapter_3/C3-077.png";
-import C3_078 from "../img/cards/lorcana/chapter_3/C3-078.png";
-import C3_079 from "../img/cards/lorcana/chapter_3/C3-079.png";
-import C3_080 from "../img/cards/lorcana/chapter_3/C3-080.png";
-import C3_081 from "../img/cards/lorcana/chapter_3/C3-081.png";
-import C3_082 from "../img/cards/lorcana/chapter_3/C3-082.png";
-import C3_083 from "../img/cards/lorcana/chapter_3/C3-083.png";
-import C3_084 from "../img/cards/lorcana/chapter_3/C3-084.png";
-import C3_085 from "../img/cards/lorcana/chapter_3/C3-085.png";
-import C3_086 from "../img/cards/lorcana/chapter_3/C3-086.png";
-import C3_087 from "../img/cards/lorcana/chapter_3/C3-087.png";
-import C3_088 from "../img/cards/lorcana/chapter_3/C3-088.png";
-import C3_089 from "../img/cards/lorcana/chapter_3/C3-089.png";
-import C3_090 from "../img/cards/lorcana/chapter_3/C3-090.png";
-import C3_091 from "../img/cards/lorcana/chapter_3/C3-091.png";
-import C3_092 from "../img/cards/lorcana/chapter_3/C3-092.png";
-import C3_093 from "../img/cards/lorcana/chapter_3/C3-093.png";
-import C3_094 from "../img/cards/lorcana/chapter_3/C3-094.png";
-import C3_095 from "../img/cards/lorcana/chapter_3/C3-095.png";
-import C3_096 from "../img/cards/lorcana/chapter_3/C3-096.png";
-import C3_097 from "../img/cards/lorcana/chapter_3/C3-097.png";
-import C3_098 from "../img/cards/lorcana/chapter_3/C3-098.png";
-import C3_099 from "../img/cards/lorcana/chapter_3/C3-099.png";
-import C3_100 from "../img/cards/lorcana/chapter_3/C3-100.png";
-import C3_101 from "../img/cards/lorcana/chapter_3/C3-101.png";
-import C3_102 from "../img/cards/lorcana/chapter_3/C3-102.png";
-import C3_103 from "../img/cards/lorcana/chapter_3/C3-103.png";
-import C3_104 from "../img/cards/lorcana/chapter_3/C3-104.png";
-import C3_105 from "../img/cards/lorcana/chapter_3/C3-105.png";
-import C3_106 from "../img/cards/lorcana/chapter_3/C3-106.png";
-import C3_107 from "../img/cards/lorcana/chapter_3/C3-107.png";
-import C3_108 from "../img/cards/lorcana/chapter_3/C3-108.png";
-import C3_109 from "../img/cards/lorcana/chapter_3/C3-109.png";
-import C3_110 from "../img/cards/lorcana/chapter_3/C3-110.png";
-import C3_111 from "../img/cards/lorcana/chapter_3/C3-111.png";
-import C3_112 from "../img/cards/lorcana/chapter_3/C3-112.png";
-import C3_113 from "../img/cards/lorcana/chapter_3/C3-113.png";
-import C3_114 from "../img/cards/lorcana/chapter_3/C3-114.png";
-import C3_115 from "../img/cards/lorcana/chapter_3/C3-115.png";
-import C3_116 from "../img/cards/lorcana/chapter_3/C3-116.png";
-import C3_117 from "../img/cards/lorcana/chapter_3/C3-117.png";
-import C3_118 from "../img/cards/lorcana/chapter_3/C3-118.png";
-import C3_119 from "../img/cards/lorcana/chapter_3/C3-119.png";
-import C3_120 from "../img/cards/lorcana/chapter_3/C3-120.png";
-import C3_121 from "../img/cards/lorcana/chapter_3/C3-121.png";
-import C3_122 from "../img/cards/lorcana/chapter_3/C3-122.png";
-import C3_123 from "../img/cards/lorcana/chapter_3/C3-123.png";
-import C3_124 from "../img/cards/lorcana/chapter_3/C3-124.png";
-import C3_125 from "../img/cards/lorcana/chapter_3/C3-125.png";
-import C3_126 from "../img/cards/lorcana/chapter_3/C3-126.png";
-import C3_127 from "../img/cards/lorcana/chapter_3/C3-127.png";
-import C3_128 from "../img/cards/lorcana/chapter_3/C3-128.png";
-import C3_129 from "../img/cards/lorcana/chapter_3/C3-129.png";
-import C3_130 from "../img/cards/lorcana/chapter_3/C3-130.png";
-import C3_131 from "../img/cards/lorcana/chapter_3/C3-131.png";
-import C3_132 from "../img/cards/lorcana/chapter_3/C3-132.png";
-import C3_133 from "../img/cards/lorcana/chapter_3/C3-133.png";
-import C3_134 from "../img/cards/lorcana/chapter_3/C3-134.png";
-import C3_135 from "../img/cards/lorcana/chapter_3/C3-135.png";
-import C3_136 from "../img/cards/lorcana/chapter_3/C3-136.png";
-import C3_137 from "../img/cards/lorcana/chapter_3/C3-137.png";
-import C3_138 from "../img/cards/lorcana/chapter_3/C3-138.png";
-import C3_139 from "../img/cards/lorcana/chapter_3/C3-139.png";
-import C3_140 from "../img/cards/lorcana/chapter_3/C3-140.png";
-import C3_141 from "../img/cards/lorcana/chapter_3/C3-141.png";
-import C3_142 from "../img/cards/lorcana/chapter_3/C3-142.png";
-import C3_143 from "../img/cards/lorcana/chapter_3/C3-143.png";
-import C3_144 from "../img/cards/lorcana/chapter_3/C3-144.png";
-import C3_145 from "../img/cards/lorcana/chapter_3/C3-145.png";
-import C3_146 from "../img/cards/lorcana/chapter_3/C3-146.png";
-import C3_147 from "../img/cards/lorcana/chapter_3/C3-147.png";
-import C3_148 from "../img/cards/lorcana/chapter_3/C3-148.png";
-import C3_149 from "../img/cards/lorcana/chapter_3/C3-149.png";
-import C3_150 from "../img/cards/lorcana/chapter_3/C3-150.png";
-import C3_151 from "../img/cards/lorcana/chapter_3/C3-151.png";
-import C3_152 from "../img/cards/lorcana/chapter_3/C3-152.png";
-import C3_153 from "../img/cards/lorcana/chapter_3/C3-153.png";
-import C3_154 from "../img/cards/lorcana/chapter_3/C3-154.png";
-import C3_155 from "../img/cards/lorcana/chapter_3/C3-155.png";
-import C3_156 from "../img/cards/lorcana/chapter_3/C3-156.png";
-import C3_157 from "../img/cards/lorcana/chapter_3/C3-157.png";
-import C3_158 from "../img/cards/lorcana/chapter_3/C3-158.png";
-import C3_159 from "../img/cards/lorcana/chapter_3/C3-159.png";
-import C3_160 from "../img/cards/lorcana/chapter_3/C3-160.png";
-import C3_161 from "../img/cards/lorcana/chapter_3/C3-161.png";
-import C3_162 from "../img/cards/lorcana/chapter_3/C3-162.png";
-import C3_163 from "../img/cards/lorcana/chapter_3/C3-163.png";
-import C3_164 from "../img/cards/lorcana/chapter_3/C3-164.png";
-import C3_165 from "../img/cards/lorcana/chapter_3/C3-165.png";
-import C3_166 from "../img/cards/lorcana/chapter_3/C3-166.png";
-import C3_167 from "../img/cards/lorcana/chapter_3/C3-167.png";
-import C3_168 from "../img/cards/lorcana/chapter_3/C3-168.png";
-import C3_169 from "../img/cards/lorcana/chapter_3/C3-169.png";
-import C3_170 from "../img/cards/lorcana/chapter_3/C3-170.png";
-import C3_171 from "../img/cards/lorcana/chapter_3/C3-171.png";
-import C3_172 from "../img/cards/lorcana/chapter_3/C3-172.png";
-import C3_173 from "../img/cards/lorcana/chapter_3/C3-173.png";
-import C3_174 from "../img/cards/lorcana/chapter_3/C3-174.png";
-import C3_175 from "../img/cards/lorcana/chapter_3/C3-175.png";
-import C3_176 from "../img/cards/lorcana/chapter_3/C3-176.png";
-import C3_177 from "../img/cards/lorcana/chapter_3/C3-177.png";
-import C3_178 from "../img/cards/lorcana/chapter_3/C3-178.png";
-import C3_179 from "../img/cards/lorcana/chapter_3/C3-179.png";
-import C3_180 from "../img/cards/lorcana/chapter_3/C3-180.png";
-import C3_181 from "../img/cards/lorcana/chapter_3/C3-181.png";
-import C3_182 from "../img/cards/lorcana/chapter_3/C3-182.png";
-import C3_183 from "../img/cards/lorcana/chapter_3/C3-183.png";
-import C3_184 from "../img/cards/lorcana/chapter_3/C3-184.png";
-import C3_185 from "../img/cards/lorcana/chapter_3/C3-185.png";
-import C3_186 from "../img/cards/lorcana/chapter_3/C3-186.png";
-import C3_187 from "../img/cards/lorcana/chapter_3/C3-187.png";
-import C3_188 from "../img/cards/lorcana/chapter_3/C3-188.png";
-import C3_189 from "../img/cards/lorcana/chapter_3/C3-189.png";
-import C3_190 from "../img/cards/lorcana/chapter_3/C3-190.png";
-import C3_191 from "../img/cards/lorcana/chapter_3/C3-191.png";
-import C3_192 from "../img/cards/lorcana/chapter_3/C3-192.png";
-import C3_193 from "../img/cards/lorcana/chapter_3/C3-193.png";
-import C3_194 from "../img/cards/lorcana/chapter_3/C3-194.png";
-import C3_195 from "../img/cards/lorcana/chapter_3/C3-195.png";
-import C3_196 from "../img/cards/lorcana/chapter_3/C3-196.png";
-import C3_197 from "../img/cards/lorcana/chapter_3/C3-197.png";
-import C3_198 from "../img/cards/lorcana/chapter_3/C3-198.png";
-import C3_199 from "../img/cards/lorcana/chapter_3/C3-199.png";
-import C3_200 from "../img/cards/lorcana/chapter_3/C3-200.png";
-import C3_201 from "../img/cards/lorcana/chapter_3/C3-201.png";
-import C3_202 from "../img/cards/lorcana/chapter_3/C3-202.png";
-import C3_203 from "../img/cards/lorcana/chapter_3/C3-203.png";
-import C3_204 from "../img/cards/lorcana/chapter_3/C3-204.png";
-import C3_205 from "../img/cards/lorcana/chapter_3/C3-205.png";
-import C3_206 from "../img/cards/lorcana/chapter_3/C3-206.png";
-import C3_207 from "../img/cards/lorcana/chapter_3/C3-207.png";
-import C3_208 from "../img/cards/lorcana/chapter_3/C3-208.png";
-import C3_209 from "../img/cards/lorcana/chapter_3/C3-209.png";
-import C3_210 from "../img/cards/lorcana/chapter_3/C3-210.png";
-import C3_211 from "../img/cards/lorcana/chapter_3/C3-211.png";
-import C3_212 from "../img/cards/lorcana/chapter_3/C3-212.png";
-import C3_213 from "../img/cards/lorcana/chapter_3/C3-213.png";
-import C3_214 from "../img/cards/lorcana/chapter_3/C3-214.png";
-import C3_215 from "../img/cards/lorcana/chapter_3/C3-215.png";
-import C3_216 from "../img/cards/lorcana/chapter_3/C3-216.png";
-import C3_217 from "../img/cards/lorcana/chapter_3/C3-217.png";
-import C3_218 from "../img/cards/lorcana/chapter_3/C3-218.png";
-import C3_219 from "../img/cards/lorcana/chapter_3/C3-219.png";
-import C3_220 from "../img/cards/lorcana/chapter_3/C3-220.png";
-import C3_221 from "../img/cards/lorcana/chapter_3/C3-221.png";
-import C3_222 from "../img/cards/lorcana/chapter_3/C3-222.png";
-
-export const lorcanaChapter3Cards = [
+export default [
   {
     id: "C3-001",
     name: "Baloo, von Bruinwald XIII",
     set: 3,
     color: "Ambre",
-    image: C3_001,
+    image: "/cards/lorcana/chapter_3/C3_001.png",
     number: 1,
     rarity: "rare",
     card_type: "",
@@ -249,7 +22,7 @@ export const lorcanaChapter3Cards = [
     name: "Bernard, Tout nouvel agent",
     set: 3,
     color: "Ambre",
-    image: C3_002,
+    image: "/cards/lorcana/chapter_3/C3_002.png",
     number: 2,
     rarity: "rare",
     card_type: "",
@@ -267,7 +40,7 @@ export const lorcanaChapter3Cards = [
     name: "Chernabog, Répand le mal",
     set: 3,
     color: "Ambre",
-    image: C3_003,
+    image: "/cards/lorcana/chapter_3/C3_003.png",
     number: 3,
     rarity: "super-rare",
     card_type: "",
@@ -285,7 +58,7 @@ export const lorcanaChapter3Cards = [
     name: "Chiot Dalmatien",
     set: 3,
     color: "Ambre",
-    image: C3_004a,
+    image: "/cards/lorcana/chapter_3/C3_004a.png",
     number: 4,
     rarity: "common",
     card_type: "",
@@ -303,7 +76,7 @@ export const lorcanaChapter3Cards = [
     name: "Chiot Dalmatien",
     set: 3,
     color: "Ambre",
-    image: C3_004b,
+    image: "/cards/lorcana/chapter_3/C3_004b.png",
     number: 4,
     rarity: "common",
     card_type: "",
@@ -321,7 +94,7 @@ export const lorcanaChapter3Cards = [
     name: "Chiot Dalmatien",
     set: 3,
     color: "Ambre",
-    image: C3_004c,
+    image: "/cards/lorcana/chapter_3/C3_004c.png",
     number: 4,
     rarity: "common",
     card_type: "",
@@ -339,7 +112,7 @@ export const lorcanaChapter3Cards = [
     name: "Chiot Dalmatien",
     set: 3,
     color: "Ambre",
-    image: C3_004d,
+    image: "/cards/lorcana/chapter_3/C3_004d.png",
     number: 4,
     rarity: "common",
     card_type: "",
@@ -357,7 +130,7 @@ export const lorcanaChapter3Cards = [
     name: "Chiot Dalmatien",
     set: 3,
     color: "Ambre",
-    image: C3_004e,
+    image: "/cards/lorcana/chapter_3/C3_004e.png",
     number: 4,
     rarity: "common",
     card_type: "",
@@ -375,7 +148,7 @@ export const lorcanaChapter3Cards = [
     name: "Amadou Gentil, Le docteur",
     set: 3,
     color: "Ambre",
-    image: C3_005,
+    image: "/cards/lorcana/chapter_3/C3_005.png",
     number: 5,
     rarity: "common",
     card_type: "",
@@ -393,7 +166,7 @@ export const lorcanaChapter3Cards = [
     name: "Kida, Atlante",
     set: 3,
     color: "Ambre",
-    image: C3_006,
+    image: "/cards/lorcana/chapter_3/C3_006.png",
     number: 6,
     rarity: "common",
     card_type: "",
@@ -411,7 +184,7 @@ export const lorcanaChapter3Cards = [
     name: "Kida, Protectrice de l'Atlantide",
     set: 3,
     color: "Ambre",
-    image: C3_007,
+    image: "/cards/lorcana/chapter_3/C3_007.png",
     number: 7,
     rarity: "legendary",
     card_type: "",
@@ -429,7 +202,7 @@ export const lorcanaChapter3Cards = [
     name: "Lucky, Le 15e chiot",
     set: 3,
     color: "Ambre",
-    image: C3_008,
+    image: "/cards/lorcana/chapter_3/C3_008.png",
     number: 8,
     rarity: "rare",
     card_type: "",
@@ -447,7 +220,7 @@ export const lorcanaChapter3Cards = [
     name: "Minnie, Artiste musicale",
     set: 3,
     color: "Ambre",
-    image: C3_009,
+    image: "/cards/lorcana/chapter_3/C3_009.png",
     number: 9,
     rarity: "rare",
     card_type: "",
@@ -465,7 +238,7 @@ export const lorcanaChapter3Cards = [
     name: "Miss Bianca, Agente de SOS Sociète",
     set: 3,
     color: "Ambre",
-    image: C3_010,
+    image: "/cards/lorcana/chapter_3/C3_010.png",
     number: 10,
     rarity: "common",
     card_type: "",
@@ -483,7 +256,7 @@ export const lorcanaChapter3Cards = [
     name: "Mr. Snoops",
     set: 3,
     color: "Ambre",
-    image: C3_011,
+    image: "/cards/lorcana/chapter_3/C3_011.png",
     number: 11,
     rarity: "common",
     card_type: "",
@@ -501,7 +274,7 @@ export const lorcanaChapter3Cards = [
     name: "Nani, Soeur protectrice",
     set: 3,
     color: "Ambre",
-    image: C3_012,
+    image: "/cards/lorcana/chapter_3/C3_012.png",
     number: 12,
     rarity: "uncommmon",
     card_type: "",
@@ -519,7 +292,7 @@ export const lorcanaChapter3Cards = [
     name: "Orville, As de l'aviation",
     set: 3,
     color: "Ambre",
-    image: C3_013,
+    image: "/cards/lorcana/chapter_3/C3_013.png",
     number: 13,
     rarity: "common",
     card_type: "",
@@ -537,7 +310,7 @@ export const lorcanaChapter3Cards = [
     name: "Patch, Chiot intimidant",
     set: 3,
     color: "Ambre",
-    image: C3_014,
+    image: "/cards/lorcana/chapter_3/C3_014.png",
     number: 14,
     rarity: "common",
     card_type: "",
@@ -555,7 +328,7 @@ export const lorcanaChapter3Cards = [
     name: "Perdita, Mère dévouée",
     set: 3,
     color: "Ambre",
-    image: C3_015,
+    image: "/cards/lorcana/chapter_3/C3_015.png",
     number: 15,
     rarity: "legendary",
     card_type: "",
@@ -573,7 +346,7 @@ export const lorcanaChapter3Cards = [
     name: "Porcinet, Capitaine pirate de Winnie",
     set: 3,
     color: "Ambre",
-    image: C3_016,
+    image: "/cards/lorcana/chapter_3/C3_016.png",
     number: 16,
     rarity: "super-rare",
     card_type: "",
@@ -591,7 +364,7 @@ export const lorcanaChapter3Cards = [
     name: "Pluto, Protecteur déterminé",
     set: 3,
     color: "Ambre",
-    image: C3_017,
+    image: "/cards/lorcana/chapter_3/C3_017.png",
     number: 17,
     rarity: "rare",
     card_type: "",
@@ -609,7 +382,7 @@ export const lorcanaChapter3Cards = [
     name: "Pluto, Gentil cabot",
     set: 3,
     color: "Ambre",
-    image: C3_018,
+    image: "/cards/lorcana/chapter_3/C3_018.png",
     number: 18,
     rarity: "uncommon",
     card_type: "",
@@ -627,7 +400,7 @@ export const lorcanaChapter3Cards = [
     name: "Pongo, Père persévérant",
     set: 3,
     color: "Ambre",
-    image: C3_019,
+    image: "/cards/lorcana/chapter_3/C3_019.png",
     number: 19,
     rarity: "super-rare",
     card_type: "",
@@ -645,7 +418,7 @@ export const lorcanaChapter3Cards = [
     name: "La Reine de coeur",
     set: 3,
     color: "Ambre",
-    image: C3_020,
+    image: "/cards/lorcana/chapter_3/C3_020.png",
     number: 20,
     rarity: "uncommon",
     card_type: "",
@@ -663,7 +436,7 @@ export const lorcanaChapter3Cards = [
     name: "Rolly, Chiot affamé",
     set: 3,
     color: "Ambre",
-    image: C3_021,
+    image: "/cards/lorcana/chapter_3/C3_021.png",
     number: 21,
     rarity: "uncommon",
     card_type: "",
@@ -681,7 +454,7 @@ export const lorcanaChapter3Cards = [
     name: "La fée clochette",
     set: 3,
     color: "Ambre",
-    image: C3_022,
+    image: "/cards/lorcana/chapter_3/C3_022.png",
     number: 22,
     rarity: "uncommon",
     card_type: "",
@@ -699,7 +472,7 @@ export const lorcanaChapter3Cards = [
     name: "Wendy Darling, Talentueuse navigatrice",
     set: 3,
     color: "Ambre",
-    image: C3_023,
+    image: "/cards/lorcana/chapter_3/C3_023.png",
     number: 23,
     rarity: "uncommon",
     card_type: "",
@@ -717,7 +490,7 @@ export const lorcanaChapter3Cards = [
     name: "99 Chiots",
     set: 3,
     color: "Ambre",
-    image: C3_024,
+    image: "/cards/lorcana/chapter_3/C3_024.png",
     number: 24,
     rarity: "uncommon",
     card_type: "",
@@ -735,7 +508,7 @@ export const lorcanaChapter3Cards = [
     name: "Ordres de la patronne",
     set: 3,
     color: "Ambre",
-    image: C3_025,
+    image: "/cards/lorcana/chapter_3/C3_025.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -753,7 +526,7 @@ export const lorcanaChapter3Cards = [
     name: "Guéris les blessures",
     set: 3,
     color: "Ambre",
-    image: C3_026,
+    image: "/cards/lorcana/chapter_3/C3_026.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -771,7 +544,7 @@ export const lorcanaChapter3Cards = [
     name: "Réparation de fortune",
     set: 3,
     color: "Ambre",
-    image: C3_027,
+    image: "/cards/lorcana/chapter_3/C3_027.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -789,7 +562,7 @@ export const lorcanaChapter3Cards = [
     name: "Il en faut peu pour être heureux",
     set: 3,
     color: "Ambre",
-    image: C3_028,
+    image: "/cards/lorcana/chapter_3/C3_028.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -807,7 +580,7 @@ export const lorcanaChapter3Cards = [
     name: "Eau de pluie purifiante",
     set: 3,
     color: "Ambre",
-    image: C3_029,
+    image: "/cards/lorcana/chapter_3/C3_029.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -825,7 +598,7 @@ export const lorcanaChapter3Cards = [
     name: "Coeur de l'Atlantide",
     set: 3,
     color: "Ambre",
-    image: C3_030,
+    image: "/cards/lorcana/chapter_3/C3_030.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -843,7 +616,7 @@ export const lorcanaChapter3Cards = [
     name: "Clé de turbo",
     set: 3,
     color: "Ambre",
-    image: C3_031,
+    image: "/cards/lorcana/chapter_3/C3_031.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -861,7 +634,7 @@ export const lorcanaChapter3Cards = [
     name: "Le pays imaginaire, Lagune aux Sirènes",
     set: 3,
     color: "Ambre",
-    image: C3_032,
+    image: "/cards/lorcana/chapter_3/C3_032.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -879,7 +652,7 @@ export const lorcanaChapter3Cards = [
     name: "La terre des lions, Le rocher des lions",
     set: 3,
     color: "Ambre",
-    image: C3_033,
+    image: "/cards/lorcana/chapter_3/C3_033.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -897,7 +670,7 @@ export const lorcanaChapter3Cards = [
     name: "Chez Tiana, Restaurant de jazz",
     set: 3,
     color: "Ambre",
-    image: C3_034,
+    image: "/cards/lorcana/chapter_3/C3_034.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -915,7 +688,7 @@ export const lorcanaChapter3Cards = [
     name: "Alice - Alchimiste théinée",
     set: 3,
     color: "Améthyste",
-    image: C3_035,
+    image: "/cards/lorcana/chapter_3/C3_035.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -933,7 +706,7 @@ export const lorcanaChapter3Cards = [
     name: "Adeptes de Chernabog - Créatures du mal",
     set: 3,
     color: "Améthyste",
-    image: C3_036,
+    image: "/cards/lorcana/chapter_3/C3_036.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -951,7 +724,7 @@ export const lorcanaChapter3Cards = [
     name: "Diablo - Animal de compagnie fidèle",
     set: 3,
     color: "Améthyste",
-    image: C3_037,
+    image: "/cards/lorcana/chapter_3/C3_037.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -969,7 +742,7 @@ export const lorcanaChapter3Cards = [
     name: "Génie - Ami encourageant",
     set: 3,
     color: "Améthyste",
-    image: C3_038,
+    image: "/cards/lorcana/chapter_3/C3_038.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -987,7 +760,7 @@ export const lorcanaChapter3Cards = [
     name: "Hydros - Titan de glace",
     set: 3,
     color: "Améthyste",
-    image: C3_039,
+    image: "/cards/lorcana/chapter_3/C3_039.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1005,7 +778,7 @@ export const lorcanaChapter3Cards = [
     name: "Iago - Gentil Coco",
     set: 3,
     color: "Améthyste",
-    image: C3_040,
+    image: "/cards/lorcana/chapter_3/C3_040.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1023,7 +796,7 @@ export const lorcanaChapter3Cards = [
     name: "Jafar - Voleur de lampe",
     set: 3,
     color: "Améthyste",
-    image: C3_041,
+    image: "/cards/lorcana/chapter_3/C3_041.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1041,7 +814,7 @@ export const lorcanaChapter3Cards = [
     name: "Jafar - Illusionniste ensorcelant",
     set: 3,
     color: "Améthyste",
-    image: C3_042,
+    image: "/cards/lorcana/chapter_3/C3_042.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -1059,7 +832,7 @@ export const lorcanaChapter3Cards = [
     name: "Lena de Sortilège - Adolescente rebelle",
     set: 3,
     color: "Améthyste",
-    image: C3_043,
+    image: "/cards/lorcana/chapter_3/C3_043.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1077,7 +850,7 @@ export const lorcanaChapter3Cards = [
     name: "Balais magiques - Plumeau dansant",
     set: 3,
     color: "Améthyste",
-    image: C3_044,
+    image: "/cards/lorcana/chapter_3/C3_044.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1095,7 +868,7 @@ export const lorcanaChapter3Cards = [
     name: "Balais magiques - Nettoyeur rapide",
     set: 3,
     color: "Améthyste",
-    image: C3_045,
+    image: "/cards/lorcana/chapter_3/C3_045.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1113,7 +886,7 @@ export const lorcanaChapter3Cards = [
     name: "Balais magiques - Le grand nettoyeur",
     set: 3,
     color: "Améthyste",
-    image: C3_046,
+    image: "/cards/lorcana/chapter_3/C3_046.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1131,7 +904,7 @@ export const lorcanaChapter3Cards = [
     name: "Tapis volant - Carpette magique",
     set: 3,
     color: "Améthyste",
-    image: C3_047,
+    image: "/cards/lorcana/chapter_3/C3_047.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1149,7 +922,7 @@ export const lorcanaChapter3Cards = [
     name: "Miss Tick - Sorcière ambitieuse",
     set: 3,
     color: "Améthyste",
-    image: C3_048,
+    image: "/cards/lorcana/chapter_3/C3_048.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1167,7 +940,7 @@ export const lorcanaChapter3Cards = [
     name: "Miss Tick - Toucher de Midas",
     set: 3,
     color: "Améthyste",
-    image: C3_049,
+    image: "/cards/lorcana/chapter_3/C3_049.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -1185,7 +958,7 @@ export const lorcanaChapter3Cards = [
     name: "Miss Tick - Sorcière en plein larcin",
     set: 3,
     color: "Améthyste",
-    image: C3_050,
+    image: "/cards/lorcana/chapter_3/C3_050.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1203,7 +976,7 @@ export const lorcanaChapter3Cards = [
     name: "Maléfique - Maîtresse du Mal",
     set: 3,
     color: "Améthyste",
-    image: C3_051,
+    image: "/cards/lorcana/chapter_3/C3_051.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -1221,7 +994,7 @@ export const lorcanaChapter3Cards = [
     name: "Mama Odie - Voix de la sagesse",
     set: 3,
     color: "Améthyste",
-    image: C3_052,
+    image: "/cards/lorcana/chapter_3/C3_052.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1239,7 +1012,7 @@ export const lorcanaChapter3Cards = [
     name: "Pua - Compagnon bedonnant",
     set: 3,
     color: "Améthyste",
-    image: C3_053,
+    image: "/cards/lorcana/chapter_3/C3_053.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1257,7 +1030,7 @@ export const lorcanaChapter3Cards = [
     name: "Rafiki - Combattant mystique",
     set: 3,
     color: "Améthyste",
-    image: C3_054,
+    image: "/cards/lorcana/chapter_3/C3_054.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1275,7 +1048,7 @@ export const lorcanaChapter3Cards = [
     name: "Stratos - Titan du vent",
     set: 3,
     color: "Améthyste",
-    image: C3_055,
+    image: "/cards/lorcana/chapter_3/C3_055.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1293,7 +1066,7 @@ export const lorcanaChapter3Cards = [
     name: "L'Oiseau de Feu - Force destructrice",
     set: 3,
     color: "Améthyste",
-    image: C3_056,
+    image: "/cards/lorcana/chapter_3/C3_056.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1311,7 +1084,7 @@ export const lorcanaChapter3Cards = [
     name: "La Reine - Rivale haineuse",
     set: 3,
     color: "Améthyste",
-    image: C3_057,
+    image: "/cards/lorcana/chapter_3/C3_057.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1329,7 +1102,7 @@ export const lorcanaChapter3Cards = [
     name: "Le Gardien du Trésor - Protecteur de la Caverne",
     set: 3,
     color: "Améthyste",
-    image: C3_058,
+    image: "/cards/lorcana/chapter_3/C3_058.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1347,7 +1120,7 @@ export const lorcanaChapter3Cards = [
     name: "Ursula - Sorcière des mers",
     set: 3,
     color: "Améthyste",
-    image: C3_059,
+    image: "/cards/lorcana/chapter_3/C3_059.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1365,7 +1138,7 @@ export const lorcanaChapter3Cards = [
     name: "Offrir un don",
     set: 3,
     color: "Améthyste",
-    image: C3_060,
+    image: "/cards/lorcana/chapter_3/C3_060.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1383,7 +1156,7 @@ export const lorcanaChapter3Cards = [
     name: "Il m'appelle",
     set: 3,
     color: "Améthyste",
-    image: C3_061,
+    image: "/cards/lorcana/chapter_3/C3_061.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1401,7 +1174,7 @@ export const lorcanaChapter3Cards = [
     name: "Effort désespéré",
     set: 3,
     color: "Améthyste",
-    image: C3_062,
+    image: "/cards/lorcana/chapter_3/C3_062.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1419,7 +1192,7 @@ export const lorcanaChapter3Cards = [
     name: "Je complète ma collection",
     set: 3,
     color: "Améthyste",
-    image: C3_063,
+    image: "/cards/lorcana/chapter_3/C3_063.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1437,7 +1210,7 @@ export const lorcanaChapter3Cards = [
     name: "La lampe",
     set: 3,
     color: "Améthyste",
-    image: C3_064,
+    image: "/cards/lorcana/chapter_3/C3_064.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1455,7 +1228,7 @@ export const lorcanaChapter3Cards = [
     name: "Le chapeau de sorcier",
     set: 3,
     color: "Améthyste",
-    image: C3_065,
+    image: "/cards/lorcana/chapter_3/C3_065.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1473,7 +1246,7 @@ export const lorcanaChapter3Cards = [
     name: "Montagne Interdite - Château de Maléfique",
     set: 3,
     color: "Améthyste",
-    image: C3_066,
+    image: "/cards/lorcana/chapter_3/C3_066.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1491,7 +1264,7 @@ export const lorcanaChapter3Cards = [
     name: "Château de la reine - Salle du miroir",
     set: 3,
     color: "Améthyste",
-    image: C3_067,
+    image: "/cards/lorcana/chapter_3/C3_067.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1509,7 +1282,7 @@ export const lorcanaChapter3Cards = [
     name: "La Tour du Sorcier - Atelier merveilleux",
     set: 3,
     color: "Améthyste",
-    image: C3_068,
+    image: "/cards/lorcana/chapter_3/C3_068.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1527,7 +1300,7 @@ export const lorcanaChapter3Cards = [
     name: "Le frisé, Enfant perdu très costaud",
     set: 3,
     color: "Emeraude",
-    image: C3_069,
+    image: "/cards/lorcana/chapter_3/C3_069.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1545,7 +1318,7 @@ export const lorcanaChapter3Cards = [
     name: "Ondins ensorcelés, Oeuvre d'Ursula",
     set: 3,
     color: "Emeraude",
-    image: C3_070,
+    image: "/cards/lorcana/chapter_3/C3_070.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1563,7 +1336,7 @@ export const lorcanaChapter3Cards = [
     name: "Don Carnage, Prince des pirates",
     set: 3,
     color: "Emeraude",
-    image: C3_071,
+    image: "/cards/lorcana/chapter_3/C3_071.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1581,7 +1354,7 @@ export const lorcanaChapter3Cards = [
     name: "Flotsam, Boule puante",
     set: 3,
     color: "Emeraude",
-    image: C3_072,
+    image: "/cards/lorcana/chapter_3/C3_072.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1599,7 +1372,7 @@ export const lorcanaChapter3Cards = [
     name: "Frère Tuck, Prêtre de Nottingham",
     set: 3,
     color: "Emeraude",
-    image: C3_073,
+    image: "/cards/lorcana/chapter_3/C3_073.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1617,7 +1390,7 @@ export const lorcanaChapter3Cards = [
     name: "Helga Sinclair, Femme fatale",
     set: 3,
     color: "Emeraude",
-    image: C3_074,
+    image: "/cards/lorcana/chapter_3/C3_074.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -1635,7 +1408,7 @@ export const lorcanaChapter3Cards = [
     name: "Helga Sinclair, Partenaire vengeresse",
     set: 3,
     color: "Emeraude",
-    image: C3_075,
+    image: "/cards/lorcana/chapter_3/C3_075.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1653,7 +1426,7 @@ export const lorcanaChapter3Cards = [
     name: "Jetsam, Boule puante",
     set: 3,
     color: "Emeraude",
-    image: C3_076,
+    image: "/cards/lorcana/chapter_3/C3_076.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1671,7 +1444,7 @@ export const lorcanaChapter3Cards = [
     name: "Kit, Dur à cuire",
     set: 3,
     color: "Emeraude",
-    image: C3_077,
+    image: "/cards/lorcana/chapter_3/C3_077.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1689,7 +1462,7 @@ export const lorcanaChapter3Cards = [
     name: "Lyle Tiberius Rourke, Mercenaire fourbe",
     set: 3,
     color: "Emeraude",
-    image: C3_078,
+    image: "/cards/lorcana/chapter_3/C3_078.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -1707,7 +1480,7 @@ export const lorcanaChapter3Cards = [
     name: "Milo Thatch, Brillant cartographe",
     set: 3,
     color: "Emeraude",
-    image: C3_079,
+    image: "/cards/lorcana/chapter_3/C3_079.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1725,7 +1498,7 @@ export const lorcanaChapter3Cards = [
     name: "Milo Thatch, Roi de l'Atlantide",
     set: 3,
     color: "Emeraude",
-    image: C3_080,
+    image: "/cards/lorcana/chapter_3/C3_080.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -1743,7 +1516,7 @@ export const lorcanaChapter3Cards = [
     name: "Morph, Gluant de l'espace",
     set: 3,
     color: "Emeraude",
-    image: C3_081,
+    image: "/cards/lorcana/chapter_3/C3_081.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1761,7 +1534,7 @@ export const lorcanaChapter3Cards = [
     name: "Peter Pan, Chef des enfants perdus",
     set: 3,
     color: "Emeraude",
-    image: C3_082,
+    image: "/cards/lorcana/chapter_3/C3_082.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1779,7 +1552,7 @@ export const lorcanaChapter3Cards = [
     name: "Prince Jean, Roi de mauvais aloi",
     set: 3,
     color: "Emeraude",
-    image: C3_083,
+    image: "/cards/lorcana/chapter_3/C3_083.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1797,7 +1570,7 @@ export const lorcanaChapter3Cards = [
     name: "Robin des bois, Rêveur éveillé",
     set: 3,
     color: "Emeraude",
-    image: C3_084,
+    image: "/cards/lorcana/chapter_3/C3_084.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1815,7 +1588,7 @@ export const lorcanaChapter3Cards = [
     name: "Shenzi, Cheffe de meute des hyènes",
     set: 3,
     color: "Emeraude",
-    image: C3_085,
+    image: "/cards/lorcana/chapter_3/C3_085.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -1833,7 +1606,7 @@ export const lorcanaChapter3Cards = [
     name: "Triste Sire, Aspic envenimant",
     set: 3,
     color: "Emeraude",
-    image: C3_086,
+    image: "/cards/lorcana/chapter_3/C3_086.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1851,7 +1624,7 @@ export const lorcanaChapter3Cards = [
     name: "Bobby, Lapin énergique",
     set: 3,
     color: "Emeraude",
-    image: C3_087,
+    image: "/cards/lorcana/chapter_3/C3_087.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1869,7 +1642,7 @@ export const lorcanaChapter3Cards = [
     name: "Monsieur Starkey, Pirate sournois",
     set: 3,
     color: "Emeraude",
-    image: C3_088,
+    image: "/cards/lorcana/chapter_3/C3_088.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1887,7 +1660,7 @@ export const lorcanaChapter3Cards = [
     name: "Stitch, Agent sous couverture",
     set: 3,
     color: "Emeraude",
-    image: C3_089,
+    image: "/cards/lorcana/chapter_3/C3_089.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -1905,7 +1678,7 @@ export const lorcanaChapter3Cards = [
     name: "Ursulan, Embobineuse",
     set: 3,
     color: "Emeraude",
-    image: C3_090,
+    image: "/cards/lorcana/chapter_3/C3_090.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1923,7 +1696,7 @@ export const lorcanaChapter3Cards = [
     name: "Ursula, La plus perfide de toutes",
     set: 3,
     color: "Emeraude",
-    image: C3_091,
+    image: "/cards/lorcana/chapter_3/C3_091.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -1941,7 +1714,7 @@ export const lorcanaChapter3Cards = [
     name: "Turbo, Mécanicien",
     set: 3,
     color: "Emeraude",
-    image: C3_092,
+    image: "/cards/lorcana/chapter_3/C3_092.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1959,7 +1732,7 @@ export const lorcanaChapter3Cards = [
     name: "Zazu, Intendant de la terre des lions",
     set: 3,
     color: "Emeraude",
-    image: C3_093,
+    image: "/cards/lorcana/chapter_3/C3_093.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -1977,7 +1750,7 @@ export const lorcanaChapter3Cards = [
     name: "A touché mon coeuuuuurrr",
     set: 3,
     color: "Emeraude",
-    image: C3_094,
+    image: "/cards/lorcana/chapter_3/C3_094.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -1995,7 +1768,7 @@ export const lorcanaChapter3Cards = [
     name: "Je prends le chemin",
     set: 3,
     color: "Emeraude",
-    image: C3_095,
+    image: "/cards/lorcana/chapter_3/C3_095.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2013,7 +1786,7 @@ export const lorcanaChapter3Cards = [
     name: "Crois-moi j'ai vu pire",
     set: 3,
     color: "Emeraude",
-    image: C3_096,
+    image: "/cards/lorcana/chapter_3/C3_096.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2031,7 +1804,7 @@ export const lorcanaChapter3Cards = [
     name: "Aéro-Surf",
     set: 3,
     color: "Emeraude",
-    image: C3_097,
+    image: "/cards/lorcana/chapter_3/C3_097.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2049,7 +1822,7 @@ export const lorcanaChapter3Cards = [
     name: "Arc de robin",
     set: 3,
     color: "Emeraude",
-    image: C3_098,
+    image: "/cards/lorcana/chapter_3/C3_098.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2067,7 +1840,7 @@ export const lorcanaChapter3Cards = [
     name: "Fiole de lumière d'étoile",
     set: 3,
     color: "Emeraude",
-    image: C3_099,
+    image: "/cards/lorcana/chapter_3/C3_099.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2085,7 +1858,7 @@ export const lorcanaChapter3Cards = [
     name: "Le manoir d'enfer, Propriété de Cruella",
     set: 3,
     color: "Emeraude",
-    image: C3_100,
+    image: "/cards/lorcana/chapter_3/C3_100.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2103,7 +1876,7 @@ export const lorcanaChapter3Cards = [
     name: "Croc du dragon, Cité des rivière",
     set: 3,
     color: "Emeraude",
-    image: C3_101,
+    image: "/cards/lorcana/chapter_3/C3_101.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2121,7 +1894,7 @@ export const lorcanaChapter3Cards = [
     name: "Palais de Kuzco, Résidence de l'Empereur",
     set: 3,
     color: "Emeraude",
-    image: C3_102,
+    image: "/cards/lorcana/chapter_3/C3_102.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2139,7 +1912,7 @@ export const lorcanaChapter3Cards = [
     name: "Ariel, Collectionneuse intrépide",
     set: 3,
     color: "Rubis",
-    image: C3_103,
+    image: "/cards/lorcana/chapter_3/C3_103.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -2157,7 +1930,7 @@ export const lorcanaChapter3Cards = [
     name: "Billy Bones, Gardien de la carte",
     set: 3,
     color: "Rubis",
-    image: C3_104,
+    image: "/cards/lorcana/chapter_3/C3_104.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2175,7 +1948,7 @@ export const lorcanaChapter3Cards = [
     name: "Capitaine Crochet, Maître épéiste",
     set: 3,
     color: "Rubis",
-    image: C3_105,
+    image: "/cards/lorcana/chapter_3/C3_105.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2193,7 +1966,7 @@ export const lorcanaChapter3Cards = [
     name: "Della Duck, Mère inarrêtable",
     set: 3,
     color: "Rubis",
-    image: C3_106,
+    image: "/cards/lorcana/chapter_3/C3_106.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2211,7 +1984,7 @@ export const lorcanaChapter3Cards = [
     name: "Heihei, Explorateur accidentel",
     set: 3,
     color: "Rubis",
-    image: C3_107,
+    image: "/cards/lorcana/chapter_3/C3_107.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2229,7 +2002,7 @@ export const lorcanaChapter3Cards = [
     name: "L'hydre, Serpent mortel",
     set: 3,
     color: "Rubis",
-    image: C3_108,
+    image: "/cards/lorcana/chapter_3/C3_108.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -2247,7 +2020,7 @@ export const lorcanaChapter3Cards = [
     name: "Jim Hawkins, Voyageur de l'espace",
     set: 3,
     color: "Rubis",
-    image: C3_109,
+    image: "/cards/lorcana/chapter_3/C3_109.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -2265,7 +2038,7 @@ export const lorcanaChapter3Cards = [
     name: "Jim Hawkins, Cherche des sensations fortes",
     set: 3,
     color: "Rubis",
-    image: C3_110,
+    image: "/cards/lorcana/chapter_3/C3_110.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2283,7 +2056,7 @@ export const lorcanaChapter3Cards = [
     name: "Kakamora, Marin menaçant",
     set: 3,
     color: "Rubis",
-    image: C3_111,
+    image: "/cards/lorcana/chapter_3/C3_111.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2301,7 +2074,7 @@ export const lorcanaChapter3Cards = [
     name: "Madame Médusa, La patronne",
     set: 3,
     color: "Rubis",
-    image: C3_112,
+    image: "/cards/lorcana/chapter_3/C3_112.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -2319,7 +2092,7 @@ export const lorcanaChapter3Cards = [
     name: "Maui, Demi-dieu planant",
     set: 3,
     color: "Rubis",
-    image: C3_113,
+    image: "/cards/lorcana/chapter_3/C3_113.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2337,7 +2110,7 @@ export const lorcanaChapter3Cards = [
     name: "Maui, Baleine",
     set: 3,
     color: "Rubis",
-    image: C3_114,
+    image: "/cards/lorcana/chapter_3/C3_114.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2355,7 +2128,7 @@ export const lorcanaChapter3Cards = [
     name: "Milo Thatch, Savant intrépide",
     set: 3,
     color: "Rubis",
-    image: C3_115,
+    image: "/cards/lorcana/chapter_3/C3_115.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2373,7 +2146,7 @@ export const lorcanaChapter3Cards = [
     name: "Vaiana, Cheffe née",
     set: 3,
     color: "Rubis",
-    image: C3_116,
+    image: "/cards/lorcana/chapter_3/C3_116.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2391,7 +2164,7 @@ export const lorcanaChapter3Cards = [
     name: "Vaiana, Voyageuse jamais découragée",
     set: 3,
     color: "Rubis",
-    image: C3_117,
+    image: "/cards/lorcana/chapter_3/C3_117.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2409,7 +2182,7 @@ export const lorcanaChapter3Cards = [
     name: "Niquedouille, Sbire vautour",
     set: 3,
     color: "Rubis",
-    image: C3_118,
+    image: "/cards/lorcana/chapter_3/C3_118.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2427,7 +2200,7 @@ export const lorcanaChapter3Cards = [
     name: "Peter Pan, Héro du Pays Imaginaire",
     set: 3,
     color: "Rubis",
-    image: C3_119,
+    image: "/cards/lorcana/chapter_3/C3_119.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2445,7 +2218,7 @@ export const lorcanaChapter3Cards = [
     name: "Peter Pan, Fléau des pirates",
     set: 3,
     color: "Rubis",
-    image: C3_120,
+    image: "/cards/lorcana/chapter_3/C3_120.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2463,7 +2236,7 @@ export const lorcanaChapter3Cards = [
     name: "Prince Eric, Maître timonier",
     set: 3,
     color: "Rubis",
-    image: C3_121,
+    image: "/cards/lorcana/chapter_3/C3_121.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -2481,7 +2254,7 @@ export const lorcanaChapter3Cards = [
     name: "Scroop, Traître",
     set: 3,
     color: "Rubis",
-    image: C3_122,
+    image: "/cards/lorcana/chapter_3/C3_122.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2499,7 +2272,7 @@ export const lorcanaChapter3Cards = [
     name: "Simba, Lionceau bagarreur",
     set: 3,
     color: "Rubis",
-    image: C3_123,
+    image: "/cards/lorcana/chapter_3/C3_123.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2517,7 +2290,7 @@ export const lorcanaChapter3Cards = [
     name: "La Plume, Enfant perdu",
     set: 3,
     color: "Rubis",
-    image: C3_124,
+    image: "/cards/lorcana/chapter_3/C3_124.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2535,7 +2308,7 @@ export const lorcanaChapter3Cards = [
     name: "Stitch, Petite fusée",
     set: 3,
     color: "Rubis",
-    image: C3_125,
+    image: "/cards/lorcana/chapter_3/C3_125.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2553,7 +2326,7 @@ export const lorcanaChapter3Cards = [
     name: "Pendard, Tireur pas si précis que ça",
     set: 3,
     color: "Rubis",
-    image: C3_126,
+    image: "/cards/lorcana/chapter_3/C3_126.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2571,7 +2344,7 @@ export const lorcanaChapter3Cards = [
     name: "Zaza, Canette enthousiaste",
     set: 3,
     color: "Rubis",
-    image: C3_127,
+    image: "/cards/lorcana/chapter_3/C3_127.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2589,7 +2362,7 @@ export const lorcanaChapter3Cards = [
     name: "Bombardement en piqué !",
     set: 3,
     color: "Rubis",
-    image: C3_128,
+    image: "/cards/lorcana/chapter_3/C3_128.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2607,7 +2380,7 @@ export const lorcanaChapter3Cards = [
     name: "Moi, j'ai un rêve",
     set: 3,
     color: "Rubis",
-    image: C3_129,
+    image: "/cards/lorcana/chapter_3/C3_129.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2625,7 +2398,7 @@ export const lorcanaChapter3Cards = [
     name: "Debout ! Tout de suite !",
     set: 3,
     color: "Rubis",
-    image: C3_130,
+    image: "/cards/lorcana/chapter_3/C3_130.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2643,7 +2416,7 @@ export const lorcanaChapter3Cards = [
     name: "Voyage",
     set: 3,
     color: "Rubis",
-    image: C3_131,
+    image: "/cards/lorcana/chapter_3/C3_131.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2661,7 +2434,7 @@ export const lorcanaChapter3Cards = [
     name: "L'Hameçon de Maui",
     set: 3,
     color: "Rubis",
-    image: C3_132,
+    image: "/cards/lorcana/chapter_3/C3_132.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2679,7 +2452,7 @@ export const lorcanaChapter3Cards = [
     name: "Talisman Sumérien",
     set: 3,
     color: "Rubis",
-    image: C3_133,
+    image: "/cards/lorcana/chapter_3/C3_133.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2697,7 +2470,7 @@ export const lorcanaChapter3Cards = [
     name: "Agrabah, Place du marché",
     set: 3,
     color: "Rubis",
-    image: C3_134,
+    image: "/cards/lorcana/chapter_3/C3_134.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2715,7 +2488,7 @@ export const lorcanaChapter3Cards = [
     name: "Jolly Roger, Navire du Capitaine Crochet",
     set: 3,
     color: "Rubis",
-    image: C3_135,
+    image: "/cards/lorcana/chapter_3/C3_135.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2733,7 +2506,7 @@ export const lorcanaChapter3Cards = [
     name: "RLS Héritage, Galion solaire",
     set: 3,
     color: "Rubis",
-    image: C3_136,
+    image: "/cards/lorcana/chapter_3/C3_136.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2751,7 +2524,7 @@ export const lorcanaChapter3Cards = [
     name: "Audrey Ramirez, L'ingénieure",
     set: 3,
     color: "Saphir",
-    image: C3_137,
+    image: "/cards/lorcana/chapter_3/C3_137.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2769,7 +2542,7 @@ export const lorcanaChapter3Cards = [
     name: "Capitaine Amélia, Commande le vaisseau",
     set: 3,
     color: "Saphir",
-    image: C3_138,
+    image: "/cards/lorcana/chapter_3/C3_138.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2787,7 +2560,7 @@ export const lorcanaChapter3Cards = [
     name: "Fifi, Neveu frimeur",
     set: 3,
     color: "Saphir",
-    image: C3_139,
+    image: "/cards/lorcana/chapter_3/C3_139.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2805,7 +2578,7 @@ export const lorcanaChapter3Cards = [
     name: "Archibald Gripsou, Tricheur solitaire",
     set: 3,
     color: "Saphir",
-    image: C3_140,
+    image: "/cards/lorcana/chapter_3/C3_140.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2823,7 +2596,7 @@ export const lorcanaChapter3Cards = [
     name: "Génie, Coincé dans la lampe",
     set: 3,
     color: "Saphir",
-    image: C3_141,
+    image: "/cards/lorcana/chapter_3/C3_141.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2841,7 +2614,7 @@ export const lorcanaChapter3Cards = [
     name: "Grand-Mère Tala, Gardienne des histoires ancestrales",
     set: 3,
     color: "Saphir",
-    image: C3_142,
+    image: "/cards/lorcana/chapter_3/C3_142.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2859,7 +2632,7 @@ export const lorcanaChapter3Cards = [
     name: "Grand-Mère Tala, Esprit de l'océan",
     set: 3,
     color: "Saphir",
-    image: C3_143,
+    image: "/cards/lorcana/chapter_3/C3_143.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -2877,7 +2650,7 @@ export const lorcanaChapter3Cards = [
     name: "Géo Trouvetou, Génie des gadgets",
     set: 3,
     color: "Saphir",
-    image: C3_144,
+    image: "/cards/lorcana/chapter_3/C3_144.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2895,7 +2668,7 @@ export const lorcanaChapter3Cards = [
     name: "Riri, Neveu astucieux",
     set: 3,
     color: "Saphir",
-    image: C3_145,
+    image: "/cards/lorcana/chapter_3/C3_145.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -2913,7 +2686,7 @@ export const lorcanaChapter3Cards = [
     name: "Roi Louie, Chef de bande",
     set: 3,
     color: "Saphir",
-    image: C3_146,
+    image: "/cards/lorcana/chapter_3/C3_146.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2931,7 +2704,7 @@ export const lorcanaChapter3Cards = [
     name: "Kit, Copilote",
     set: 3,
     color: "Saphir",
-    image: C3_147,
+    image: "/cards/lorcana/chapter_3/C3_147.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -2949,7 +2722,7 @@ export const lorcanaChapter3Cards = [
     name: "Kit, Ourson intrépide",
     set: 3,
     color: "Saphir",
-    image: C3_148,
+    image: "/cards/lorcana/chapter_3/C3_148.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2967,7 +2740,7 @@ export const lorcanaChapter3Cards = [
     name: "Loulou, Neveu cool",
     set: 3,
     color: "Saphir",
-    image: C3_149,
+    image: "/cards/lorcana/chapter_3/C3_149.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -2985,7 +2758,7 @@ export const lorcanaChapter3Cards = [
     name: "Belle Marianne, Charmante rêveuse",
     set: 3,
     color: "Saphir",
-    image: C3_150,
+    image: "/cards/lorcana/chapter_3/C3_150.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3003,7 +2776,7 @@ export const lorcanaChapter3Cards = [
     name: "Mama Odie, Experte mystique",
     set: 3,
     color: "Saphir",
-    image: C3_151,
+    image: "/cards/lorcana/chapter_3/C3_151.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3021,7 +2794,7 @@ export const lorcanaChapter3Cards = [
     name: "Pluto, Ami futé de Mickey",
     set: 3,
     color: "Saphir",
-    image: C3_152,
+    image: "/cards/lorcana/chapter_3/C3_152.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3039,7 +2812,7 @@ export const lorcanaChapter3Cards = [
     name: "Rufus, Chat d'orphelinat",
     set: 3,
     color: "Saphir",
-    image: C3_153,
+    image: "/cards/lorcana/chapter_3/C3_153.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3057,7 +2830,7 @@ export const lorcanaChapter3Cards = [
     name: "Balthazar Picsou, Canard le plus riche du monde",
     set: 3,
     color: "Saphir",
-    image: C3_154,
+    image: "/cards/lorcana/chapter_3/C3_154.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -3075,7 +2848,7 @@ export const lorcanaChapter3Cards = [
     name: "Balthazar Picsou, Oncle plein aux as",
     set: 3,
     color: "Saphir",
-    image: C3_155,
+    image: "/cards/lorcana/chapter_3/C3_155.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3093,7 +2866,7 @@ export const lorcanaChapter3Cards = [
     name: "La Reine, Narcissique",
     set: 3,
     color: "Saphir",
-    image: C3_156,
+    image: "/cards/lorcana/chapter_3/C3_156.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3111,7 +2884,7 @@ export const lorcanaChapter3Cards = [
     name: "La fée clochette, Fée très maline",
     set: 3,
     color: "Saphir",
-    image: C3_157,
+    image: "/cards/lorcana/chapter_3/C3_157.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -3129,7 +2902,7 @@ export const lorcanaChapter3Cards = [
     name: "Wendy Darling, Autorité sur Peter Pan",
     set: 3,
     color: "Saphir",
-    image: C3_158,
+    image: "/cards/lorcana/chapter_3/C3_158.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -3147,7 +2920,7 @@ export const lorcanaChapter3Cards = [
     name: "Distraction",
     set: 3,
     color: "Saphir",
-    image: C3_159,
+    image: "/cards/lorcana/chapter_3/C3_159.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3165,7 +2938,7 @@ export const lorcanaChapter3Cards = [
     name: "Je suis ton meilleur ami",
     set: 3,
     color: "Saphir",
-    image: C3_160,
+    image: "/cards/lorcana/chapter_3/C3_160.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3183,7 +2956,7 @@ export const lorcanaChapter3Cards = [
     name: "Le Bleu lumière",
     set: 3,
     color: "Saphir",
-    image: C3_161,
+    image: "/cards/lorcana/chapter_3/C3_161.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3201,7 +2974,7 @@ export const lorcanaChapter3Cards = [
     name: "Réparation",
     set: 3,
     color: "Saphir",
-    image: C3_162,
+    image: "/cards/lorcana/chapter_3/C3_162.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3219,7 +2992,7 @@ export const lorcanaChapter3Cards = [
     name: "Gyroscope lumineux",
     set: 3,
     color: "Saphir",
-    image: C3_163,
+    image: "/cards/lorcana/chapter_3/C3_163.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3237,7 +3010,7 @@ export const lorcanaChapter3Cards = [
     name: "Le Coeur de Te Fiti",
     set: 3,
     color: "Saphir",
-    image: C3_164,
+    image: "/cards/lorcana/chapter_3/C3_164.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3255,7 +3028,7 @@ export const lorcanaChapter3Cards = [
     name: "Sou fétiche",
     set: 3,
     color: "Saphir",
-    image: C3_165,
+    image: "/cards/lorcana/chapter_3/C3_165.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -3273,7 +3046,7 @@ export const lorcanaChapter3Cards = [
     name: "Haut-de-forme de picsou",
     set: 3,
     color: "Saphir",
-    image: C3_166,
+    image: "/cards/lorcana/chapter_3/C3_166.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3291,7 +3064,7 @@ export const lorcanaChapter3Cards = [
     name: "Porte de coffre",
     set: 3,
     color: "Saphir",
-    image: C3_167,
+    image: "/cards/lorcana/chapter_3/C3_167.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3309,7 +3082,7 @@ export const lorcanaChapter3Cards = [
     name: "La maison de belle, Atelier de Maurice",
     set: 3,
     color: "Saphir",
-    image: C3_168,
+    image: "/cards/lorcana/chapter_3/C3_168.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3327,7 +3100,7 @@ export const lorcanaChapter3Cards = [
     name: "Le manoir de picsou, Résidence de Picsou",
     set: 3,
     color: "Saphir",
-    image: C3_169,
+    image: "/cards/lorcana/chapter_3/C3_169.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3345,7 +3118,7 @@ export const lorcanaChapter3Cards = [
     name: "Motunui, Île paradisiaque",
     set: 3,
     color: "Saphir",
-    image: C3_170,
+    image: "/cards/lorcana/chapter_3/C3_170.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3363,7 +3136,7 @@ export const lorcanaChapter3Cards = [
     name: "Tui - Fier de Motunui",
     set: 3,
     color: "Acier",
-    image: C3_171,
+    image: "/cards/lorcana/chapter_3/C3_171.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3381,7 +3154,7 @@ export const lorcanaChapter3Cards = [
     name: "Bourriquet - Âne trop rembourré",
     set: 3,
     color: "Acier",
-    image: C3_172,
+    image: "/cards/lorcana/chapter_3/C3_172.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3399,7 +3172,7 @@ export const lorcanaChapter3Cards = [
     name: "Gustave le Géant - Terreur du royaume",
     set: 3,
     color: "Acier",
-    image: C3_173,
+    image: "/cards/lorcana/chapter_3/C3_173.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3417,7 +3190,7 @@ export const lorcanaChapter3Cards = [
     name: "Hadès - Souverain enflammé",
     set: 3,
     color: "Acier",
-    image: C3_174,
+    image: "/cards/lorcana/chapter_3/C3_174.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3435,7 +3208,7 @@ export const lorcanaChapter3Cards = [
     name: "Helga Sinclair - Bras droit",
     set: 3,
     color: "Acier",
-    image: C3_175,
+    image: "/cards/lorcana/chapter_3/C3_175.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3453,7 +3226,7 @@ export const lorcanaChapter3Cards = [
     name: "John Silver - Chasseur de trésor avide",
     set: 3,
     color: "Acier",
-    image: C3_176,
+    image: "/cards/lorcana/chapter_3/C3_176.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3471,7 +3244,7 @@ export const lorcanaChapter3Cards = [
     name: "Kida - Guerrière royale",
     set: 3,
     color: "Acier",
-    image: C3_177,
+    image: "/cards/lorcana/chapter_3/C3_177.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3489,7 +3262,7 @@ export const lorcanaChapter3Cards = [
     name: "Petit Jean - Hors-la-loi plein de ressources",
     set: 3,
     color: "Acier",
-    image: C3_178,
+    image: "/cards/lorcana/chapter_3/C3_178.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -3507,7 +3280,7 @@ export const lorcanaChapter3Cards = [
     name: "Petit Jean - Compagnon de Robin",
     set: 3,
     color: "Acier",
-    image: C3_179,
+    image: "/cards/lorcana/chapter_3/C3_179.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3525,7 +3298,7 @@ export const lorcanaChapter3Cards = [
     name: "Lythos - Titan de pierre",
     set: 3,
     color: "Acier",
-    image: C3_180,
+    image: "/cards/lorcana/chapter_3/C3_180.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3543,7 +3316,7 @@ export const lorcanaChapter3Cards = [
     name: "Mickey Mouse - Vaillant explorateur",
     set: 3,
     color: "Acier",
-    image: C3_181,
+    image: "/cards/lorcana/chapter_3/C3_181.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3561,7 +3334,7 @@ export const lorcanaChapter3Cards = [
     name: "Mickey Mouse - Trompettiste",
     set: 3,
     color: "Acier",
-    image: C3_182,
+    image: "/cards/lorcana/chapter_3/C3_182.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -3579,7 +3352,7 @@ export const lorcanaChapter3Cards = [
     name: "Minnie - Spéléologue funky",
     set: 3,
     color: "Acier",
-    image: C3_183,
+    image: "/cards/lorcana/chapter_3/C3_183.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3597,7 +3370,7 @@ export const lorcanaChapter3Cards = [
     name: "Monsieur Mouche - Matelos empoté",
     set: 3,
     color: "Acier",
-    image: C3_184,
+    image: "/cards/lorcana/chapter_3/C3_184.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3615,7 +3388,7 @@ export const lorcanaChapter3Cards = [
     name: "Mufasa - Champion de la Terre des Lions",
     set: 3,
     color: "Acier",
-    image: C3_185,
+    image: "/cards/lorcana/chapter_3/C3_185.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3633,7 +3406,7 @@ export const lorcanaChapter3Cards = [
     name: "Nala - Amie farouche",
     set: 3,
     color: "Acier",
-    image: C3_186,
+    image: "/cards/lorcana/chapter_3/C3_186.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3651,7 +3424,7 @@ export const lorcanaChapter3Cards = [
     name: "Pyros - Titan de lave",
     set: 3,
     color: "Acier",
-    image: C3_187,
+    image: "/cards/lorcana/chapter_3/C3_187.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3669,7 +3442,7 @@ export const lorcanaChapter3Cards = [
     name: "Razoul - Garde du palais",
     set: 3,
     color: "Acier",
-    image: C3_188,
+    image: "/cards/lorcana/chapter_3/C3_188.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3687,7 +3460,7 @@ export const lorcanaChapter3Cards = [
     name: "Robin des Bois - Hors-la-loi adoré",
     set: 3,
     color: "Acier",
-    image: C3_189,
+    image: "/cards/lorcana/chapter_3/C3_189.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3705,7 +3478,7 @@ export const lorcanaChapter3Cards = [
     name: "Robin des Bois - Champion de Sherwood",
     set: 3,
     color: "Acier",
-    image: C3_190,
+    image: "/cards/lorcana/chapter_3/C3_190.png",
     number: "",
     rarity: "legendary",
     card_type: "",
@@ -3723,7 +3496,7 @@ export const lorcanaChapter3Cards = [
     name: "Shérif de Nottingham - Officiellement corrompu",
     set: 3,
     color: "Acier",
-    image: C3_191,
+    image: "/cards/lorcana/chapter_3/C3_191.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -3741,7 +3514,7 @@ export const lorcanaChapter3Cards = [
     name: "Simba - Prince combattif",
     set: 3,
     color: "Acier",
-    image: C3_192,
+    image: "/cards/lorcana/chapter_3/C3_192.png",
     number: "",
     rarity: "super-rare",
     card_type: "",
@@ -3759,7 +3532,7 @@ export const lorcanaChapter3Cards = [
     name: "Simba - Roi légitime",
     set: 3,
     color: "Acier",
-    image: C3_193,
+    image: "/cards/lorcana/chapter_3/C3_193.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3777,7 +3550,7 @@ export const lorcanaChapter3Cards = [
     name: "Gulliver Glas - Chef métallique",
     set: 3,
     color: "Acier",
-    image: C3_194,
+    image: "/cards/lorcana/chapter_3/C3_194.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3795,7 +3568,7 @@ export const lorcanaChapter3Cards = [
     name: "Quand soudain survint Zeus",
     set: 3,
     color: "Acier",
-    image: C3_195,
+    image: "/cards/lorcana/chapter_3/C3_195.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3813,7 +3586,7 @@ export const lorcanaChapter3Cards = [
     name: "Ba-boum !",
     set: 3,
     color: "Acier",
-    image: C3_196,
+    image: "/cards/lorcana/chapter_3/C3_196.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3831,7 +3604,7 @@ export const lorcanaChapter3Cards = [
     name: "L'Olympe, ce serait pas plutôt par là ?",
     set: 3,
     color: "Acier",
-    image: C3_197,
+    image: "/cards/lorcana/chapter_3/C3_197.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3849,7 +3622,7 @@ export const lorcanaChapter3Cards = [
     name: "Libérer les Titans",
     set: 3,
     color: "Acier",
-    image: C3_198,
+    image: "/cards/lorcana/chapter_3/C3_198.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3867,7 +3640,7 @@ export const lorcanaChapter3Cards = [
     name: "Rapière du Capitaine Crochet",
     set: 3,
     color: "Acier",
-    image: C3_199,
+    image: "/cards/lorcana/chapter_3/C3_199.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3885,7 +3658,7 @@ export const lorcanaChapter3Cards = [
     name: "Le costume de Robotik",
     set: 3,
     color: "Acier",
-    image: C3_200,
+    image: "/cards/lorcana/chapter_3/C3_200.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3903,7 +3676,7 @@ export const lorcanaChapter3Cards = [
     name: "Carte de la Planète au Trésor",
     set: 3,
     color: "Acier",
-    image: C3_201,
+    image: "/cards/lorcana/chapter_3/C3_201.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3921,7 +3694,7 @@ export const lorcanaChapter3Cards = [
     name: "Île d'exil de Maui - Rocher caché",
     set: 3,
     color: "Acier",
-    image: C3_202,
+    image: "/cards/lorcana/chapter_3/C3_202.png",
     number: "",
     rarity: "rare",
     card_type: "",
@@ -3939,7 +3712,7 @@ export const lorcanaChapter3Cards = [
     name: "Nottingham - Château du Prince Jean",
     set: 3,
     color: "Acier",
-    image: C3_203,
+    image: "/cards/lorcana/chapter_3/C3_203.png",
     number: "",
     rarity: "common",
     card_type: "",
@@ -3957,7 +3730,7 @@ export const lorcanaChapter3Cards = [
     name: "Le bayou - Marais mystérieux",
     set: 3,
     color: "Acier",
-    image: C3_204,
+    image: "/cards/lorcana/chapter_3/C3_204.png",
     number: "",
     rarity: "uncommon",
     card_type: "",
@@ -3975,7 +3748,7 @@ export const lorcanaChapter3Cards = [
     name: "Chernabog, Répand le mal",
     set: 3,
     color: "Ambre",
-    image: C3_205,
+    image: "/cards/lorcana/chapter_3/C3_205.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -3993,7 +3766,7 @@ export const lorcanaChapter3Cards = [
     name: "Kida, Protectrice de l'Atlantide",
     set: 3,
     color: "Ambre",
-    image: C3_206,
+    image: "/cards/lorcana/chapter_3/C3_206.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4011,7 +3784,7 @@ export const lorcanaChapter3Cards = [
     name: "La terre des lions, Le rocher des lions",
     set: 3,
     color: "Ambre",
-    image: C3_207,
+    image: "/cards/lorcana/chapter_3/C3_207.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4029,7 +3802,7 @@ export const lorcanaChapter3Cards = [
     name: "Jafar - Illusionniste ensorcelant",
     set: 3,
     color: "Améthyste",
-    image: C3_208,
+    image: "/cards/lorcana/chapter_3/C3_208.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4047,7 +3820,7 @@ export const lorcanaChapter3Cards = [
     name: "Maléfique - Maîtresse du Mal",
     set: 3,
     color: "Améthyste",
-    image: C3_209,
+    image: "/cards/lorcana/chapter_3/C3_209.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4065,7 +3838,7 @@ export const lorcanaChapter3Cards = [
     name: "Le chapeau de sorcier",
     set: 3,
     color: "Améthyste",
-    image: C3_210,
+    image: "/cards/lorcana/chapter_3/C3_210.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4083,7 +3856,7 @@ export const lorcanaChapter3Cards = [
     name: "Morph, Gluant de l'espace",
     set: 3,
     color: "Emeraude",
-    image: C3_211,
+    image: "/cards/lorcana/chapter_3/C3_211.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4101,7 +3874,7 @@ export const lorcanaChapter3Cards = [
     name: "Ursula, La plus perfide de toutes",
     set: 3,
     color: "Emeraude",
-    image: C3_212,
+    image: "/cards/lorcana/chapter_3/C3_212.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4119,7 +3892,7 @@ export const lorcanaChapter3Cards = [
     name: "Palais de Kuzco, Résidence de l'Empereur",
     set: 3,
     color: "Emeraude",
-    image: C3_213,
+    image: "/cards/lorcana/chapter_3/C3_213.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4137,7 +3910,7 @@ export const lorcanaChapter3Cards = [
     name: "Capitaine Crochet, Maître épéiste",
     set: 3,
     color: "Rubis",
-    image: C3_214,
+    image: "/cards/lorcana/chapter_3/C3_214.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4155,7 +3928,7 @@ export const lorcanaChapter3Cards = [
     name: "Peter Pan, Fléau des pirates",
     set: 3,
     color: "Rubis",
-    image: C3_215,
+    image: "/cards/lorcana/chapter_3/C3_215.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4173,7 +3946,7 @@ export const lorcanaChapter3Cards = [
     name: "RLS Héritage, Galion solaire",
     set: 3,
     color: "Rubis",
-    image: C3_216,
+    image: "/cards/lorcana/chapter_3/C3_216.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4191,7 +3964,7 @@ export const lorcanaChapter3Cards = [
     name: "Grand-Mère Tala, Esprit de l'océan",
     set: 3,
     color: "Saphir",
-    image: C3_217,
+    image: "/cards/lorcana/chapter_3/C3_217.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4209,7 +3982,7 @@ export const lorcanaChapter3Cards = [
     name: "Balthazar Picsou, Canard le plus riche du monde",
     set: 3,
     color: "Saphir",
-    image: C3_218,
+    image: "/cards/lorcana/chapter_3/C3_218.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4227,7 +4000,7 @@ export const lorcanaChapter3Cards = [
     name: "La maison de belle, Atelier de Maurice",
     set: 3,
     color: "Saphir",
-    image: C3_219,
+    image: "/cards/lorcana/chapter_3/C3_219.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4245,7 +4018,7 @@ export const lorcanaChapter3Cards = [
     name: "Mickey Mouse - Trompettiste",
     set: 3,
     color: "Acier",
-    image: C3_220,
+    image: "/cards/lorcana/chapter_3/C3_220.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4263,7 +4036,7 @@ export const lorcanaChapter3Cards = [
     name: "Robin des Bois - Champion de Sherwood",
     set: 3,
     color: "Acier",
-    image: C3_221,
+    image: "/cards/lorcana/chapter_3/C3_221.png",
     number: "",
     rarity: "enchanted",
     card_type: "",
@@ -4281,7 +4054,7 @@ export const lorcanaChapter3Cards = [
     name: "Quand soudain survint Zeus",
     set: 3,
     color: "Acier",
-    image: C3_222,
+    image: "/cards/lorcana/chapter_3/C3_222.png",
     number: "",
     rarity: "enchanted",
     card_type: "",

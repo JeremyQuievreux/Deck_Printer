@@ -2976,7 +2976,7 @@ export default [
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_166.png",
     number: 166,
-    rarity: "common",
+    rarity: "uncommon",
     card_type: "",
     cost: "",
     inkwell: "",
