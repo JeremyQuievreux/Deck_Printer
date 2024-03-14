@@ -1,7 +1,7 @@
 export default [
   {
     id: "C3-001",
-    name: "Baloo, von Bruinwald XIII",
+    name: "Baloo - von Bruinwald XIII",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_001.png",
@@ -19,7 +19,7 @@ export default [
   },
   {
     id: "C3-002",
-    name: "Bernard, Tout nouvel agent",
+    name: "Bernard - Tout nouvel agent",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_002.png",
@@ -37,7 +37,7 @@ export default [
   },
   {
     id: "C3-003",
-    name: "Chernabog, Répand le mal",
+    name: "Chernabog - Répand le mal",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_003.png",
@@ -55,7 +55,7 @@ export default [
   },
   {
     id: "C3-004a",
-    name: "Chiot Dalmatien",
+    name: "Chiot dalmatien - Frétille de joie",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_004a.png",
@@ -73,7 +73,7 @@ export default [
   },
   {
     id: "C3-004b",
-    name: "Chiot Dalmatien",
+    name: "Chiot dalmatien - Frétille de joie",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_004b.png",
@@ -91,7 +91,7 @@ export default [
   },
   {
     id: "C3-004c",
-    name: "Chiot Dalmatien",
+    name: "Chiot dalmatien - Frétille de joie",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_004c.png",
@@ -109,7 +109,7 @@ export default [
   },
   {
     id: "C3-004d",
-    name: "Chiot Dalmatien",
+    name: "Chiot dalmatien - Frétille de joie",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_004d.png",
@@ -127,7 +127,7 @@ export default [
   },
   {
     id: "C3-004e",
-    name: "Chiot Dalmatien",
+    name: "Chiot dalmatien - Frétille de joie",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_004e.png",
@@ -145,7 +145,7 @@ export default [
   },
   {
     id: "C3-005",
-    name: "Amadou Gentil, Le docteur",
+    name: "Amadou Gentil - Le docteur",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_005.png",
@@ -163,7 +163,7 @@ export default [
   },
   {
     id: "C3-006",
-    name: "Kida, Atlante",
+    name: "Kida - Atlante",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_006.png",
@@ -181,7 +181,7 @@ export default [
   },
   {
     id: "C3-007",
-    name: "Kida, Protectrice de l'Atlantide",
+    name: "Kida - Protectrice de l'Atlantide",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_007.png",
@@ -199,7 +199,7 @@ export default [
   },
   {
     id: "C3-008",
-    name: "Lucky, Le 15e chiot",
+    name: "Lucky - Le 15e chiot",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_008.png",
@@ -217,7 +217,7 @@ export default [
   },
   {
     id: "C3-009",
-    name: "Minnie, Artiste musicale",
+    name: "Minnie - Artiste musicale",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_009.png",
@@ -235,7 +235,7 @@ export default [
   },
   {
     id: "C3-010",
-    name: "Miss Bianca, Agente de SOS Sociète",
+    name: "Miss Bianca - Agente de SOS Sociète",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_010.png",
@@ -253,7 +253,7 @@ export default [
   },
   {
     id: "C3-011",
-    name: "Mr. Snoops",
+    name: "Mr. Snoops - Homme d'affaires inepte",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_011.png",
@@ -271,7 +271,7 @@ export default [
   },
   {
     id: "C3-012",
-    name: "Nani, Soeur protectrice",
+    name: "Nani - Soeur protectrice",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_012.png",
@@ -289,7 +289,7 @@ export default [
   },
   {
     id: "C3-013",
-    name: "Orville, As de l'aviation",
+    name: "Orville - As de l'aviation",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_013.png",
@@ -307,7 +307,7 @@ export default [
   },
   {
     id: "C3-014",
-    name: "Patch, Chiot intimidant",
+    name: "Patch - Chiot intimidant",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_014.png",
@@ -325,7 +325,7 @@ export default [
   },
   {
     id: "C3-015",
-    name: "Perdita, Mère dévouée",
+    name: "Perdita - Mère dévouée",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_015.png",
@@ -343,7 +343,7 @@ export default [
   },
   {
     id: "C3-016",
-    name: "Porcinet, Capitaine pirate de Winnie",
+    name: "Porcinet - Capitaine pirate de Winnie",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_016.png",
@@ -361,7 +361,7 @@ export default [
   },
   {
     id: "C3-017",
-    name: "Pluto, Protecteur déterminé",
+    name: "Pluto - Protecteur déterminé",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_017.png",
@@ -379,7 +379,7 @@ export default [
   },
   {
     id: "C3-018",
-    name: "Pluto, Gentil cabot",
+    name: "Pluto - Gentil cabot",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_018.png",
@@ -397,7 +397,7 @@ export default [
   },
   {
     id: "C3-019",
-    name: "Pongo, Père persévérant",
+    name: "Pongo - Père persévérant",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_019.png",
@@ -415,7 +415,7 @@ export default [
   },
   {
     id: "C3-020",
-    name: "La Reine de coeur",
+    name: "La Reine de Cœur - Impératrice du Pays des Merveilles",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_020.png",
@@ -433,7 +433,7 @@ export default [
   },
   {
     id: "C3-021",
-    name: "Rolly, Chiot affamé",
+    name: "Rolly - Chiot affamé",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_021.png",
@@ -451,7 +451,7 @@ export default [
   },
   {
     id: "C3-022",
-    name: "La fée clochette",
+    name: "La Fée Clochette - Fée généreuse",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_022.png",
@@ -469,7 +469,7 @@ export default [
   },
   {
     id: "C3-023",
-    name: "Wendy Darling, Talentueuse navigatrice",
+    name: "Wendy Darling - Talentueuse navigatrice",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_023.png",
@@ -631,7 +631,7 @@ export default [
   },
   {
     id: "C3-032",
-    name: "Le pays imaginaire, Lagune aux Sirènes",
+    name: "Le Pays Imaginaire - Lagune aux Sirènes",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_032.png",
@@ -649,7 +649,7 @@ export default [
   },
   {
     id: "C3-033",
-    name: "La terre des lions, Le rocher des lions",
+    name: "La terre des lions - Le rocher des lions",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_033.png",
@@ -667,7 +667,7 @@ export default [
   },
   {
     id: "C3-034",
-    name: "Chez Tiana, Restaurant de jazz",
+    name: "Chez Tiana - Restaurant de jazz",
     set: 3,
     color: "Ambre",
     image: "/cards/lorcana/chapter_3/C3_034.png",

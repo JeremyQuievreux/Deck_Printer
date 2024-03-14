@@ -1,7 +1,7 @@
 export default [
   {
     id: "C1-001",
-    name: "",
+    name: "Ariel - Sur des jambes humaines",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_001.png",
@@ -19,7 +19,7 @@ export default [
   },
   {
     id: "C1-002",
-    name: "",
+    name: "Ariel - Chanteuse exceptionnelle",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_002.png",
@@ -37,7 +37,7 @@ export default [
   },
   {
     id: "C1-003",
-    name: "",
+    name: "Cendrillon - Douce et charmante",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_003.png",
@@ -55,7 +55,7 @@ export default [
   },
   {
     id: "C1-004",
-    name: "",
+    name: "Dingo - Mousquetaire",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_004.png",
@@ -73,7 +73,7 @@ export default [
   },
   {
     id: "C1-005",
-    name: "",
+    name: "Hadès - Roi de l'Olympe",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_005.png",
@@ -91,7 +91,7 @@ export default [
   },
   {
     id: "C1-006",
-    name: "",
+    name: "Hadès - Seigneur des Enfers",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_006.png",
@@ -109,7 +109,7 @@ export default [
   },
   {
     id: "C1-007",
-    name: "",
+    name: "Heihei - Picoreur de bateau",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_007.png",
@@ -127,7 +127,7 @@ export default [
   },
   {
     id: "C1-008",
-    name: "",
+    name: "Le fou - Empoté",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_008.png",
@@ -145,7 +145,7 @@ export default [
   },
   {
     id: "C1-009",
-    name: "",
+    name: "Lilo - Faisant un vœu",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_009.png",
@@ -163,7 +163,7 @@ export default [
   },
   {
     id: "C1-010",
-    name: "",
+    name: "Maximus - Cheval du palais",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_010.png",
@@ -181,7 +181,7 @@ export default [
   },
   {
     id: "C1-011",
-    name: "",
+    name: "Maximus - Infatigable poursuivant",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_011.png",
@@ -199,7 +199,7 @@ export default [
   },
   {
     id: "C1-012",
-    name: "",
+    name: "Mickey Mouse - Véritable ami",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_012.png",
@@ -217,7 +217,7 @@ export default [
   },
   {
     id: "C1-013",
-    name: "",
+    name: "Minnie - Princesse adorée",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_013.png",
@@ -235,7 +235,7 @@ export default [
   },
   {
     id: "C1-014",
-    name: "",
+    name: "Vaiana - de Motunui",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_014.png",
@@ -253,7 +253,7 @@ export default [
   },
   {
     id: "C1-015",
-    name: "",
+    name: "Monsieur Mouche - Fidèle second",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_015.png",
@@ -271,7 +271,7 @@ export default [
   },
   {
     id: "C1-016",
-    name: "",
+    name: "Prince Philippe - Tueur de dragon",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_016.png",
@@ -289,7 +289,7 @@ export default [
   },
   {
     id: "C1-017",
-    name: "",
+    name: "Pumbaa - Poète qui sommeille",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_017.png",
@@ -307,7 +307,7 @@ export default [
   },
   {
     id: "C1-018",
-    name: "",
+    name: "Raiponce - Guérit les blessures",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_018.png",
@@ -325,7 +325,7 @@ export default [
   },
   {
     id: "C1-019",
-    name: "",
+    name: "Sébastien - Compositeur à la Cour",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_019.png",
@@ -343,7 +343,7 @@ export default [
   },
   {
     id: "C1-020",
-    name: "",
+    name: "Simba - Lionceau protecteur",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_020.png",
@@ -361,7 +361,7 @@ export default [
   },
   {
     id: "C1-021",
-    name: "",
+    name: "Stitch - Surfeur insouciant",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_021.png",
@@ -379,7 +379,7 @@ export default [
   },
   {
     id: "C1-022",
-    name: "",
+    name: "Stitch - Nouveau chien",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_022.png",
@@ -397,7 +397,7 @@ export default [
   },
   {
     id: "C1-023",
-    name: "",
+    name: "Stitch - Rock star",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_023.png",
@@ -415,7 +415,7 @@ export default [
   },
   {
     id: "C1-024",
-    name: "",
+    name: "Timon - Dénicheur de larves",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_024.png",
@@ -433,7 +433,7 @@ export default [
   },
   {
     id: "C1-025",
-    name: "",
+    name: "C'est la fête",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_025.png",
@@ -451,7 +451,7 @@ export default [
   },
   {
     id: "C1-026",
-    name: "",
+    name: "Très mauvais caractère !",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_026.png",
@@ -469,7 +469,7 @@ export default [
   },
   {
     id: "C1-027",
-    name: "",
+    name: "Hakuna Matata",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_027.png",
@@ -487,7 +487,7 @@ export default [
   },
   {
     id: "C1-028",
-    name: "",
+    name: "Lueur réparatrice",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_028.png",
@@ -505,7 +505,7 @@ export default [
   },
   {
     id: "C1-029",
-    name: "",
+    name: "Juste à temps",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_029.png",
@@ -523,7 +523,7 @@ export default [
   },
   {
     id: "C1-030",
-    name: "",
+    name: "Partir là-bas",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_030.png",
@@ -541,7 +541,7 @@ export default [
   },
   {
     id: "C1-031",
-    name: "",
+    name: "Tu m'as oublié",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_031.png",
@@ -559,7 +559,7 @@ export default [
   },
   {
     id: "C1-032",
-    name: "",
+    name: "Zirgouflex",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_032.png",
@@ -577,7 +577,7 @@ export default [
   },
   {
     id: "C1-033",
-    name: "",
+    name: "Lanterne",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_033.png",
@@ -595,7 +595,7 @@ export default [
   },
   {
     id: "C1-034",
-    name: "",
+    name: "Pendentif en coquillage d'Ursula",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_034.png",
@@ -613,7 +613,7 @@ export default [
   },
   {
     id: "C1-035",
-    name: "",
+    name: "Anna - Héritière d'Arendelle",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_035.png",
@@ -631,7 +631,7 @@ export default [
   },
   {
     id: "C1-036",
-    name: "",
+    name: "Archimède - Hibou extrêmement instruit",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_036.png",
@@ -649,7 +649,7 @@ export default [
   },
   {
     id: "C1-037",
-    name: "",
+    name: "Dr. Facilier - Agent provocateur",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_037.png",
@@ -667,7 +667,7 @@ export default [
   },
   {
     id: "C1-038",
-    name: "",
+    name: "Dr. Facilier - Charlatan",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_038.png",
@@ -685,7 +685,7 @@ export default [
   },
   {
     id: "C1-039",
-    name: "",
+    name: "Dr. Facilier - Étrange gentleman",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_039.png",
@@ -703,7 +703,7 @@ export default [
   },
   {
     id: "C1-040",
-    name: "",
+    name: "Elsa - Reine régente",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_040.png",
@@ -721,7 +721,7 @@ export default [
   },
   {
     id: "C1-041",
-    name: "",
+    name: "Elsa - Reine des Neiges",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_041.png",
@@ -739,7 +739,7 @@ export default [
   },
   {
     id: "C1-042",
-    name: "",
+    name: "Elsa - Esprit de l'hiver",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_042.png",
@@ -757,7 +757,7 @@ export default [
   },
   {
     id: "C1-043",
-    name: "",
+    name: "Flotsam - Espion d'Ursula",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_043.png",
@@ -775,7 +775,7 @@ export default [
   },
   {
     id: "C1-044",
-    name: "",
+    name: "Jafar - Gardien des Secrets",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_044.png",
@@ -793,7 +793,7 @@ export default [
   },
   {
     id: "C1-045",
-    name: "",
+    name: "Jafar - Sorcier maléfique",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_045.png",
@@ -811,7 +811,7 @@ export default [
   },
   {
     id: "C1-046",
-    name: "",
+    name: "Jetsam - Espion d'Ursula",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_046.png",
@@ -829,7 +829,7 @@ export default [
   },
   {
     id: "C1-047",
-    name: "",
+    name: "Balais magiques - Armés de seaux",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_047.png",
@@ -847,7 +847,7 @@ export default [
   },
   {
     id: "C1-048",
-    name: "",
+    name: "Maléfique - Attendant son heure",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_048.png",
@@ -865,7 +865,7 @@ export default [
   },
   {
     id: "C1-049",
-    name: "",
+    name: "Maléfique - Sorcière",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_049.png",
@@ -883,7 +883,7 @@ export default [
   },
   {
     id: "C1-050",
-    name: "",
+    name: "Guimauve - Gardien tenace",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_050.png",
@@ -901,7 +901,7 @@ export default [
   },
   {
     id: "C1-051",
-    name: "",
+    name: "Mickey Mouse - Sorcier renégat",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_051.png",
@@ -919,7 +919,7 @@ export default [
   },
   {
     id: "C1-052",
-    name: "",
+    name: "Olaf - Gentil bonhomme de neige",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_052.png",
@@ -937,7 +937,7 @@ export default [
   },
   {
     id: "C1-053",
-    name: "",
+    name: "Pascal - Compagnon de Raiponce",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_053.png",
@@ -955,7 +955,7 @@ export default [
   },
   {
     id: "C1-054",
-    name: "",
+    name: "Rafiki - Mystérieux sage",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_054.png",
@@ -973,7 +973,7 @@ export default [
   },
   {
     id: "C1-055",
-    name: "",
+    name: "Sven - Fournisseur officiel de glace",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_055.png",
@@ -991,7 +991,7 @@ export default [
   },
   {
     id: "C1-056",
-    name: "",
+    name: "La Reine - Vaniteuse et malfaisante",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_056.png",
@@ -1009,7 +1009,7 @@ export default [
   },
   {
     id: "C1-057",
-    name: "",
+    name: "Madame De Garderobe - Confidente de Belle",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_057.png",
@@ -1027,7 +1027,7 @@ export default [
   },
   {
     id: "C1-058",
-    name: "",
+    name: "La fée clochette - Alliée de Peter Pan",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_058.png",
@@ -1045,7 +1045,7 @@ export default [
   },
   {
     id: "C1-059",
-    name: "",
+    name: "Ursula - Assoiffée de pouvoir",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_059.png",
@@ -1063,7 +1063,7 @@ export default [
   },
   {
     id: "C1-060",
-    name: "",
+    name: "Yzma - Alchimiste",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_060.png",
@@ -1081,7 +1081,7 @@ export default [
   },
   {
     id: "C1-061",
-    name: "",
+    name: "Zeus - Dieu de la Foudre",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_061.png",
@@ -1099,7 +1099,7 @@ export default [
   },
   {
     id: "C1-062",
-    name: "",
+    name: "Emberlificotage",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_062.png",
@@ -1117,7 +1117,7 @@ export default [
   },
   {
     id: "C1-063",
-    name: "",
+    name: "Gel",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_063.png",
@@ -1135,7 +1135,7 @@ export default [
   },
   {
     id: "C1-064",
-    name: "",
+    name: "Mes amis de l'au-delà",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_064.png",
@@ -1153,7 +1153,7 @@ export default [
   },
   {
     id: "C1-065",
-    name: "",
+    name: "Réflexion",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_065.png",
@@ -1171,7 +1171,7 @@ export default [
   },
   {
     id: "C1-066",
-    name: "",
+    name: "Miroir magique",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_066.png",
@@ -1189,7 +1189,7 @@ export default [
   },
   {
     id: "C1-067",
-    name: "",
+    name: "Chaudron d'Ursula",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_067.png",
@@ -1207,7 +1207,7 @@ export default [
   },
   {
     id: "C1-068",
-    name: "",
+    name: "Montre à gousset",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_068.png",
@@ -1225,7 +1225,7 @@ export default [
   },
   {
     id: "C1-069",
-    name: "",
+    name: "Aladdin - Prince Ali",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_069.png",
@@ -1243,7 +1243,7 @@ export default [
   },
   {
     id: "C1-070",
-    name: "",
+    name: "La Bête - Fléau des loups",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_070.png",
@@ -1261,7 +1261,7 @@ export default [
   },
   {
     id: "C1-071",
-    name: "",
+    name: "Chat du Cheshire - N'a pas toujours toute sa tête",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_071.png",
@@ -1279,7 +1279,7 @@ export default [
   },
   {
     id: "C1-072",
-    name: "",
+    name: "Cruella D'enfer - Cruelle Diablesse",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_072.png",
@@ -1297,7 +1297,7 @@ export default [
   },
   {
     id: "C1-073",
-    name: "",
+    name: "Le Duc de Weselton - Dignitaire opportuniste",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_073.png",
@@ -1315,7 +1315,7 @@ export default [
   },
   {
     id: "C1-074",
-    name: "",
+    name: "Flynn Rider - Charmant voleur",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_074.png",
@@ -1333,7 +1333,7 @@ export default [
   },
   {
     id: "C1-075",
-    name: "",
+    name: "Génie - Fait le show",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_075.png",
@@ -1351,7 +1351,7 @@ export default [
   },
   {
     id: "C1-076",
-    name: "",
+    name: "Génie - Déchaîne ses pouvoirs",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_076.png",
@@ -1369,7 +1369,7 @@ export default [
   },
   {
     id: "C1-077",
-    name: "",
+    name: "Génie - À votre service",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_077.png",
@@ -1387,7 +1387,7 @@ export default [
   },
   {
     id: "C1-078",
-    name: "",
+    name: "Hans - Prince malfaisant",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_078.png",
@@ -1405,7 +1405,7 @@ export default [
   },
   {
     id: "C1-079",
-    name: "",
+    name: "Horace - Crapule bonne à rien",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_079.png",
@@ -1423,7 +1423,7 @@ export default [
   },
   {
     id: "C1-080",
-    name: "",
+    name: "Iago - Perroquet braillard",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_080.png",
@@ -1441,7 +1441,7 @@ export default [
   },
   {
     id: "C1-081",
-    name: "",
+    name: "Jasper - Petite frappe",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_081.png",
@@ -1459,7 +1459,7 @@ export default [
   },
   {
     id: "C1-082",
-    name: "",
+    name: "John Silver - Pirate extraterrestre",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_082.png",
@@ -1477,7 +1477,7 @@ export default [
   },
   {
     id: "C1-083",
-    name: "",
+    name: "Jumba Jookiba - Scientifique dissident",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_083.png",
@@ -1495,7 +1495,7 @@ export default [
   },
   {
     id: "C1-084",
-    name: "",
+    name: "Kuzco - Empereur pourri gâté",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_084.png",
@@ -1513,7 +1513,7 @@ export default [
   },
   {
     id: "C1-085",
-    name: "",
+    name: "Madame De Trémaine - Cruelle marâtre",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_085.png",
@@ -1531,7 +1531,7 @@ export default [
   },
   {
     id: "C1-086",
-    name: "",
+    name: "Le chapelier fou - Hôte courtois",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_086.png",
@@ -1549,7 +1549,7 @@ export default [
   },
   {
     id: "C1-087",
-    name: "",
+    name: "Mégara - Tireuse de ficelles",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_087.png",
@@ -1567,7 +1567,7 @@ export default [
   },
   {
     id: "C1-088",
-    name: "",
+    name: "Mickey Mouse - Bandit rusé",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_088.png",
@@ -1585,7 +1585,7 @@ export default [
   },
   {
     id: "C1-089",
-    name: "",
+    name: "Mickey Mouse - Pilote de bateau à vapeur",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_089.png",
@@ -1603,7 +1603,7 @@ export default [
   },
   {
     id: "C1-090",
-    name: "",
+    name: "Mère Gothel - Manipulatrice égoïste",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_090.png",
@@ -1621,7 +1621,7 @@ export default [
   },
   {
     id: "C1-091",
-    name: "",
+    name: "Peter Pan - Toujours dans les airs",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_091.png",
@@ -1639,7 +1639,7 @@ export default [
   },
   {
     id: "C1-092",
-    name: "",
+    name: "Tamatoa - Petit crabe triste",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_092.png",
@@ -1657,7 +1657,7 @@ export default [
   },
   {
     id: "C1-093",
-    name: "",
+    name: "La fée Clochette - La plus serviable",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_093.png",
@@ -1675,7 +1675,7 @@ export default [
   },
   {
     id: "C1-094",
-    name: "",
+    name: "Recommence !",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_094.png",
@@ -1693,7 +1693,7 @@ export default [
   },
   {
     id: "C1-095",
-    name: "",
+    name: "N'écoute que moi",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_095.png",
@@ -1711,7 +1711,7 @@ export default [
   },
   {
     id: "C1-096",
-    name: "",
+    name: "Ruée",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_096.png",
@@ -1729,7 +1729,7 @@ export default [
   },
   {
     id: "C1-097",
-    name: "",
+    name: "Voler aux riches",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_097.png",
@@ -1747,7 +1747,7 @@ export default [
   },
   {
     id: "C1-098",
-    name: "",
+    name: "Cruelle diablesse",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_098.png",
@@ -1765,7 +1765,7 @@ export default [
   },
   {
     id: "C1-099",
-    name: "",
+    name: "La Bête est à moi !",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_099.png",
@@ -1783,7 +1783,7 @@ export default [
   },
   {
     id: "C1-100",
-    name: "",
+    name: "Trahison brutale",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_100.png",
@@ -1801,7 +1801,7 @@ export default [
   },
   {
     id: "C1-101",
-    name: "",
+    name: "Cartes du Dr. Facilier",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_101.png",
@@ -1819,7 +1819,7 @@ export default [
   },
   {
     id: "C1-102",
-    name: "",
+    name: "Cimeterre volé",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_102.png",
@@ -1837,7 +1837,7 @@ export default [
   },
   {
     id: "C1-103",
-    name: "",
+    name: "Abu - Singe malicieux",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_103.png",
@@ -1855,7 +1855,7 @@ export default [
   },
   {
     id: "C1-104",
-    name: "",
+    name: "Aladdin - Hors-la-loi héroïque",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_104.png",
@@ -1873,7 +1873,7 @@ export default [
   },
   {
     id: "C1-105",
-    name: "",
+    name: "Aladdin - Vaurien",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_105.png",
@@ -1891,7 +1891,7 @@ export default [
   },
   {
     id: "C1-106",
-    name: "",
+    name: "Capitaine - Lieutenant du Colonel",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_106.png",
@@ -1909,7 +1909,7 @@ export default [
   },
   {
     id: "C1-107",
-    name: "",
+    name: "Capitaine Crochet - Pirate impitoyable",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_107.png",
@@ -1927,7 +1927,7 @@ export default [
   },
   {
     id: "C1-108",
-    name: "",
+    name: "Donald - Volatile colérique",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_108.png",
@@ -1945,7 +1945,7 @@ export default [
   },
   {
     id: "C1-109",
-    name: "",
+    name: "Elsa - Surfeuse des glaces",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_109.png",
@@ -1963,7 +1963,7 @@ export default [
   },
   {
     id: "C1-110",
-    name: "",
+    name: "Gaston - Chasseur arrogant",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_110.png",
@@ -1981,7 +1981,7 @@ export default [
   },
   {
     id: "C1-111",
-    name: "",
+    name: "Dingo - Tête brulée",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_111.png",
@@ -1999,7 +1999,7 @@ export default [
   },
   {
     id: "C1-112",
-    name: "",
+    name: "Le fou - Agitateur de foule",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_112.png",
@@ -2017,7 +2017,7 @@ export default [
   },
   {
     id: "C1-113",
-    name: "",
+    name: "Maléfique - Dragon monstrueux",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_113.png",
@@ -2035,7 +2035,7 @@ export default [
   },
   {
     id: "C1-114",
-    name: "",
+    name: "Maui - Idole des Hommes",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_114.png",
@@ -2053,7 +2053,7 @@ export default [
   },
   {
     id: "C1-115",
-    name: "",
+    name: "Mickey Mouse - Brave petit tailleur",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_115.png",
@@ -2071,7 +2071,7 @@ export default [
   },
   {
     id: "C1-116",
-    name: "",
+    name: "Minnie - Toujours élégante",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_116.png",
@@ -2089,7 +2089,7 @@ export default [
   },
   {
     id: "C1-117",
-    name: "",
+    name: "Vaiana - Choisie par l'Océan",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_117.png",
@@ -2107,7 +2107,7 @@ export default [
   },
   {
     id: "C1-118",
-    name: "",
+    name: "Mulan - Soldat impérial",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_118.png",
@@ -2125,7 +2125,7 @@ export default [
   },
   {
     id: "C1-119",
-    name: "",
+    name: "Peter Pan - Combattant intrépide",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_119.png",
@@ -2143,7 +2143,7 @@ export default [
   },
   {
     id: "C1-120",
-    name: "",
+    name: "Pongo - Sacripant",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_120.png",
@@ -2161,7 +2161,7 @@ export default [
   },
   {
     id: "C1-121",
-    name: "",
+    name: "Raiponce - Lançant sa chevelure",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_121.png",
@@ -2179,7 +2179,7 @@ export default [
   },
   {
     id: "C1-122",
-    name: "",
+    name: "Scar - Ardent usurpateur",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_122.png",
@@ -2197,7 +2197,7 @@ export default [
   },
   {
     id: "C1-123",
-    name: "",
+    name: "Scar - Fanatique sans scrupule",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_123.png",
@@ -2215,7 +2215,7 @@ export default [
   },
   {
     id: "C1-124",
-    name: "",
+    name: "Sergent Tibs - Chat courageux",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_124.png",
@@ -2233,7 +2233,7 @@ export default [
   },
   {
     id: "C1-125",
-    name: "",
+    name: "Stitch - Abominable créature",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_125.png",
@@ -2251,7 +2251,7 @@ export default [
   },
   {
     id: "C1-126",
-    name: "",
+    name: "TE KĀ - Démon de la Terre et du Feu",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_126.png",
@@ -2269,7 +2269,7 @@ export default [
   },
   {
     id: "C1-127",
-    name: "",
+    name: "Tigrou - Merveilleux d'être un tigrou",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_127.png",
@@ -2287,7 +2287,7 @@ export default [
   },
   {
     id: "C1-128",
-    name: "",
+    name: "Soyez prêtes !",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_128.png",
@@ -2305,7 +2305,7 @@ export default [
   },
   {
     id: "C1-129",
-    name: "",
+    name: "Droit au but",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_129.png",
@@ -2323,7 +2323,7 @@ export default [
   },
   {
     id: "C1-130",
-    name: "",
+    name: "Feu du dragon",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_130.png",
@@ -2341,7 +2341,7 @@ export default [
   },
   {
     id: "C1-131",
-    name: "",
+    name: "Attiser les flammes",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_131.png",
@@ -2359,7 +2359,7 @@ export default [
   },
   {
     id: "C1-132",
-    name: "",
+    name: "Il a un sabre !",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_132.png",
@@ -2377,7 +2377,7 @@ export default [
   },
   {
     id: "C1-133",
-    name: "",
+    name: "Enchevêtré",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_133.png",
@@ -2395,7 +2395,7 @@ export default [
   },
   {
     id: "C1-134",
-    name: "",
+    name: "Pomme empoisonnée",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_134.png",
@@ -2413,7 +2413,7 @@ export default [
   },
   {
     id: "C1-135",
-    name: "",
+    name: "Bouclier de vertu",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_135.png",
@@ -2431,7 +2431,7 @@ export default [
   },
   {
     id: "C1-136",
-    name: "",
+    name: "Épée de vérité",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_136.png",
@@ -2449,7 +2449,7 @@ export default [
   },
   {
     id: "C1-137",
-    name: "",
+    name: "Ariel - Collectionneuse de couics et de couacs",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_137.png",
@@ -2467,7 +2467,7 @@ export default [
   },
   {
     id: "C1-138",
-    name: "",
+    name: "Aurore - Rose",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_138.png",
@@ -2485,7 +2485,7 @@ export default [
   },
   {
     id: "C1-139",
-    name: "",
+    name: "Aurore - Gardienne rêveuse",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_139.png",
@@ -2503,7 +2503,7 @@ export default [
   },
   {
     id: "C1-140",
-    name: "",
+    name: "Aurore - Princesse Royale",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_140.png",
@@ -2521,7 +2521,7 @@ export default [
   },
   {
     id: "C1-141",
-    name: "",
+    name: "Belle - Inventrice",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_141.png",
@@ -2539,7 +2539,7 @@ export default [
   },
   {
     id: "C1-142",
-    name: "",
+    name: "Belle - Étrange demoiselle",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_142.png",
@@ -2557,7 +2557,7 @@ export default [
   },
   {
     id: "C1-143",
-    name: "",
+    name: "Tui - Chef respecté",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_143.png",
@@ -2575,7 +2575,7 @@ export default [
   },
   {
     id: "C1-144",
-    name: "",
+    name: "Donald - Inventeur fanfaron",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_144.png",
@@ -2593,7 +2593,7 @@ export default [
   },
   {
     id: "C1-145",
-    name: "",
+    name: "Polochon - La voix de la raison",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_145.png",
@@ -2611,7 +2611,7 @@ export default [
   },
   {
     id: "C1-146",
-    name: "",
+    name: "Grand-mère Tala - Conteuse",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_146.png",
@@ -2629,7 +2629,7 @@ export default [
   },
   {
     id: "C1-147",
-    name: "",
+    name: "Hadès - Conspirateur infernal",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_147.png",
@@ -2647,7 +2647,7 @@ export default [
   },
   {
     id: "C1-148",
-    name: "",
+    name: "Jasmine - Déguisée",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_148.png",
@@ -2665,7 +2665,7 @@ export default [
   },
   {
     id: "C1-149",
-    name: "",
+    name: "Jasmine - Reine d'Agrabah",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_149.png",
@@ -2683,7 +2683,7 @@ export default [
   },
   {
     id: "C1-150",
-    name: "",
+    name: "Maléfique - Sinistre visiteuse",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_150.png",
@@ -2701,7 +2701,7 @@ export default [
   },
   {
     id: "C1-151",
-    name: "",
+    name: "Maléfique - Indésirable",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_151.png",
@@ -2719,7 +2719,7 @@ export default [
   },
   {
     id: "C1-152",
-    name: "",
+    name: "Maurice - Le plus célèbre des inventeurs",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_152.png",
@@ -2737,7 +2737,7 @@ export default [
   },
   {
     id: "C1-153",
-    name: "",
+    name: "Merlin - Mentor autoproclamé",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_153.png",
@@ -2755,7 +2755,7 @@ export default [
   },
   {
     id: "C1-154",
-    name: "",
+    name: "Mickey Mouse - Détective",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_154.png",
@@ -2773,7 +2773,7 @@ export default [
   },
   {
     id: "C1-155",
-    name: "",
+    name: "Mufasa - Roi de la Terre des Lions",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_155.png",
@@ -2791,7 +2791,7 @@ export default [
   },
   {
     id: "C1-156",
-    name: "",
+    name: "Philoctète - Entraineur de héros",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_156.png",
@@ -2809,7 +2809,7 @@ export default [
   },
   {
     id: "C1-157",
-    name: "",
+    name: "Robin des Bois - Archer sans égal",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_157.png",
@@ -2827,7 +2827,7 @@ export default [
   },
   {
     id: "C1-158",
-    name: "",
+    name: "Scar - Manipulateur",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_158.png",
@@ -2845,7 +2845,7 @@ export default [
   },
   {
     id: "C1-159",
-    name: "",
+    name: "Tamatoa - Bling-bling",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_159.png",
@@ -2863,7 +2863,7 @@ export default [
   },
   {
     id: "C1-160",
-    name: "",
+    name: "Triton - Roi des Océans",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_160.png",
@@ -2881,7 +2881,7 @@ export default [
   },
   {
     id: "C1-161",
-    name: "",
+    name: "Développe ton cerveau",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_161.png",
@@ -2899,7 +2899,7 @@ export default [
   },
   {
     id: "C1-162",
-    name: "",
+    name: "Si c'est pas baroque...",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_162.png",
@@ -2917,7 +2917,7 @@ export default [
   },
   {
     id: "C1-163",
-    name: "",
+    name: "Libérée, délivrée",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_163.png",
@@ -2935,7 +2935,7 @@ export default [
   },
   {
     id: "C1-164",
-    name: "",
+    name: "Je vole",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_164.png",
@@ -2953,7 +2953,7 @@ export default [
   },
   {
     id: "C1-165",
-    name: "",
+    name: "Travail d'équipe",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_165.png",
@@ -2971,7 +2971,7 @@ export default [
   },
   {
     id: "C1-166",
-    name: "",
+    name: "Panier de noix de coco",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_166.png",
@@ -2989,7 +2989,7 @@ export default [
   },
   {
     id: "C1-167",
-    name: "",
+    name: "Œil des moires",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_167.png",
@@ -3007,7 +3007,7 @@ export default [
   },
   {
     id: "C1-168",
-    name: "",
+    name: "Plume en forme d'arête",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_168.png",
@@ -3025,7 +3025,7 @@ export default [
   },
   {
     id: "C1-169",
-    name: "",
+    name: "Fleur aux pétales d'or",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_169.png",
@@ -3043,7 +3043,7 @@ export default [
   },
   {
     id: "C1-170",
-    name: "",
+    name: "Sceptre d'Arendelle",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_170.png",
@@ -3061,7 +3061,7 @@ export default [
   },
   {
     id: "C1-171",
-    name: "",
+    name: "Aladdin - Hors-la-loi acculé",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_171.png",
@@ -3079,7 +3079,7 @@ export default [
   },
   {
     id: "C1-172",
-    name: "",
+    name: "La Bête - Colérique et aigrie",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_172.png",
@@ -3097,7 +3097,7 @@ export default [
   },
   {
     id: "C1-173",
-    name: "",
+    name: "Capitaine Crochet - Capitaine du Jolly Roger",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_173.png",
@@ -3115,12 +3115,12 @@ export default [
   },
   {
     id: "C1-174",
-    name: "common",
+    name: "Capitaine Crochet - Duelliste aguerri",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_174.png",
     number: 174,
-    rarity: "",
+    rarity: "common",
     card_type: "",
     cost: "",
     inkwell: "",
@@ -3133,7 +3133,7 @@ export default [
   },
   {
     id: "C1-175",
-    name: "",
+    name: "Capitaine Crochet - Rêve d'aventure",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_175.png",
@@ -3151,7 +3151,7 @@ export default [
   },
   {
     id: "C1-176",
-    name: "",
+    name: "Cerbère - Chien à trois têtes",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_176.png",
@@ -3169,7 +3169,7 @@ export default [
   },
   {
     id: "C1-177",
-    name: "",
+    name: "Donald - Mousquetaire",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_177.png",
@@ -3187,7 +3187,7 @@ export default [
   },
   {
     id: "C1-178",
-    name: "",
+    name: "Gantu - Capitaine de la Fédération Galactique",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_178.png",
@@ -3205,7 +3205,7 @@ export default [
   },
   {
     id: "C1-179",
-    name: "",
+    name: "Créatures - Sbires de Maléfique",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_179.png",
@@ -3223,7 +3223,7 @@ export default [
   },
   {
     id: "C1-180",
-    name: "",
+    name: "Hans - Treizième héritier",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_180.png",
@@ -3241,7 +3241,7 @@ export default [
   },
   {
     id: "C1-181",
-    name: "",
+    name: "Hercule - Vrai héros",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_181.png",
@@ -3259,7 +3259,7 @@ export default [
   },
   {
     id: "C1-182",
-    name: "",
+    name: "Kristoff - Maître glacier officiel",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_182.png",
@@ -3277,7 +3277,7 @@ export default [
   },
   {
     id: "C1-183",
-    name: "",
+    name: "Kronk - Fidèle bras droit",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_183.png",
@@ -3295,7 +3295,7 @@ export default [
   },
   {
     id: "C1-184",
-    name: "",
+    name: "Lilo - Héroïne galactique",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_184.png",
@@ -3313,7 +3313,7 @@ export default [
   },
   {
     id: "C1-185",
-    name: "",
+    name: "Maui - Demi-dieu",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_185.png",
@@ -3331,7 +3331,7 @@ export default [
   },
   {
     id: "C1-186",
-    name: "",
+    name: "Mickey Mouse - Mousquetaire",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_186.png",
@@ -3349,7 +3349,7 @@ export default [
   },
   {
     id: "C1-187",
-    name: "",
+    name: "Prince Eric - Fougueux et courageux",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_187.png",
@@ -3367,7 +3367,7 @@ export default [
   },
   {
     id: "C1-188",
-    name: "",
+    name: "Simba - Futur roi",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_188.png",
@@ -3385,7 +3385,7 @@ export default [
   },
   {
     id: "C1-189",
-    name: "",
+    name: "Simba - Roi de retour",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_189.png",
@@ -3403,7 +3403,7 @@ export default [
   },
   {
     id: "C1-190",
-    name: "",
+    name: "Simba - Héritier légitime",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_190.png",
@@ -3421,7 +3421,7 @@ export default [
   },
   {
     id: "C1-191",
-    name: "",
+    name: "Monsieur Starkey - Acolyte de Crochet",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_191.png",
@@ -3439,7 +3439,7 @@ export default [
   },
   {
     id: "C1-192",
-    name: "",
+    name: "TE KĀ - Sans cœur",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_192.png",
@@ -3457,7 +3457,7 @@ export default [
   },
   {
     id: "C1-193",
-    name: "",
+    name: "La Fée Clochette - Fée géante",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_193.png",
@@ -3475,7 +3475,7 @@ export default [
   },
   {
     id: "C1-194",
-    name: "",
+    name: "La Fée Clochette - Mini tacticienne",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_194.png",
@@ -3493,7 +3493,7 @@ export default [
   },
   {
     id: "C1-195",
-    name: "",
+    name: "Ce rêve bleu",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_195.png",
@@ -3511,7 +3511,7 @@ export default [
   },
   {
     id: "C1-196",
-    name: "",
+    name: "Déchiqueté",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_196.png",
@@ -3529,7 +3529,7 @@ export default [
   },
   {
     id: "C1-197",
-    name: "",
+    name: "Allumez les mêches !",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_197.png",
@@ -3547,7 +3547,7 @@ export default [
   },
   {
     id: "C1-198",
-    name: "",
+    name: "Tuons la bête !",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_198.png",
@@ -3565,7 +3565,7 @@ export default [
   },
   {
     id: "C1-199",
-    name: "",
+    name: "Sens dessus dessous",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_199.png",
@@ -3583,7 +3583,7 @@ export default [
   },
   {
     id: "C1-200",
-    name: "",
+    name: "Fracasser !",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_200.png",
@@ -3601,7 +3601,7 @@ export default [
   },
   {
     id: "C1-201",
-    name: "",
+    name: "Miroir de la Bête",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_201.png",
@@ -3619,7 +3619,7 @@ export default [
   },
   {
     id: "C1-202",
-    name: "",
+    name: "Poêle à frire",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_202.png",
@@ -3637,7 +3637,7 @@ export default [
   },
   {
     id: "C1-203",
-    name: "",
+    name: "Tabard de mousquetaire",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_203.png",
@@ -3655,7 +3655,7 @@ export default [
   },
   {
     id: "C1-204",
-    name: "",
+    name: "Pistolet à plasma",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_204.png",
@@ -3673,7 +3673,7 @@ export default [
   },
   {
     id: "C1-205",
-    name: "",
+    name: "Hades - Roi de l'Olympe",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_205.png",
@@ -3691,7 +3691,7 @@ export default [
   },
   {
     id: "C1-206",
-    name: "",
+    name: "Stitch - Surfer insouciantp",
     set: 1,
     color: "Ambre",
     image: "/cards/lorcana/chapter_1/C1_206.png",
@@ -3709,7 +3709,7 @@ export default [
   },
   {
     id: "C1-207",
-    name: "",
+    name: "Elsa - Esprit de l'hiver",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_207.png",
@@ -3727,7 +3727,7 @@ export default [
   },
   {
     id: "C1-208",
-    name: "",
+    name: "Mickey - Sorcier renégat",
     set: 1,
     color: "Améthyste",
     image: "/cards/lorcana/chapter_1/C1_208.png",
@@ -3745,7 +3745,7 @@ export default [
   },
   {
     id: "C1-209",
-    name: "",
+    name: "Génie - Fait le show",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_209.png",
@@ -3763,7 +3763,7 @@ export default [
   },
   {
     id: "C1-210",
-    name: "",
+    name: "Mickey Mouse - Bandit rusé",
     set: 1,
     color: "Emeraude",
     image: "/cards/lorcana/chapter_1/C1_210.png",
@@ -3781,7 +3781,7 @@ export default [
   },
   {
     id: "C1-211",
-    name: "",
+    name: "Aladdin - Hors-la-loi héroïque",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_211.png",
@@ -3799,7 +3799,7 @@ export default [
   },
   {
     id: "C1-212",
-    name: "",
+    name: "Maui - Idole des Hommes",
     set: 1,
     color: "Rubis",
     image: "/cards/lorcana/chapter_1/C1_212.png",
@@ -3817,7 +3817,7 @@ export default [
   },
   {
     id: "C1-213",
-    name: "",
+    name: "Aurore - Gardienne rêveuse",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_213.png",
@@ -3835,7 +3835,7 @@ export default [
   },
   {
     id: "C1-214",
-    name: "",
+    name: "Belle - Étrange demoiselle",
     set: 1,
     color: "Saphir",
     image: "/cards/lorcana/chapter_1/C1_214.png",
@@ -3853,7 +3853,7 @@ export default [
   },
   {
     id: "C1-215",
-    name: "",
+    name: "Simba - Roi de retour",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_215.png",
@@ -3871,7 +3871,7 @@ export default [
   },
   {
     id: "C1-216",
-    name: "",
+    name: "La fée Clochette - Fée géante",
     set: 1,
     color: "Acier",
     image: "/cards/lorcana/chapter_1/C1_216.png",

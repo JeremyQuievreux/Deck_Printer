@@ -1,7 +1,7 @@
 export default [
   {
     id: "C2-001",
-    name: "",
+    name: "Timide - Grand sentimental",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_001.png",
@@ -19,7 +19,7 @@ export default [
   },
   {
     id: "C2-002",
-    name: "",
+    name: "Jean-Christophe - Aventurier",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_002.png",
@@ -37,7 +37,7 @@ export default [
   },
   {
     id: "C2-003",
-    name: "",
+    name: "Cendrillon - Fait sensation au bal",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_003.png",
@@ -55,7 +55,7 @@ export default [
   },
   {
     id: "C2-004",
-    name: "",
+    name: "Cobra Bubbles - Simple éducateur",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_004.png",
@@ -73,7 +73,7 @@ export default [
   },
   {
     id: "C2-005",
-    name: "",
+    name: "Prof - Chef des Sept Nains",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_005.png",
@@ -91,7 +91,7 @@ export default [
   },
   {
     id: "C2-006",
-    name: "",
+    name: "Simplet - Toujours enjoué",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_006.png",
@@ -109,7 +109,7 @@ export default [
   },
   {
     id: "C2-007",
-    name: "",
+    name: "Eudora - Couturière accomplie",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_007.png",
@@ -127,7 +127,7 @@ export default [
   },
   {
     id: "C2-008",
-    name: "",
+    name: "Gaston - Brute et baryton",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_008.png",
@@ -145,7 +145,7 @@ export default [
   },
   {
     id: "C2-009",
-    name: "",
+    name: "Grand Duke - Conseiller du roi",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_009.png",
@@ -163,7 +163,7 @@ export default [
   },
   {
     id: "C2-010",
-    name: "",
+    name: "Grincheux - Sale caractère",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_010.png",
@@ -181,7 +181,7 @@ export default [
   },
   {
     id: "C2-011",
-    name: "",
+    name: "Joyeux - De nature joviale",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_011.png",
@@ -199,7 +199,7 @@ export default [
   },
   {
     id: "C2-012",
-    name: "",
+    name: "Roi Louie - La jungle est à ses pieds",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_012.png",
@@ -217,7 +217,7 @@ export default [
   },
   {
     id: "C2-013",
-    name: "",
+    name: "Mickey Mouse - Visage amical",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_013.png",
@@ -235,7 +235,7 @@ export default [
   },
   {
     id: "C2-014",
-    name: "",
+    name: "Mufasa - Roi trahi",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_014.png",
@@ -253,7 +253,7 @@ export default [
   },
   {
     id: "C2-015",
-    name: "",
+    name: "Mulan - Esprit libre",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_015.png",
@@ -271,7 +271,7 @@ export default [
   },
   {
     id: "C2-016",
-    name: "",
+    name: "Mulan - En pleine réflexion",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_016.png",
@@ -289,7 +289,7 @@ export default [
   },
   {
     id: "C2-017",
-    name: "",
+    name: "Nana - Chienne de la famille Darling",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_017.png",
@@ -307,7 +307,7 @@ export default [
   },
   {
     id: "C2-018",
-    name: "",
+    name: "Porcinet - Si petit animal",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_018.png",
@@ -325,7 +325,7 @@ export default [
   },
   {
     id: "C2-019",
-    name: "",
+    name: "Raiponce - Artiste douée",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_019.png",
@@ -343,7 +343,7 @@ export default [
   },
   {
     id: "C2-020",
-    name: "",
+    name: "Raiponce - Solaire",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_020.png",
@@ -361,7 +361,7 @@ export default [
   },
   {
     id: "C2-021",
-    name: "",
+    name: "Dormeur - Tombe de fatigue",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_021.png",
@@ -379,7 +379,7 @@ export default [
   },
   {
     id: "C2-022",
-    name: "",
+    name: "Atchoum - Très allergique",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_022.png",
@@ -397,7 +397,7 @@ export default [
   },
   {
     id: "C2-023",
-    name: "",
+    name: "Blanche-Neige - Perdue dans la forêt",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_023.png",
@@ -415,7 +415,7 @@ export default [
   },
   {
     id: "C2-024",
-    name: "",
+    name: "Blanche-Neige - Invitée inattendue",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_024.png",
@@ -433,7 +433,7 @@ export default [
   },
   {
     id: "C2-025",
-    name: "",
+    name: "Blanche-Neige - Fait un vœu",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_025.png",
@@ -451,7 +451,7 @@ export default [
   },
   {
     id: "C2-026",
-    name: "",
+    name: "La Reine - Autorité naturelle",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_026.png",
@@ -469,7 +469,7 @@ export default [
   },
   {
     id: "C2-027",
-    name: "",
+    name: "La Reine - Monarque absolue",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_027.png",
@@ -487,7 +487,7 @@ export default [
   },
   {
     id: "C2-028",
-    name: "",
+    name: "Ne bougez pas",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_028.png",
@@ -505,7 +505,7 @@ export default [
   },
   {
     id: "C2-029",
-    name: "",
+    name: "Ultime combat",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_029.png",
@@ -523,7 +523,7 @@ export default [
   },
   {
     id: "C2-030",
-    name: "",
+    name: "Peignons les roses en rouge",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_030.png",
@@ -541,7 +541,7 @@ export default [
   },
   {
     id: "C2-031",
-    name: "",
+    name: "Le Grand Génie du Mal",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_031.png",
@@ -559,7 +559,7 @@ export default [
   },
   {
     id: "C2-032",
-    name: "",
+    name: "De zéro en héros",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_032.png",
@@ -577,7 +577,7 @@ export default [
   },
   {
     id: "C2-033",
-    name: "",
+    name: "Pierre de Dragon",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_033.png",
@@ -595,7 +595,7 @@ export default [
   },
   {
     id: "C2-034",
-    name: "",
+    name: "Flûte de Dormeur",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_034.png",
@@ -3673,7 +3673,7 @@ export default [
   },
   {
     id: "C2-205",
-    name: "",
+    name: "Cendrillon - Fait sensation au bal",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_205.png",
@@ -3691,7 +3691,7 @@ export default [
   },
   {
     id: "C2-206",
-    name: "",
+    name: "Blanche-Neige - Fait un vœu",
     set: 2,
     color: "Ambre",
     image: "/cards/lorcana/chapter_2/C2_206.png",
