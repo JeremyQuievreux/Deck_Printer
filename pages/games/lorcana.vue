@@ -54,6 +54,13 @@
                         <p>Slot vide dans la derniere page : </p>
                         <p class="count-number">{{ 9 - (deckCardsCount % 9) == 9 ? 0 : 9 - (deckCardsCount % 9) }}</p>
                     </div>
+                    <div class="generate-back-input">
+                        <label for="generateBack">Générer page de dos</label>
+                        <input type="checkbox" name="generateBack" id="generateBack" v-model="generateBack">
+                    </div>
+                    <div class="generate-btn" @click="resetList()">
+                        Reset liste
+                    </div>
                 </div>
                 <div v-for="(card, index) in selectedCards" :key="index" class="deck-card-container">
                     <div class="deck-card-img">
@@ -77,6 +84,7 @@
 import lorcanaAllCards from '../data/lorcana/lorcanaAllCards.js';
 import { lorcanaSetsEnumeration, lorcanaColorsEnumeration, lorcanaRarityEnumeration } from '../data/enumeration';
 import { jsPDF } from 'jspdf'; 
+import backImageUrl from "/cards/lorcana/back-alt.png"
 export default {
     data() {
         return {
@@ -87,7 +95,9 @@ export default {
             lorcanaRarityEnumeration: lorcanaRarityEnumeration,
             selectedSet: "all",
             selectedColor: "all",
-            selectedRarity: "all"
+            selectedRarity: "all",
+            generateBack:false,
+            backImageUrl: backImageUrl,
         }
     },
     created() {
@@ -212,17 +222,19 @@ export default {
                     const y = marginTop + row * (cardHeight + verticalSpacing); // Position y de la carte
                     doc.addImage(selectedCards[j].image, 'PNG', x, y, cardWidth, cardHeight);
                 }
-                // // Ajouter une page vide après chaque page de cartes
-                // doc.addPage();
+                if (this.generateBack) {
+                    // Ajouter une page vide après chaque page de cartes
+                doc.addPage();
 
-                // // Ajouter neuf images du dos de la carte sur la page vide
-                // for (let k = 0; k < 3; k++) {
-                //     for (let l = 0; l < 3; l++) {
-                //         const x = marginLeft + k * (cardWidth + horizontalSpacing);
-                //         const y = marginTop + l * (cardHeight + verticalSpacing);
-                //         doc.addImage(this.backImageUrl, 'PNG', x, y, cardWidth, cardHeight);
-                //     }
-                // }
+                    // Ajouter neuf images du dos de la carte sur la page vide
+                    for (let k = 0; k < 3; k++) {
+                        for (let l = 0; l < 3; l++) {
+                            const x = marginLeft + k * (cardWidth + horizontalSpacing);
+                            const y = marginTop + l * (cardHeight + verticalSpacing);
+                            doc.addImage(this.backImageUrl, 'PNG', x, y, cardWidth, cardHeight);
+                        }
+                    }
+                }
 
                 pageNumber++;
             }
@@ -230,6 +242,9 @@ export default {
             // Enregistrement et téléchargement du PDF
             doc.save('Loracana_cards.pdf');
         },
+        resetList(){
+            this.selectedCards = []
+        }
     }
 }
 </script>
@@ -347,6 +362,13 @@ export default {
                     background-color: $primary;
                     border: 2px solid $tertiary;
                     border-radius: 15px;
+                }
+                .generate-back-input{
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin: 5px;
+                    padding: 0 35px 0 20px;
                 }
             }
             .deck-card-container{
