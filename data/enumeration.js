@@ -11,6 +11,10 @@ export const lorcanaSetsEnumeration = [
     label: "Chapitre 3 - Les terres d'encres",
     value: 3,
   },
+  {
+    label: "Chapitre 4 - Le retour de Ursula",
+    value: 4,
+  },
 ];
 export const lorcanaRarityEnumeration = [
   {
@@ -36,6 +40,10 @@ export const lorcanaRarityEnumeration = [
   {
     label: "Enchantée",
     value: "enchanted",
+  },
+  {
+    label: "Quête des Illumineurs",
+    value: "quest",
   },
 ];
 export const lorcanaColorsEnumeration = [
